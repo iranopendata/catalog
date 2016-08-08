@@ -1,0 +1,28 @@
+{
+  "name": "iod-datapackage-validator",
+  "version": "0.0.1",
+  "description": "Validator for the IOD data specification",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iranopendata/catalog.git"
+  },
+  "keywords": [
+    "open",
+    "data"
+  ],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/iranopendata/catalog/issues"
+  },
+  "homepage": "https://github.com/iranopendata/catalog#readme",
+  "dependencies": {
+    "ava": "^0.16.0",
+    "toml": "^2.3.0",
+    "tv4": "^1.2.7"
+  }
+}
