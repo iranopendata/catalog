@@ -15,8 +15,8 @@ This specification extends Data Packages to introduce multilingual fields, as we
 ```
 license = "PDDL-1.0"
 keywords = [ "GDP", "World", "Gross Domestic Product", "Time series"]
-created_at = "2016-07-27T21:36:26.161Z"
-updated_at = "2016-07-27T21:36:26.161Z"
+created_at = "2016-07-27"
+updated_at = "2016-07-27"
 period = [1993, 2005]
 frequency = "monthly"
 author = "Organization Name"
