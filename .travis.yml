@@ -1,19 +1,18 @@
 language: node_js
 node_js: '6.0'
 install:
-  - npm install
-  - cd validator && npm install
-  - cd ..
-
+- npm install
+- cd validator && npm install
+- cd ..
 script:
-  - npm test
-  - npm run build
-
+- npm test
+- npm run build
 deploy:
   provider: script
   skip_cleanup: true
-  script: ./build_scripts/deploy.sh
+  script: "./build_scripts/deploy.sh"
   on:
     branch: master
-  
-  
+env:
+  global:
+    secure: WJ4jqgU0XNS5EZ3dagpcetUBXnT7c6YAL9TPh+6gbAxnyseHNQ/LlkVULSUNH8F1XPhSoj6NWo3KNJ++Pnh/WCL4zPrlx6lRSSyCK/vOAtgo0m6BlBnpSeJkbAk+xdS6VwPRjT5egf5/dwp1n5bsmS5cMOimMj+S1tTONP0R1B4645w4PYmEHzuVLZqflhtrw3s7g7T3Z6DJetQeoSZ0MtAbUy8MSBzHwB3Yg4urqx6YOdhg0FPyct1tbw8lWmp1WCAqr0ZHX4Kgs3JUvgy2/e1msO7uNXedhwL07L0Tdqq0KXYx3p5bJKMvNl5EB7XRql2o8vNe8ym/3OWUOcfvyxKnRWL0QYAc18+128jnXiT8TJ1hBVA1HSHv2yB+nJ6fgpd4AefgP0ScgoZD6NuQ5osVmliraRTq6hRDEC1j5coCwb06Tb1rXH6Wx+YAI6Pu3BQ8DENgu22FNGMXxEaibsrqBfCgInSEtRbRQMgXB99N1TLKFzu+hHJypXwaVSa9Waj/cLlmOLLc0QqtVdj66DQM7Yn5kidxqtLfSufEh/T6QzNOaBHey1U2nAXrzIfzU4UcR+ACuWE5C453nwjEo17mZTd5dcQaD5Omowzoa589m0l9ftfpYfy1095YX7lx8DsnrWbd1bxnsLF3hjQ5QuMU4QfKFdu5+fLK10CyxyU=
