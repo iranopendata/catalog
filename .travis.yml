@@ -12,7 +12,7 @@ script:
 deploy:
   provider: script
   skip_cleanup: true
-  script: "./build_scripts/deploy.sh"
+  script: .build_scripts/deploy.sh
   on:
     branch: master
 env:
