@@ -1,5 +1,7 @@
 language: node_js
 node_js: '6.0'
+before_install:
+- chmod +x ./.build_scripts/deploy.sh
 install:
 - npm install
 - cd validator && npm install
