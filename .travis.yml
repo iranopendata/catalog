@@ -1,0 +1,19 @@
+language: node_js
+node_js: '6.0'
+install:
+  - npm install
+  - cd validator && npm install
+  - cd ..
+
+script:
+  - npm test
+  - npm run build
+
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: ./build_scripts/deploy.sh
+  on:
+    branch: master
+  
+  
