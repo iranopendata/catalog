@@ -1,7 +1,10 @@
-var tv4 = require('tv4');
-var toml = require('toml');
+const ajv = require('ajv');
+const toml = require('toml');
+
+const validator = new ajv();
 
 const spec = {
+  '$schema': 'http://json-schema.org/schema#',
   'definitions': {
     'lang': {
       'type': 'string',
@@ -26,20 +29,17 @@ const spec = {
       'pattern': "^([a-z0-9._-])+$"
     },
     'resource': {
-      'type': 'array',
-      'items': {
-        'type': 'object',
-        'properties': {
-          'name':  {$ref: '#/definitions/id'},
-          'title': {$ref: '#/definitions/i18n'},
-          'description': {$ref: '#/definitions/i18n'},
-          'schema': {
-            'type': 'object',
-            'oneOf': [
-              {'$ref': '#/definitions/csv'},
-              {'$ref': '#/definitions/other'}
-            ]
-          },
+      'type': 'object',
+      'properties': {
+        'name':  {$ref: '#/definitions/id'},
+        'title': {$ref: '#/definitions/i18n'},
+        'description': {$ref: '#/definitions/i18n'},
+        'schema': {
+          'type': 'object',
+          'oneOf': [
+            {'$ref': '#/definitions/csv'},
+            {'$ref': '#/definitions/other'}
+          ]
         },
       }
     },
@@ -58,6 +58,63 @@ const spec = {
           ]
         },
       },
+    },
+    'other': {
+      'type': 'object',
+      'properties': {
+        'format': {
+          'type': 'string',
+          'enum': ['XML', 'JSON']
+        }
+      }
+    }
+  },
+  'type': 'object',
+  'properties': {
+    'license': {
+      'type': 'string'
+    },
+    'keywords': {
+      'type': 'array',
+      'items': {
+        'type': 'string'
+      }
+    },
+    'created_at': {
+      'type': 'string',
+      'format': 'date'
+    },
+    'updated_at': {
+      'type': 'string',
+      'format': 'date'
+    },
+    'period': {
+      'type': 'array',
+      'minItems': 2,
+      'maxItems': 2,
+      'items': {
+        'type': 'number'
+      }
+    },
+    'frequency': {
+      'type': 'string',
+      'enum': ['daily', 'weekly', 'monthly', 'quarterly', 'yearly']
+    },
+    'author': {
+      'type': 'string'
+    },
+    'homepage': {
+      'type': 'string',
+      'format': 'uri'
+    },
+    'name': {
+      'type': 'string'
+    },
+    'title': {'$ref': '#/definitions/i18n'},
+    'description': {'$ref': '#/definitions/i18n'},
+    'resources': {
+      'type': 'array',
+      'items': {'$ref': '#/definitions/resource'}
     }
   }
 }
@@ -69,14 +126,14 @@ const spec = {
 module.exports = function validate(tomlStr) {
   try {
     const parsed = toml.parse(tomlStr);
-    var valid = tv4.validate(parsed, spec);
+    var valid = validator.validate(spec, parsed);
 
     if (!valid) {
-      console.error(tv4.error);
+      console.error(validator.errors);
     }
     return valid;
   }
   catch (e) {
-    throw new Error('Could not parse ' + filename);
+    throw new Error(e);
   }
 }

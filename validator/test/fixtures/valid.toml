@@ -1,7 +1,7 @@
 license = "PDDL-1.0"
 keywords = [ "GDP", "World", "Gross Domestic Product", "Time series"]
-created_at = "2016-07-27T21:36:26.161Z"
-updated_at = "2016-07-27T21:36:26.161Z"
+created_at = "2016-07-27"
+updated_at = "2016-07-27"
 period = [1993, 2005]
 frequency = "monthly"
 author = "Organization Name"
@@ -11,19 +11,19 @@ name = "gdp"
 
 [[title]]
 lang = "en"
-title = "Country, Regional and World GDP (Gross Domestic Product)"
+text = "Country, Regional and World GDP (Gross Domestic Product)"
 
 [[title]]
 lang = "fa"
-title = "Country, Regional and World GDP (Gross Domestic Product)"
+text = "Country, Regional and World GDP (Gross Domestic Product)"
 
 [[description]]
 lang = "fa"
-description = "Country, regional and world GDP in current US Dollars ($). Regional means collections of countries e.g. Europe & Central Asia. Data is sourced from the World Bank and turned into a standard normalized CSV."
+text = "Country, regional and world GDP in current US Dollars ($). Regional means collections of countries e.g. Europe & Central Asia. Data is sourced from the World Bank and turned into a standard normalized CSV."
 
 [[description]]
 lang = "en"
-description = "Country, regional and world GDP in current US Dollars ($). Regional means collections of countries e.g. Europe & Central Asia. Data is sourced from the World Bank and turned into a standard normalized CSV."
+text = "Country, regional and world GDP in current US Dollars ($). Regional means collections of countries e.g. Europe & Central Asia. Data is sourced from the World Bank and turned into a standard normalized CSV."
 
 
 [[resources]]
@@ -33,11 +33,11 @@ description = "Country, regional and world GDP in current US Dollars ($). Region
 
   [[resources.title]]
   lang = "en"
-  title = "Country, Regional and World GDP (Gross Domestic Product)"
+  text = "Country, Regional and World GDP (Gross Domestic Product)"
 
   [[resources.title]]
   lang = "fa"
-  title = "Country, Regional and World GDP (Gross Domestic Product)"
+  text = "Country, Regional and World GDP (Gross Domestic Product)"
 
   [resources.schema]
   format = "csv"
