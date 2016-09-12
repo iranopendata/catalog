@@ -4,6 +4,7 @@ created_at = "2016-07-27"
 updated_at = "2016-07-27"
 period = [1993, 2005]
 frequency = "monthly"
+category= "Economic Sectors"
 author = "Organization Name"
 homepage = "http://example.com/dataset/"
 

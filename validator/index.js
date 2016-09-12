@@ -74,6 +74,25 @@ const spec = {
     'license': {
       'type': 'string'
     },
+    'category': {
+      'type': 'string',
+      'enum': ['Population',
+               'Natural Resources and Energy',
+               'Employment and Household Economy',
+               'Women',
+               'Economic Sectors',
+               'Banking and Finance',
+               'Budget and Government Spending',
+               'Housing',
+               'Transport',
+               'Trade',
+               'Health Sector Performance',
+               'Education',
+               'Crime and Social Pathology',
+               'Environment',
+               'Communications']
+
+    },
     'keywords': {
       'type': 'array',
       'items': {
