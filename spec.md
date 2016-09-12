@@ -20,6 +20,7 @@ updated_at = "2016-07-27"
 period = [1993, 2005]
 frequency = "monthly"
 author = "Organization Name"
+category = "Economic Sectors"
 homepage = "http://example.com/dataset/"
 
 name = "gdp"
