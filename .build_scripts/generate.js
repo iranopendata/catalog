@@ -37,11 +37,16 @@ datasets.forEach(function (dataset) {
   } else {
     throw new Error(`Dataset ${id} does not have a unique id. Aborting`);
   }
-  var listing = {'name': id,
-                 'created_at': parsedData.created_at,
-                 'title': parsedData.title,
-                 'author': parsedData.author
-                };
+  var listing = {
+    'name': id,
+    'updated_at': parsedData.updated_at,
+    'title': parsedData.title,
+    'description': parsedData.description,
+    'period': parsedData.period,
+    'source': parsedData.resources[0].sources[0].name, // We only use the first source
+    'category': parsedData.category,
+    'format': parsedData.resources[0].schema.format // We only consider one resource
+  };
 
   index.datasets.push(listing);
 });
