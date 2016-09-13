@@ -6,7 +6,6 @@ period = [1993, 2005]
 frequency = "monthly"
 category= "Economic Sectors"
 author = "Organization Name"
-homepage = "http://example.com/dataset/"
 
 name = "gdp"
 
@@ -40,6 +39,10 @@ text = "Country, regional and world GDP in current US Dollars ($). Regional mean
   lang = "fa"
   text = "Country, Regional and World GDP (Gross Domestic Product)"
 
+  [[resources.sources]]
+  name = "World Bank and OECD"
+  web = "http://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
+
   [resources.schema]
   format = "csv"
 
@@ -58,18 +61,3 @@ text = "Country, regional and world GDP in current US Dollars ($). Regional mean
       [[resources.schema.fields]]
       name = "Value"
       type = "number"
-
-[[resources]]
-  name = "gdp-market-prices"
-  url = "http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=xml"
-
-  [[resources.title]]
-  lang = "fa"
-  text = "GDP at market prices (current US$)"
-
-  [[resources.title]] 
-  lang = "en"
-  text = "GDP at market prices (current US$)"
-
-  [resources.schema]
-  format = "XML"
