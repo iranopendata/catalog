@@ -7,9 +7,10 @@
     "keywords",
     "license",
     "category",
-    "created_at",
     "updated_at",
+    "indexed_at",
     "period",
+    "maintainer",
     "author"
   ],
   "definitions": {
@@ -135,6 +136,10 @@
       "type": "string",
       "format": "date"
     },
+    "indexed_at": {
+      "type": "string",
+      "format": "date"
+    },
     "period": {
       "type": "array",
       "minItems": 2,
@@ -147,7 +152,8 @@
       "type": "string",
       "enum": ["daily", "weekly", "monthly", "quarterly", "yearly"]
     },
-    "author": {
+    "author": {"$ref": "#/definitions/source"},
+    "maintainer": {
       "type": "string"
     },
     "homepage": {

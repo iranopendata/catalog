@@ -20,8 +20,11 @@
   },
   "homepage": "https://github.com/iranopendata/catalog#readme",
   "dependencies": {
+    "ajv": "^4.7.1",
     "ava": "^0.16.0",
-    "opn-cli": "^3.1.0",
     "toml": "^2.3.0"
+  },
+  "devDependencies": {
+    "opn-cli": "^3.1.0"
   }
 }

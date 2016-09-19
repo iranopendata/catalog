@@ -1,13 +1,16 @@
-license = "PDDL-1.0"
-keywords = [ "Education", "Literature", "Censorship"]
-created_at = "2016-09-13"
-updated_at = "2016-09-13"
-period = [1979, 2015]
+name = "writersblock"
+license = "CC-BY-NC"
+keywords = [ "education", "books", "publication", "author"]
+updated_at = "2016-09-19"
+indexed_at = "2016-09-19"
+period = [1981, 2016]
 frequency = "monthly"
 category= "Education"
-author = "Small Media Foundation"
+maintainer = "Small Media Foundation"
 
-name = "writersblock"
+[author]
+name = "Iran Book House"
+web = "http://ketab.ir"
 
 [[title]]
 lang = "en"
@@ -24,7 +27,6 @@ text = "Over 880,000 books extracted from the Iran Book House website. The Iran 
 [[description]]
 lang = "en"
 text = "Over 880,000 books extracted from the Iran Book House website. The Iran Book House maintains a database of all the published books that get sent to the National Library."
-
 
 [[resources]]
 
@@ -40,8 +42,8 @@ text = "Over 880,000 books extracted from the Iran Book House website. The Iran 
   text = "Database"
 
   [[resources.sources]]
-  name = "Iran Book House"
-  web = "http://ketab.ir"
+  name = "Iran Book House Search"
+  web = "http://ketab.ir/modules.php?name=News&op=infobooksearch"
 
   [resources.schema]
   format = "csv"
