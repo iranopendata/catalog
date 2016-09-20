@@ -304,11 +304,11 @@ indexed_at = "2016-09-19"
 period = [1981, 2016] 
 frequency = "monthly"
 category= "Education
-maintainer = "Small
+maintainer = "Small Media Foundation"
 
 [author]
 name = "Iran Book 
-web = "http://ket
+web = "http://ketab.ir"
 
 [[title]]
 lang = "en" 
