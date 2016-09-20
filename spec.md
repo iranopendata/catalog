@@ -295,7 +295,7 @@ format = "csv"
 ```
 
 ### Example
-```
+```toml
 name = "writersblock"
 license = "CC-BY-NC"
 keywords = [ "education", "books", "publication", "author"]
