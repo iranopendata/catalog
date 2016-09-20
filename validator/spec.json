@@ -56,6 +56,10 @@
           "type": "string",
           "format": "uri"
         },
+        "code": {
+          "type": "string",
+          "format": "uri"
+        },
         "description": {"$ref": "#/definitions/i18n"},
         "sources": {
           "type": "array",

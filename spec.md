@@ -197,6 +197,16 @@ URL pointing to clean resource data (such as a processed CSV)
 url = "http://example.com/csv" 
 ```
 
+### code
+**OPTIONAL**
+
+- `type: URL string`
+
+URL pointing to code that processed the raw data into clean data to produce this resource.
+```
+code = "http://github.com/examplerepo"
+```
+
 ### title
 **REQUIRED**
 
