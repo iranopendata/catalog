@@ -88,7 +88,7 @@ period = [1981, 2016]
 
 - `type: string`
 
-How often will this dataset is updated. Values can be daily, monthly, quarterly, yearly
+How often will this dataset is updated. Values can be daily, weekly, monthly, quarterly, yearly
 ```
 frequency = "monthly"
 ```
@@ -214,6 +214,26 @@ text = "Database"
 [[resources.title]]
 lang = "fa"
 text = "Database"
+```
+
+### description
+**OPTIONAL**
+
+- `type: Array of description object`
+
+- `description.lang: string`
+- `description.text: string`
+
+An array of descriptions for further description of the resource or the process. The language and translated text should be specified. The lang can be "en" or "fa".
+```
+[[description]]
+lang = "fa"
+text = "CSV extracted from the Iran Book House search and index."
+
+[[description]]
+lang = "en"
+text = "CSV extracted from the Iran Book House search and index."
+
 ```
 
 ### sources
