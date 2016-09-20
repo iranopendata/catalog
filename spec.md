@@ -307,7 +307,7 @@ category= "Education"
 maintainer = "Small Media Foundation"
 
 [author]
-name = "Iran Book 
+name = "Iran Book House"
 web = "http://ketab.ir"
 
 [[title]]
