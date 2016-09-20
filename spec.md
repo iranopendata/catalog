@@ -13,79 +13,84 @@ This specification extends Data Packages to introduce multilingual fields, as we
 
 ### Example
 ```
-license = "PDDL-1.0"
-keywords = [ "GDP", "World", "Gross Domestic Product", "Time series"]
-created_at = "2016-07-27"
-updated_at = "2016-07-27"
-period = [1993, 2005]
-frequency = "monthly"
-author = "Organization Name"
-category = "Economic Sectors"
-homepage = "http://example.com/dataset/"
+name = "writersblock" # A unique identifier
+license = "CC-BY-NC" # A string describing the license
+keywords = [ "education", "books", "publication", "author"] # An array of strings
+updated_at = "2016-09-19" # The date this dataset was updated 
+indexed_at = "2016-09-19" # The date this dataset was added to IOD
+period = [1981, 2016] # The period of time this covers. If it's the same year, repeat the year twice (e.g [2016, 2016])
+frequency = "monthly" # can be daily, monthly, quarterly, yearly
+category= "Education" # check issues/2 for all categories
+maintainer = "Small Media Foundation" # A string describing the mainterner
 
-name = "gdp"
+# The author is an object that has a name and a web (URL)
+[author]
+name = "Iran Book House" # Name of the author of the data
+web = "http://ketab.ir" # a URL pointing to the homepage
 
+# The title is an array of objects
+# Each object has lang and text keys
 [[title]]
-lang = "en"
-title = "Country, Regional and World GDP (Gross Domestic Product)"
+lang = "en" 
+text = "Dataset of books from Iran Book House" 
 
 [[title]]
 lang = "fa"
-title = "Country, Regional and World GDP (Gross Domestic Product)"
+text = "Dataset of books from Iran Book House"
 
+# The description is an array of objects
+# Each object has lang and text keys
 [[description]]
 lang = "fa"
-description = "Country, regional and world GDP in current US Dollars ($). Regional means collections of countries e.g. Europe & Central Asia. Data is sourced from the World Bank and turned into a standard normalized CSV."
+text = "Over 880,000 books extracted from the Iran Book House website. The Iran Book House maintains a database of all the published books that get sent to the National Library."
 
 [[description]]
 lang = "en"
-description = "Country, regional and world GDP in current US Dollars ($). Regional means collections of countries e.g. Europe & Central Asia. Data is sourced from the World Bank and turned into a standard normalized CSV."
+text = "Over 880,000 books extracted from the Iran Book House website. The Iran Book House maintains a database of all the published books that get sent to the National Library."
 
-
+# resources is an array of resource objects
+# A resource has a url, title, sources and schema
 [[resources]]
 
-  url = "https://raw.github.com/datasets/gdp/master/data/gdp.csv"
-  name = "gdp"
+  url = "http://example.com/csv" # A URL pointing to the data
 
+  # The title is an array of objects
+  # Each object has lang and text keys
   [[resources.title]]
-  lang = "en"
-  title = "Country, Regional and World GDP (Gross Domestic Product)"
+  lang = "en" 
+  text = "Database"
 
   [[resources.title]]
   lang = "fa"
-  title = "Country, Regional and World GDP (Gross Domestic Product)"
+  text = "Database"
 
+  # The sources is an array of objects
+  # Each source object has a name and web (url)
+  [[resources.sources]]
+  name = "Iran Book House Search" # Name of the source data
+  web = "http://ketab.ir/modules.php?name=News&op=infobooksearch" # URL pointing to the raw source
+
+  # The schema is an object that has a format
+  # If the format is CSV, it should have a key named fields
+  # fields is an array of field objects each having a name and type
   [resources.schema]
   format = "csv"
 
+      # Fields is an array of objects
+      # Each field has a name and type
       [[resources.schema.fields]]
-      name = "Country Name"
+      name = "Author"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Country Code"
+      name = "Publisher"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Title"
       type = "string"
 
       [[resources.schema.fields]]
       name = "Year"
       type = "date"
-
-      [[resources.schema.fields]]
-      name = "Value"
-      type = "number"
-
-[[resources]]
-  name = "gdp-market-prices"
-  url = "http://api.worldbank.org/v2/en/indicator/NY.GDP.MKTP.CD?downloadformat=xml"
-
-  [[resources.title]]
-  lang = "fa"
-  text = "GDP at market prices (current US$)"
-
-  [[resources.title]] 
-  lang = "en"
-  text = "GDP at market prices (current US$)"
-
-  [resources.schema]
-  format = "XML"
 ```
