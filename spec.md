@@ -303,7 +303,7 @@ updated_at = "2016-09-19"
 indexed_at = "2016-09-19" 
 period = [1981, 2016] 
 frequency = "monthly"
-category= "Education
+category= "Education"
 maintainer = "Small Media Foundation"
 
 [author]
