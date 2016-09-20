@@ -51,9 +51,12 @@
       "type": "object",
       "required": ["title", "url", "sources", "schema"],
       "properties": {
-        "name":  {"$ref": "#/definitions/id"},
         "title": {"$ref": "#/definitions/i18n"},
         "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "code": {
           "type": "string",
           "format": "uri"
         },
@@ -155,10 +158,6 @@
     "author": {"$ref": "#/definitions/source"},
     "maintainer": {
       "type": "string"
-    },
-    "homepage": {
-      "type": "string",
-      "format": "uri"
     },
     "name": {"$ref": "#/definitions/id"},
     "title": {"$ref": "#/definitions/i18n"},
