@@ -22,6 +22,7 @@
   "dependencies": {
     "ajv": "^4.7.1",
     "ava": "^0.16.0",
+    "request": "^2.75.0",
     "toml": "^2.3.0"
   },
   "devDependencies": {
