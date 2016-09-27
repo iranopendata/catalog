@@ -1,3 +1,4 @@
 node_modules
 dev-doc
 dist
+.build_scripts/ids.txt

@@ -54,21 +54,21 @@ created_at = "2016-09-19"
 ```
 
 ### updated_at
-**REQUIRED**
+**AUTOMATIC**
 
 - `type: date string`
 
-Date the dataset was last updated, should be at least equal or greater to the date added to IOD `indexed_at`
+Date the dataset was last updated, should be at least equal or greater to the date added to IOD `indexed_at`. This is added automatically by the API.
 ```
 updated_at = "2016-09-19"
 ```
 
 ### indexed_at
-**REQUIRED**
+**AUTOMATIC**
 
 - `type: date string`
 
-Date the dataset was added to the Iran Open Data catalog
+Date the dataset was added to the Iran Open Data catalog. This is added automatically by the API.
 ```
 indexed_at = "2016-09-19"
 ```
