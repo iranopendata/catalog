@@ -1,4 +1,4 @@
-name = "gdp-example"
+name = "gdp"
 license = "PDDL-1.0"
 keywords = [ "GDP", "World", "Gross Domestic Product", "Time series"]
 period = [1993, 2005]
