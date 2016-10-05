@@ -1,0 +1,64 @@
+name = "mhmelih16"
+license = "CC-BY-NC"
+keywords = [ "hospital", "Iran", "list", "health"]
+period = [1993, 2005]
+frequency = "yearly"
+category= "Health"
+maintainer = "Small Media Foundation"
+
+[author]
+name = "Ministry of Health and Medical Education"
+web = "http://www.behdasht.gov.ir/"
+
+[[title]]
+lang = "en"
+text = "List of Iran's hospitals"
+
+[[title]]
+lang = "fa"
+text = "لیست بیمارستان‌‌های ایران "
+
+[[description]]
+lang = "fa"
+text = ".لیست بیمارستان‌های ایران به تفکیک شهری و استانی، آدرس و شماره تلفن "
+
+[[description]]
+lang = "en"
+text = "The list of the hospitals in Iran, disaggregated by province and cities with their address and telephone number."
+
+
+[[resources]]
+
+  url = "https://raw.github.com/datasets/gdp/master/data/gdp.csv"
+  name = "mhmelih16"
+
+  [[resources.title]]
+  lang = "en"
+  text = "List of Iran's hospitals"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "لیست بیمارستان‌‌های ایران"
+
+  [[resources.sources]]
+  name = "World Bank and OECD"
+  web = "http://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Country Name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Country Code"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year"
+      type = "date"
+
+      [[resources.schema.fields]]
+      name = "Value"
+      type = "number"
