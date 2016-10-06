@@ -1,0 +1,64 @@
+name = "NOCRCD1693"
+license = "CC-BY-NC"
+keywords = [ "death", "causes", "Iran", "diseases"]
+updated_at = "2016-09-19" 
+indexed_at = "2016-09-19" 
+period = [1981, 2016] 
+frequency = "monthly"
+category= "Education"
+maintainer = "Small Media Foundation"
+
+[author]
+name = "Iran Book House"
+web = "http://ketab.ir"
+
+[[title]]
+lang = "en" 
+text = "Dataset of books from Iran Book House" 
+
+[[title]]
+lang = "fa"
+text = "Dataset of books from Iran Book House"
+
+[[description]]
+lang = "fa"
+text = "Over 880,000 books extracted from the Iran Book House website. The Iran Book House maintains a database of all the published books that get sent to the National Library."
+
+[[description]]
+lang = "en"
+text = "Over 880,000 books extracted from the Iran Book House website. The Iran Book House maintains a database of all the published books that get sent to the National Library."
+
+[[resources]]
+
+  url = "http://example.com/csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Database"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "Database"
+
+  [[resources.sources]]
+  name = "Iran Book House Search" 
+  web = "http://ketab.ir/modules.php?name=News&op=infobooksearch" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Author"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Publisher"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Title"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year"
+      type = "date"
