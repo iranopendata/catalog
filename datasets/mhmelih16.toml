@@ -7,12 +7,12 @@ category= "Health"
 maintainer = "Small Media Foundation"
 
 [author]
-name = "National Organisation for Civil Registration"
-web = "https://www.sabteahval.ir/"
+name = "Ministry of Health and Medical Education"
+web = "http://www.behdasht.gov.ir/"
 
 [[title]]
 lang = "en"
-text = ""
+text = "List of Iran's hospitals"
 
 [[title]]
 lang = "fa"
