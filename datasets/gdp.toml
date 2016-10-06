@@ -4,7 +4,7 @@ keywords = [ "GDP", "World", "Gross Domestic Product", "Time series"]
 period = [1993, 2005]
 frequency = "monthly"
 category= "Economic Sectors"
-maintainer = "Small Media Foundation"
+
 
 [author]
 name = "World Bank Group"
