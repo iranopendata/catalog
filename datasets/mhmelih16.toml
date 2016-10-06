@@ -1,18 +1,18 @@
 name = "mhmelih16"
 license = "CC-BY-NC"
 keywords = [ "hospital", "Iran", "list", "health"]
-period = [1993, 2005]
+period = [1393, 1393]
 frequency = "yearly"
 category= "Health"
 maintainer = "Small Media Foundation"
 
 [author]
-name = "Ministry of Health and Medical Education"
-web = "http://www.behdasht.gov.ir/"
+name = "National Organisation for Civil Registration"
+web = "https://www.sabteahval.ir/"
 
 [[title]]
 lang = "en"
-text = "List of Iran's hospitals"
+text = ""
 
 [[title]]
 lang = "fa"
