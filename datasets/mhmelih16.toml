@@ -3,7 +3,7 @@ license = "CC-BY-NC"
 keywords = [ "hospital", "Iran", "list", "health"]
 period = [1392, 1392]
 frequency = "yearly"
-category= "Health"
+category= "Health Sector Performance"
 maintainer = "Small Media Foundation"
 
 [author]
@@ -16,7 +16,7 @@ text = "List of Iran's hospitals"
 
 [[title]]
 lang = "fa"
-text = "لیست بیمارستان‌‌های ایران "
+text = "لیست بیمارستان‌های ایران"
 
 [[description]]
 lang = "fa"
@@ -38,7 +38,7 @@ text = "The list of the hospitals in Iran, disaggregated by province and cities 
 
   [[resources.title]]
   lang = "fa"
-  text = "لیست بیمارستان‌‌های ایران"
+  text = "لیست بیمارستان‌های ایران"
 
   [[resources.sources]]
   name = "World Bank and OECD"
