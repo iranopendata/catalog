@@ -57,7 +57,7 @@ text = "The list of the hospitals in Iran, disaggregated by province and cities 
 
       [[resources.schema.fields]]
       name = "Year"
-      type = "date"
+      type = "number"
 
       [[resources.schema.fields]]
       name = "Value"
