@@ -18,7 +18,8 @@ const datasets = files.filter((file) => file.endsWith('.toml'));
 /* Process list of changed datasets*/ 
 const changed = fs.readFileSync(path.join(__dirname, 'ids.txt'))
   .toString()
-  .split('\n');
+  .split('\n')
+  .map( (input) => (input.substr(0, input.lastIndexOf('.')) || input) );
 
 /* Initial index stub */ 
 var index = {

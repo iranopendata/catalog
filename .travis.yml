@@ -7,7 +7,7 @@ install:
 - cd validator && npm install
 - cd ..
 script:
-- git diff HEAD~1 --name-only | grep datasets | xargs -n1 basename > .build_scripts/ids.txt
+- git diff HEAD~1 --name-only | grep datasets > .build_scripts/ids.txt
 - npm test
 - npm run build
 deploy:
