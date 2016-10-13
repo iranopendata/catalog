@@ -9,24 +9,24 @@ category= "Education"
 maintainer = "Small Media Foundation"
 
 [author]
-name = "Iran Book House"
-web = "http://ketab.ir"
+name = "Statistical Centre of Iran"
+web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf"
 
 [[title]]
 lang = "en" 
-text = "Dataset of books from Iran Book House" 
+text = "Registered death by casues of death and provinces" 
 
 [[title]]
 lang = "fa"
-text = "Dataset of books from Iran Book House"
+text = "فوت‌های ثبت‌شده بر حسب علت فوت به تفکیک استانی "
 
 [[description]]
 lang = "fa"
-text = "Over 880,000 books extracted from the Iran Book House website. The Iran Book House maintains a database of all the published books that get sent to the National Library."
+text = "این مجموعه داده از جدول شماره ۱۱ در صفحه ۲۳۴ و ۲۳۵ از سالنامه آمارهای جمعیتی سازمان ثبت احوال کشور ۱۳۹۳ استخراج شده است.   "
 
 [[description]]
 lang = "en"
-text = "Over 880,000 books extracted from the Iran Book House website. The Iran Book House maintains a database of all the published books that get sent to the National Library."
+text = "This dataset has been extracted from table 11 on page 234 and 235 of 1393 annual report of National Organisation for Civil Registration "
 
 [[resources]]
 
