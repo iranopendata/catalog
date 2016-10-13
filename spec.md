@@ -74,7 +74,7 @@ indexed_at = "2016-09-19"
 ```
 
 ### period
-**REQUIRED**
+**OPTIONAL**
 
 - `type: Array of two numbers`
 
@@ -84,7 +84,7 @@ period = [1981, 2016]
 ```
 
 ### frequency 
-**REQUIRED**
+**OPTIONAL**
 
 - `type: string`
 
