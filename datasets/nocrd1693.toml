@@ -3,13 +3,13 @@ license = "CC-BY-NC"
 keywords = [ "death", "causes", "Iran", "diseases"]
  
 indexed_at = "2016-09-19" 
-period = [1981, 2016] 
+period = [1393, 1393] 
 frequency = "monthly"
 category= "Health Sector Performance"
 maintainer = "Small Media Foundation"
 
 [author]
-name = "Statistical Centre of Iran"
+name = "National Organisation for Civil Registration"
 web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf"
 
 [[title]]
@@ -41,8 +41,8 @@ text = "This dataset has been extracted from table 11 on page 234 and 235 of 139
   text = "Database"
 
   [[resources.sources]]
-  name = "Iran Book House Search" 
-  web = "http://ketab.ir/modules.php?name=News&op=infobooksearch" 
+  name = "National Organisation for Civil Registration" 
+  web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf" 
 
   [resources.schema]
   format = "csv"
