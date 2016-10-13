@@ -5,7 +5,7 @@ keywords = [ "death", "causes", "Iran", "diseases"]
 indexed_at = "2016-09-19" 
 period = [1981, 2016] 
 frequency = "monthly"
-category= "Education"
+category= "Health Sector Performance"
 maintainer = "Small Media Foundation"
 
 [author]
