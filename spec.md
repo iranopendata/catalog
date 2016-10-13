@@ -78,9 +78,9 @@ indexed_at = "2016-09-19"
 
 - `type: Array of two numbers`
 
-The period of time this dataset covers. If it's the same year, repeat the year twice (e.g [2016, 2016])
+The period of time this dataset covers. This should follow the Iranian calendar dates. If it's the same year, repeat the year twice (e.g [1392, 1392])
 ```
-period = [1981, 2016]
+period = [1358, 1392]
 ```
 
 ### frequency 
