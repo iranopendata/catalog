@@ -1,8 +1,8 @@
 name = "mhmelih16"
 license = "CC-BY-NC"
 keywords = [ "hospital", "Iran", "list", "health"]
-period = [1392, 1392]
-frequency = "yearly"
+period = 
+frequency = 
 category= "Health Sector Performance"
 maintainer = "Small Media Foundation"
 
