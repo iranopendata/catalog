@@ -12,7 +12,7 @@ web = "http://www.behdasht.gov.ir/"
 
 [[title]]
 lang = "en"
-text = "List of Iran's hospitals"
+text = "Hospitals in Iran"
 
 [[title]]
 lang = "fa"
@@ -24,7 +24,7 @@ text = ".لیست بیمارستان‌های ایران به تفکیک شهر�
 
 [[description]]
 lang = "en"
-text = "The list of the hospitals in Iran, disaggregated by province and cities with their address and telephone number."
+text = "An index of Iranian hospitals. This dataset is disaggregated by province and city, and hospitals are listed with their address and telephone number as well as their specialty, capacity."
 
 
 [[resources]]
