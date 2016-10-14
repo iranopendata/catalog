@@ -99,4 +99,3 @@ text = "The list of the hospitals in Iran, disaggregated by province and cities 
      [[resources.schema.fields]] 
      name = "email"
      typr = "string"
-
