@@ -42,8 +42,8 @@ text = "An index of Iranian hospitals. This dataset is disaggregated by province
   text = "لیست بیمارستان‌های ایران"
 
   [[resources.sources]]
-  name = "World Bank and OECD"
-  web = "http://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
+  name = "Ministry of Health and Medical Education"
+  web = "http://avab.behdasht.gov.ir/hospital/"
 
   [resources.schema]
   format = "csv"
