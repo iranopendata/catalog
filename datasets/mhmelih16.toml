@@ -1,8 +1,8 @@
 name = "mhmelih16"
 license = "CC-BY-NC"
 keywords = [ "hospital", "Iran", "list", "health"]
-period = 
-frequency = 
+period = [1392, 1392]
+frequency = "yearly"
 category= "Health Sector Performance"
 maintainer = "Small Media Foundation"
 
@@ -12,7 +12,7 @@ web = "http://www.behdasht.gov.ir/"
 
 [[title]]
 lang = "en"
-text = "An index of Iranian hospitals. This dataset is disaggregated by province and city, and hospitals are listed with their address and telephone number as well as their specialty, capacity. "
+text = "List of Iran's hospitals"
 
 [[title]]
 lang = "fa"
@@ -20,18 +20,17 @@ text = "لیست بیمارستان‌های ایران"
 
 [[description]]
 lang = "fa"
-text = ".لیست بیمارستان‌های ایران به تفکیک شهری و استانی، آدرس و شماره تلفن× ظرفیت بیمارستان و تخصص آن "
+text = ".لیست بیمارستان‌های ایران به تفکیک شهری و استانی، آدرس و شماره تلفن "
 
 [[description]]
 lang = "en"
-text = "An index of Iranian hospitals. This dataset is disaggregated by province and city, and hospitals are listed with their address and telephone number as well as their specialty, capacity. "
+text = "The list of the hospitals in Iran, disaggregated by province and cities with their address and telephone number."
 
 
 [[resources]]
 
-  url = "https://iod.dataset.s3.amazonaws.com/mhmellih16/mhmellih16.csv"
+  url = "https://raw.github.com/datasets/gdp/master/data/gdp.csv"
   name = "mhmelih16"
-  code = "https://github.com/iranopendata/ingest/blob/master/ruby/mhmellih16.rb"
 
   [[resources.title]]
   lang = "en"
@@ -48,54 +47,18 @@ text = "An index of Iranian hospitals. This dataset is disaggregated by province
   [resources.schema]
   format = "csv"
 
-     [[resources.schema.fields]] 
-     name = "name"
-     typr = "string"
+      [[resources.schema.fields]]
+      name = "Country Name"
+      type = "string"
 
-     [[resources.schema.fields]] 
-     name = "city"
-     typr = "string"
+      [[resources.schema.fields]]
+      name = "Country Code"
+      type = "string"
 
-     [[resources.schema.fields]] 
-     name = "address"
-     typr = "string"
+      [[resources.schema.fields]]
+      name = "Year"
+      type = "date"
 
-     [[resources.schema.fields]] 
-     name = "tel"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "soc_id"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "hsp_type"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "bed_count"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "spc_type"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "ward1"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "ward2"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "ward3"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "ward4"
-     typr = "string"
-
-     [[resources.schema.fields]] 
-     name = "email"
-     typr = "string"
+      [[resources.schema.fields]]
+      name = "Value"
+      type = "number"
