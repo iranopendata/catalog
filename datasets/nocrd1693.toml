@@ -4,7 +4,7 @@ keywords = [ "death", "causes", "Iran", "diseases"]
  
 indexed_at = "2016-09-19" 
 period = [1393, 1393] 
-frequency = "Yearly"
+frequency = "yearly"
 category= "Health Sector Performance"
 maintainer = "Small Media Foundation"
 
@@ -14,7 +14,7 @@ web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf"
 
 [[title]]
 lang = "en" 
-text = "Registered deaths by cause and province" 
+text = "Registered deaths, by cause and province" 
 
 [[title]]
 lang = "fa"
@@ -26,11 +26,11 @@ text = "این مجموعه داده از جدول شماره ۱۱ در صفحه
 
 [[description]]
 lang = "en"
-text = "This dataset has been extracted from table 11 on page 234 and 235 of 1393 annual report of National Organisation for Civil Registration "
+text = "This dataset has been extracted from the annual report of the National Organisation for Civil Registration (1393), Table 11, page 234-235."
 
 [[resources]]
 
-  url = "http://example.com/csv"
+  url = "https://raw.github.com/datasets/gdp/master/data/gdp.csv"
 
   [[resources.title]]
   lang = "en" 
