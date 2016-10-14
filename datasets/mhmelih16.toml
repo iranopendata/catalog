@@ -31,7 +31,6 @@ text = "The list of the hospitals in Iran, disaggregated by province and cities 
 
   url = "https://iod.dataset.s3.amazonaws.com/mhmellih16/mhmellih16.csv"
   name = "mhmelih16"
-  code = "https://github.com/iranopendata/ingest/blob/master/ruby/mhmellih16.rb"
 
   [[resources.title]]
   lang = "en"
