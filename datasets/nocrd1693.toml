@@ -30,7 +30,7 @@ text = "This dataset has been extracted from the annual report of the National O
 
 [[resources]]
 
-  url = "http://example.com/csv"
+  url = "https://raw.github.com/datasets/gdp/master/data/gdp.csv"
 
   [[resources.title]]
   lang = "en" 
