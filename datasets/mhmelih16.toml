@@ -29,7 +29,7 @@ text = "An index of Iranian hospitals. This dataset is disaggregated by province
 
 [[resources]]
 
-  url = "https://raw.github.com/datasets/gdp/master/data/gdp.csv"
+  url = "http://iod.dataset.s3.amazonaws.com/mhmellih16/mhmellih16.csv"
   name = "mhmelih16"
 
   [[resources.title]]
