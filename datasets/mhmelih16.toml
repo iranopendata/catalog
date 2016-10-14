@@ -47,18 +47,54 @@ text = "An index of Iranian hospitals. This dataset is disaggregated by province
   [resources.schema]
   format = "csv"
 
-      [[resources.schema.fields]]
-      name = "Country Name"
-      type = "string"
+      [[resources.schema.fields]] 
+      name = "name"
+      typr = "string"
+ 
+      [[resources.schema.fields]] 
+      name = "city"
+      typr = "string"
 
-      [[resources.schema.fields]]
-      name = "Country Code"
-      type = "string"
+      [[resources.schema.fields]] 
+      name = "address"
+      typr = "string"
 
-      [[resources.schema.fields]]
-      name = "Year"
-      type = "date"
+      [[resources.schema.fields]] 
+      name = "tel"
+      typr = "string"
 
-      [[resources.schema.fields]]
-      name = "Value"
-      type = "number"
+      [[resources.schema.fields]] 
+      name = "soc_id"
+      typr = "string"
+
+      [[resources.schema.fields]] 
+      name = "hsp_type"
+      typr = "string"
+
+      [[resources.schema.fields]] 
+      name = "bed_count"
+      typr = "string"
+
+      [[resources.schema.fields]] 
+      name = "spc_type"
+      typr = "string"
+
+      [[resources.schema.fields]] 
+      name = "ward1"
+      typr = "string"
+
+      [[resources.schema.fields]] 
+      name = "ward2"
+      typr = "string"
+
+      [[resources.schema.fields]] 
+      name = "ward3"
+      typr = "string"
+
+      [[resources.schema.fields]] 
+      name = "ward4"
+      typr = "string"
+
+      [[resources.schema.fields]] 
+      name = "email"
+      typr = "string"
