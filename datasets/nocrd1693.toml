@@ -1,12 +1,20 @@
 name = "nocrcd1693"
 license = "CC-BY-NC"
-keywords = [ "death", "causes", "Iran", "diseases"]
+
  
 indexed_at = "2016-09-19" 
 period = [1393, 1393] 
 frequency = "yearly"
 category= "Health Sector Performance"
 maintainer = "Small Media Foundation"
+
+[[keywords]]
+lang = "en" 
+text = "death", "Iran", "diseases"
+
+[[keywords]]
+lang = "fa" 
+text = "مرک" , "ایران" , "مریضی"
 
 [author]
 name = "National Organisation for Civil Registration"
