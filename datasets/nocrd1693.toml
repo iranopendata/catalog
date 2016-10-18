@@ -6,7 +6,15 @@ indexed_at = "2016-09-19"
 period = [1393, 1393] 
 frequency = "yearly"
 category= "Health Sector Performance"
-maintainer = "Small Media Foundation"
+
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "بنیاد رسانه خرد"
 
 [[keywords]]
 lang = "en" 
