@@ -14,6 +14,7 @@ module.exports = function validate(tomlStr) {
     var valid = validator.validate(spec, parsed);
 
     if (!valid) {
+      console.error("Error in dataset", parsed.name);
       console.error(validator.errors);
     }
     return valid;
