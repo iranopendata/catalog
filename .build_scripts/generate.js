@@ -96,7 +96,7 @@ request({
       'title': parsedData.title,
       'description': parsedData.description,
       'period': parsedData.period,
-      'source': parsedData.resources[0].sources[0].name, // We only use the first source
+      'source': parsedData.author.name, 
       'category': parsedData.category,
       'format': parsedData.resources[0].schema.format // We only consider one resource
     };
