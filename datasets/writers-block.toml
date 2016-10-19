@@ -2,7 +2,7 @@ name = "writersblock"
 license = "CC-BY-NC"
 period = [1981, 2016]
 frequency = "monthly"
-category= "education"
+category= ["education"]
 
 [[keywords]]
 lang = "fa"

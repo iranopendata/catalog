@@ -119,25 +119,29 @@
       "type": "string"
     },
     "category": {
-      "type": "string",
-      "enum": [
-        "population",
-        "energy",
-        "employment",
-        "women",
-        "economics",
-        "banking",
-        "budget",
-        "housing",
-        "transport",
-        "trade",
-        "health",
-        "education",
-        "crime",
-        "environment",
-        "communications",
-        "elections" 
-      ]
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "enum": [
+          "population",
+          "energy",
+          "employment",
+          "women",
+          "economics",
+          "banking",
+          "budget",
+          "housing",
+          "transport",
+          "trade",
+          "health",
+          "education",
+          "crime",
+          "environment",
+          "communications",
+          "elections" 
+        ]
+      }
     },
     "keywords": {"$ref": "#/definitions/i18n_array"},
     "created_at": {

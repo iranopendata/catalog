@@ -4,7 +4,7 @@ license = "CC-BY-NC"
 indexed_at = "2016-09-19" 
 period = [1393, 1393] 
 frequency = "yearly"
-category= "health"
+category= ["health"]
 
 [[maintainer]]
 lang = "en" 

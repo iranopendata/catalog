@@ -106,9 +106,9 @@ frequency = "monthly"
 ### category
 **REQUIRED**
 
-- `type: string`
+- `type: Array of string`
 
-Can be one of these values: 
+An array of categories this dataset belongs to. The strings can be one of these values: 
 
 - population
 - energy
@@ -128,7 +128,7 @@ Can be one of these values:
 - elections 
 
 ```
-category= "education" 
+category= ["education"]
 ```
 
 ### maintainer
