@@ -28,18 +28,35 @@
       }
     },
     "i18n": {
-        "type": "array",
-        "minItems": 1,
-        "items": {
-          "type": "object",
-          "properties": {
-            "lang": {"$ref": "#/definitions/lang"},
-            "text": {
-              "type": "string"
-            }
+      "type": "array",
+      "minItems": 2,
+      "items": {
+        "type": "object",
+        "properties": {
+          "lang": {"$ref": "#/definitions/lang"},
+          "text": {
+            "type": "string"
           }
         }
-      },
+      }
+    },
+    "i18n_array_item": {
+      "type": "object",
+      "properties": {
+        "lang": {"$ref": "#/definitions/lang"},
+        "wordlist": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "i18n_array": {
+      "type": "array",
+      "minItems": 2,
+      "items": {"$ref": "#/definitions/i18n_array_item"}
+    },
     "id": {
       "type": "string",
       "pattern": "^([a-z0-9._-])+$"
@@ -106,28 +123,23 @@
     "category": {
       "type": "string",
       "enum": ["Population",
-               "Natural Resources and Energy",
-               "Employment and Household Economy",
-               "Women",
-               "Economic Sectors",
-               "Banking and Finance",
-               "Budget and Government Spending",
-               "Housing",
-               "Transport",
-               "Trade",
-               "Health Sector Performance",
-               "Education",
-               "Crime and Social Pathology",
-               "Environment",
-               "Communications"]
+        "Natural Resources and Energy",
+        "Employment and Household Economy",
+        "Women",
+        "Economic Sectors",
+        "Banking and Finance",
+        "Budget and Government Spending",
+        "Housing",
+        "Transport",
+        "Trade",
+        "Health Sector Performance",
+        "Education",
+        "Crime and Social Pathology",
+        "Environment",
+        "Communications"]
 
     },
-    "keywords": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
+    "keywords": {"$ref": "#/definitions/i18n_array"},
     "created_at": {
       "type": "string",
       "format": "date"
@@ -153,9 +165,7 @@
       "enum": ["daily", "weekly", "monthly", "quarterly", "yearly"]
     },
     "author": {"$ref": "#/definitions/source"},
-    "maintainer": {
-      "type": "string"
-    },
+    "maintainer": {"$ref": "#/definitions/i18n"},
     "name": {"$ref": "#/definitions/id"},
     "title": {"$ref": "#/definitions/i18n"},
     "description": {"$ref": "#/definitions/i18n"},

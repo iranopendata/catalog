@@ -1,12 +1,10 @@
 name = "nocrcd1693"
 license = "CC-BY-NC"
-
  
 indexed_at = "2016-09-19" 
 period = [1393, 1393] 
 frequency = "yearly"
 category= "Health Sector Performance"
-
 
 [[maintainer]]
 lang = "en" 
@@ -18,11 +16,11 @@ text = "بنیاد رسانه خرد"
 
 [[keywords]]
 lang = "en" 
-text = "death", "Iran", "diseases"
+wordlist = ["death", "Iran", "diseases"]
 
 [[keywords]]
 lang = "fa" 
-text = "مرک" , "ایران" , "مریضی"
+wordlist = ["مرک" , "ایران" , "مریضی"]
 
 [author]
 name = "National Organisation for Civil Registration"

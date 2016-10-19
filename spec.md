@@ -36,11 +36,19 @@ license = "CC-BY-NC"
 ### keywords
 **REQUIRED**
 
-- `type: Array of string`
+- `type: Array of keyword object`
+- `keyword.lang: string`
+- `keyword.wordlist: Array of string`
 
-An array of strings describing the themes of this dataset
+An array of keyword objects. A keyword object contains the language and a wordlist for that language describing the themes of this dataset.
 ```
-keywords = [ "education", "books", "publication", "author"] 
+[[keywords]]
+lang = "en" 
+wordlist = ["death", "Iran", "diseases"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مرک" , "ایران" , "مریضی"]
 ```
 
 ### created_at
@@ -122,11 +130,20 @@ category= "Education"
 ### maintainer
 **REQUIRED**
 
-- `type: string`
+- `type: Array of maintainer object`
+- `maintainer.lang: string`
+- `maintainer.text: string`
 
-Organization that is updating this dataset
+Organization that is updating this dataset. An array of organizations where language and translated text is specified. Lang can be en or "fa".
+
 ```
-maintainer = "Small Media Foundation"
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "بنیاد رسانه خرد"
 ```
 
 ### author
@@ -298,13 +315,25 @@ format = "csv"
 ```toml
 name = "writersblock"
 license = "CC-BY-NC"
-keywords = [ "education", "books", "publication", "author"]
-updated_at = "2016-09-19" 
-indexed_at = "2016-09-19" 
 period = [1981, 2016] 
 frequency = "monthly"
 category= "Education"
-maintainer = "Small Media Foundation"
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "بنیاد رسانه خرد"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["death", "Iran", "diseases"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مرک" , "ایران" , "مریضی"]
 
 [author]
 name = "Iran Book House"

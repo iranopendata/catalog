@@ -1,10 +1,24 @@
 name = "mhmelih16"
 license = "CC-BY-NC"
-keywords = [ "hospital", "Iran", "list", "health"]
 period = [1392, 1392]
 frequency = "yearly"
 category= "Health Sector Performance"
-maintainer = "Small Media Foundation"
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "بنیاد رسانه خرد"
+
+[[keywords]]
+lang = "fa"
+wordlist = [ "hospital", "Iran", "list", "health"]
+
+[[keywords]]
+lang = "en"
+wordlist = [ "hospital", "Iran", "list", "health"]
 
 [author]
 name = "Ministry of Health and Medical Education"
