@@ -23,8 +23,15 @@ lang = "fa"
 wordlist = ["مرک" , "ایران" , "مریضی"]
 
 [author]
-name = "National Organisation for Civil Registration"
 web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "National Organisation for Civil Registration"
+
+  [[author.name]]
+  lang = "en"
+  text = "National Organisation for Civil Registration"
 
 [[title]]
 lang = "en" 

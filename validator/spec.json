@@ -18,9 +18,7 @@
     "source": {
       "type": "object",
       "properties": {
-        "name": {
-          "type": "string"
-        },
+        "name": {"$def": "#/definitions/i18n"},
         "web": {
           "type": "string",
           "format": "uri"
