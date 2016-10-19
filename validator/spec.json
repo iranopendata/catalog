@@ -120,22 +120,24 @@
     },
     "category": {
       "type": "string",
-      "enum": ["Population",
-        "Natural Resources and Energy",
-        "Employment and Household Economy",
-        "Women",
-        "Economic Sectors",
-        "Banking and Finance",
-        "Budget and Government Spending",
-        "Housing",
-        "Transport",
-        "Trade",
-        "Health Sector Performance",
-        "Education",
-        "Crime and Social Pathology",
-        "Environment",
-        "Communications"]
-
+      "enum": [
+        "population",
+        "energy",
+        "employment",
+        "women",
+        "economics",
+        "banking",
+        "budget",
+        "housing",
+        "transport",
+        "trade",
+        "health",
+        "education",
+        "crime",
+        "environment",
+        "communications",
+        "elections" 
+      ]
     },
     "keywords": {"$ref": "#/definitions/i18n_array"},
     "created_at": {

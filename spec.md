@@ -6,6 +6,7 @@ This spec is adapted from [Data Packages](http://specs.frictionlessdata.io/data-
 A dataset package is encoded in a descriptor file named `datapackage.toml`
 
 A dataset consists of:
+
  - Dataset metadata
  - Resource metadata 
 
@@ -41,6 +42,7 @@ license = "CC-BY-NC"
 - `keyword.wordlist: Array of string`
 
 An array of keyword objects. A keyword object contains the language and a wordlist for that language describing the themes of this dataset.
+
 ```
 [[keywords]]
 lang = "en" 
@@ -107,24 +109,26 @@ frequency = "monthly"
 - `type: string`
 
 Can be one of these values: 
-- Population
-- Natural Resources and Energy
-- Employment and Household Economy
-- Women
-- Economic Sectors
-- Banking and Finance
-- Budget and Government Spending
-- Housing
-- Transport
-- Trade
-- Health Sector Performance
-- Education
-- Crime and Social Pathology
-- Environment
-- Communications
+
+- population
+- energy
+- employment
+- women
+- economics
+- banking
+- budget
+- housing
+- transport
+- trade
+- health
+- education
+- crime
+- environment
+- communications
+- elections 
 
 ```
-category= "Education" 
+category= "education" 
 ```
 
 ### maintainer
@@ -190,7 +194,9 @@ text = "Dataset of books from Iran Book House"
 - `description.text: string`
 
 An array of descriptions. The language and translated text should be specified. The lang can be "en" or "fa".
+
 ```
+
 [[description]]
 lang = "fa"
 text = "Over 880,000 books extracted from the Iran Book House website. The Iran Book House maintains a database of all the published books that get sent to the National Library."
@@ -233,6 +239,7 @@ code = "http://github.com/examplerepo"
 - `title.text: string`
 
 An array of titles. The language and translated text should be specified. The lang can be "en" or "fa".
+
 ```
 [[resources.title]]
 lang = "en"  
@@ -252,6 +259,7 @@ text = "Database"
 - `description.text: string`
 
 An array of descriptions for further description of the resource or the process. The language and translated text should be specified. The lang can be "en" or "fa".
+
 ```
 [[description]]
 lang = "fa"
@@ -260,7 +268,6 @@ text = "CSV extracted from the Iran Book House search and index."
 [[description]]
 lang = "en"
 text = "CSV extracted from the Iran Book House search and index."
-
 ```
 
 ### sources
@@ -317,7 +324,7 @@ name = "writersblock"
 license = "CC-BY-NC"
 period = [1981, 2016] 
 frequency = "monthly"
-category= "Education"
+category= "education"
 
 [[maintainer]]
 lang = "en" 
@@ -336,8 +343,15 @@ lang = "fa"
 wordlist = ["مرک" , "ایران" , "مریضی"]
 
 [author]
-name = "Iran Book House"
 web = "http://ketab.ir"
+ 
+  [author.name]
+  lang = "fa"
+  text = "Iran Book House"
+
+  [author.name]
+  lang = "en"
+  text = "Iran Book House"
 
 [[title]]
 lang = "en" 
