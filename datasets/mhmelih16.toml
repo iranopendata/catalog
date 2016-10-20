@@ -2,7 +2,7 @@ name = "mhmelih16"
 license = "CC-BY-NC"
 period = [1392, 1392]
 frequency = "yearly"
-category= ["health"]
+category= ["health", "crime"]
 
 [[maintainer]]
 lang = "en" 
