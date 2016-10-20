@@ -14,18 +14,18 @@ text = "بنیاد رسانه خرد"
 
 [[keywords]]
 lang = "fa"
-wordlist = [ "hospital", "Iran", "list", "health"]
+wordlist = [ "تصادف", "بیمارستان", "ایران", "بهداشت", "اورژانس"]
 
 [[keywords]]
 lang = "en"
-wordlist = [ "hospital", "Iran", "list", "health"]
+wordlist = [ "hospital", "Iran" , "health"]
 
 [author]
 web = "http://www.behdasht.gov.ir/"
 
   [[author.name]]
   lang = "fa"
-  text = "Ministry of Health and Medical Education"
+  text = "وزارت بهداشت،درمان و آموزش پزشکی"
 
   [[author.name]]
   lang = "en"
