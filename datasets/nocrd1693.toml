@@ -20,7 +20,7 @@ wordlist = ["death", "Iran", "diseases"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["مرک" , "ایران" , "مریضی"]
+wordlist = ["مرگ و میر" , "ایران" , "مریضی"]
 
 [author]
 web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf"
