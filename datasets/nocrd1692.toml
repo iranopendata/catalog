@@ -1,8 +1,8 @@
-name = "nocrcd1693"
+name = "nocrcd1692"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1393, 1393] 
+period = [1392, 1392] 
 frequency = "yearly"
 category= ["health"]
 
@@ -12,7 +12,7 @@ text = "Small Media Foundation"
 
 [[maintainer]]
 lang = "fa" 
-text = "بنیاد رسانه خرد"
+text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
@@ -23,7 +23,7 @@ lang = "fa"
 wordlist = ["مرگ و میر" , "ایران" , "مریضی"]
 
 [author]
-web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf"
+web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salname92.pdf"
 
   [[author.name]] 
   lang = "fa"
@@ -35,23 +35,23 @@ web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf"
 
 [[title]]
 lang = "en" 
-text = "Registered deaths, by cause and province" 
+text = "Registered deaths, by cause and province (1392)" 
 
 [[title]]
 lang = "fa"
-text = "فوت‌های ثبت‌شده بر حسب علت فوت به تفکیک استانی "
+text = "فوت جاری ثبت شده در سال ۱۳۹۲ بر حسب علت فوت و به تفکیک استانی "
 
 [[description]]
 lang = "fa"
-text = "این مجموعه داده از جدول شماره ۱۱ در صفحه ۲۳۴ و ۲۳۵ از سالنامه آمارهای جمعیتی سازمان ثبت احوال کشور ۱۳۹۳ استخراج شده است.   "
+text = "این مجموعه داده از جدول شماره ۱۰ در صفحه ۲۷۰ و ۲۷۱ از سالنامه آمارهای جمعیتی سازمان ثبت احوال کشور ۱۳۹۲ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "This dataset has been extracted from the annual report of the National Organisation for Civil Registration (1393), Table 11, page 234-235."
+text = ""
 
 [[resources]]
 
-  url = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1693fa.csv"
+  url = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1692fa.csv"
 
   [[resources.title]]
   lang = "en" 
@@ -63,7 +63,7 @@ text = "This dataset has been extracted from the annual report of the National O
 
   [[resources.sources]]
   name = "National Organisation for Civil Registration" 
-  web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf" 
+  web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salname92.pdf" 
 
   [resources.schema]
   format = "csv"
