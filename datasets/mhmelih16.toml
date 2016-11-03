@@ -1,7 +1,7 @@
 name = "mhmelih16"
 license = "CC-BY-NC"
 frequency = "yearly"
-category= ["health", "crime"]
+category= ["health"]
 
 [[maintainer]]
 lang = "en" 
@@ -9,11 +9,11 @@ text = "Small Media Foundation"
 
 [[maintainer]]
 lang = "fa" 
-text = "بنیاد رسانه خرد"
+text = "اسمال مدیا"
 
 [[keywords]]
 lang = "fa"
-wordlist = [ "تصادف", "بیمارستان", "ایران", "بهداشت", "اورژانس"]
+wordlist = [ "حوادث", "بیمارستان", "ایران", "بهداشت", "اورژانس"]
 
 [[keywords]]
 lang = "en"
