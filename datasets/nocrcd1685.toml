@@ -1,0 +1,157 @@
+name = "nocrcd1685"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1385, 1385] 
+frequency = "yearly"
+category= ["health"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["death", "Iran", "diseases"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مرگ و میر" , "ایران" , "فوت"]
+
+[author]
+web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/1385.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان ثبت احوال کشور"
+
+  [[author.name]]
+  lang = "en"
+  text = "National Organisation for Civil Registration"
+
+[[title]]
+lang = "en" 
+text = "Registered deaths, by cause and province (1385)" 
+
+[[title]]
+lang = "fa"
+text = "فوت جاری ثبت شده در سال ۱۳۸۵ بر حسب علت فوت و به تفکیک استانی"
+
+[[description]]
+lang = "fa"
+text = "این مجموعه داده از جدول شماره ۱۳ در صفحه ۲۶۴ و ۲۶۵ از سالنامه آمارهای جمعیتی سازمان ثبت احوال کشور ۱۳۸۵ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = ""
+
+[[resources]]
+
+  url = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1685fa.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Database"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "Database"
+
+  [[resources.sources]]
+  name = "National Organisation for Civil Registration" 
+  web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/1385.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total death"
+      type = "integer"
+
+      [[resources.schema.fields]]
+      name = "Infections and Parasitic diseases"
+      type = "integer"
+
+      [[resources.schema.fields]]
+      name = "Cancer and Tumors"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Hematopoietic immune system diseases"
+      type = "integer"
+
+      [[resources.schema.fields]]
+      name = "Nutritional and metabolic diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Mental illness and behavioral disorders"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Nervous system diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Cardiovascular diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Respiratory tract diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Skin and subcutaneous diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Respiratory tract diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Skin and subcutaneous diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Musculoskeletal diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Genitourinary tract diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Complications in pregnancy and childbirth"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Congenital and chromosomal abnormalities"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Perinatal diseases"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Vague ill-defined conditions"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Unintentional injuries"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Unknown"
+      type = "integer"
+      
+      [[resources.schema.fields]]
+      name = "Others Total"
+      type = "integer"
