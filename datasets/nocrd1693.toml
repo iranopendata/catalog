@@ -163,6 +163,10 @@ text = "This dataset has been extracted from the annual report of the National O
   [[resources.title]]
   lang = "en" 
   text = "Database"
+  
+  [[resources.title]]
+  lang = "fa" 
+  text = "Database"
 
   [[resources.sources]]
   name = "National Organisation for Civil Registration" 
