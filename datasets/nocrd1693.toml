@@ -51,7 +51,7 @@ text = "This dataset has been extracted from the annual report of the National O
 
 [[resources]]
 
-  url = "http://iod.dataset.s3.amazonaws.com/nocrd1693/NOCRCD1693fa.csv"
+  url = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1693fa.csv"
 
   [[resources.title]]
   lang = "en" 
