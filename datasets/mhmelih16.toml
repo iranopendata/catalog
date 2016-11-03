@@ -49,7 +49,7 @@ text = "An index of Iranian hospitals. This dataset is disaggregated by province
 
 [[resources]]
 
-  url = "http://iod.dataset.s3.amazonaws.com/mhmellih16/mhmellih16.csv"
+  url = "http://iod.dataset.s3.amazonaws.com/mhmellih16/mhmellih16fa.csv"
   name = "mhmelih16"
   code = "https://github.com/iranopendata/ingest/blob/master/ruby/mhmellih16.rb"
 
