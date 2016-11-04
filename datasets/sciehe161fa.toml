@@ -2,8 +2,8 @@ name = "sciehe161fa"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1393, 1393] 
-frequency = "yearly"
+period = [1375, 1394] 
+
 category= ["employment"]
 
 [[maintainer]]
