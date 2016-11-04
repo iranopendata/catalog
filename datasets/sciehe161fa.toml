@@ -70,3 +70,7 @@ text = ""
       [[resources.schema.fields]]
       name = "Year"
       type = "string"
+      
+      [[resources.schema.fields]]
+      name = "month"
+      type = "string"
