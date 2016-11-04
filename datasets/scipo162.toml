@@ -4,7 +4,7 @@ license = "CC-BY-NC"
 indexed_at = "2016-09-19" 
 period = [1365, 1385] 
 frequency = "yearly"
-category= [population /employment ]
+category= ["population", "employment"]
 
 [[maintainer]]
 lang = "en" 
@@ -16,7 +16,7 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = [<WORD_LIST_EN>]
+wordlist = [""]
 
 [[keywords]]
 lang = "fa" 
