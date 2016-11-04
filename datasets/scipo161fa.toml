@@ -71,3 +71,7 @@ text = ""
       [[resources.schema.fields]]
       name = "field_name"
       type = "string"
+      
+      [[resources.schema.fields]]
+      name = "field2_name"
+      type = "string"
