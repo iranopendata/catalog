@@ -2,8 +2,7 @@ name = "scipo161fa"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1365, 1385] 
-frequency = 
+period = [1365, 1385]
 category= ["population"]
 
 [[maintainer]]
