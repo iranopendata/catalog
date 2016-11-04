@@ -1,4 +1,4 @@
-name = "scipo161"
+name = "scipo161fa"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
@@ -16,14 +16,14 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = [""]
+wordlist = ["population", "rural", "urban"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["جمعیت", "فعال", "شهری", "روستایی"]
+wordlist = ["جمعیت", "شهری", "روستایی"]
 
 [author]
-web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs"
+web = "https://www.amar.org.ir/%D8%AE%D8%A7%D9%86%D9%87/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%85%D8%AC%D8%A7%D8%B2%D9%8A/ProdID/83"
 
   [[author.name]] 
   lang = "fa"
@@ -31,7 +31,7 @@ web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs"
 
   [[author.name]]
   lang = "en"
-  text = "<AUTHOR_EN>"
+  text = "Statistical Centre of Iran"
 
 [[title]]
 lang = "en" 
@@ -51,7 +51,7 @@ text = ""
 
 [[resources]]
 
-  url = ""
+  url = "http://iod.dataset.s3.amazonaws.com/nocrd1693/SCIPO161fa.csv"
 
   [[resources.title]]
   lang = "en" 
@@ -62,8 +62,8 @@ text = ""
   text = "Database"
 
   [[resources.sources]]
-  name = "<SOURCE_NAME>" 
-  web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs" 
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/%D8%AE%D8%A7%D9%86%D9%87/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%85%D8%AC%D8%A7%D8%B2%D9%8A/ProdID/83" 
 
   [resources.schema]
   format = "csv"
