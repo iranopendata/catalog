@@ -3,6 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1365, 1385] 
+frequency = "yearly"
 category= ["population"]
 
 [[maintainer]]
