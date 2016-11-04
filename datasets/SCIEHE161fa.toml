@@ -70,4 +70,4 @@ text = ""
 
       [[resources.schema.fields]]
       name = "Year"
-type = "string"
+      type = "string"
