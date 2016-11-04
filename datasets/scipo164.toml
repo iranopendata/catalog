@@ -20,7 +20,7 @@ wordlist = [""]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["جمعیت", "شهری", "روستایی""]
+wordlist = ["جمعیت", "شهری", "روستایی"]
 
 [author]
 web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs"
