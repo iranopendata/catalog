@@ -61,7 +61,7 @@ text = ""
   text = "Database"
 
   [[resources.sources]]
-  name = "<SOURCE_NAME>" 
+  name = "Islamic Parliament Research Center" 
   web = "http://rc.majlis.ir/fa/report/show/985478" 
 
   [resources.schema]
