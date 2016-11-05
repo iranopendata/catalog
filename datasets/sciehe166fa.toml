@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1393, 1393] 
-category= ["employment","women"]
+category = ["employment", "women"]
 
 [[maintainer]]
 lang = "en" 
@@ -19,7 +19,7 @@ wordlist = ["employment","unemployment","women employment","Iran"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["بیکاری","اشتغال,"اشتغال زنان"]
+wordlist = ["بیکاری","اشتغال","اشتغال زنان"]
 
 [author]
 web = "https://www.amar.org.ir/Portals/0/Files/abstract/1393/ch_ntank_93.pdf"
