@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1384, 1394] 
-category= ["Employment"]
+category= ["employment"]
 
 [[maintainer]]
 lang = "en" 
