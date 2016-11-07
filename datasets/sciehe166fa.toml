@@ -22,7 +22,7 @@ lang = "fa"
 wordlist = ["بیکاری","اشتغال","اشتغال زنان"]
 
 [author]
-web = "https://www.amar.org.ir/Portals/0/Files/abstract/1393/ch_ntank_93.pdf"
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf"
 
   [[author.name]] 
   lang = "fa"
@@ -62,7 +62,7 @@ text = ""
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
-  web = "https://www.amar.org.ir/Portals/0/Files/abstract/1393/ch_ntank_93.pdf" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf" 
 
   [resources.schema]
   format = "csv"
