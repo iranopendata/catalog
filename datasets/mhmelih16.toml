@@ -20,7 +20,7 @@ lang = "en"
 wordlist = [ "hospital", "Iran" , "health"]
 
 [author]
-web = "http://www.behdasht.gov.ir/"
+web = "http://avab.behdasht.gov.ir/hospital/"
 
   [[author.name]]
   lang = "fa"
