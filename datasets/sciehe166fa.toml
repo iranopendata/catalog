@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf"
 
 [[title]]
 lang = "en" 
-text = "Unemployment rate of the population aged 10 and more disaggregated by province and gender (1393)"
+text = "Unemployment rate, disaggregated by province and gender (1393)"
 
 [[title]]
 lang = "fa"
@@ -46,7 +46,7 @@ text = "این داده از جدول شماره ۲۵ در صفحه ۴۹ نتا�
 
 [[description]]
 lang = "en"
-text = ""
+text = "Unemployment rates in this dataset were calculated based upon Iran's population aged 10 or over."
 
 [[resources]]
 
