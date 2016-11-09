@@ -44,7 +44,7 @@ text = "لیست بیمارستان‌های ایران به تفکیک شهری
 
 [[description]]
 lang = "en"
-text = "An index of Iranian hospitals. This dataset is disaggregated by province and city, and hospitals are listed with their address and telephone number as well as their specialty, capacity."
+text = "An index of Iranian hospitals. This dataset is disaggregated by province and city, and contains information about hospital specialisations, capacities, and contact details."
 
 
 [[resources]]
