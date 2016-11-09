@@ -51,7 +51,9 @@ text = ""
 
 [[resources]]
 
-  url = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1687fa.csv"
+  [[resources.url]] 
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1687fa.csv"
 
   [[resources.title]]
   lang = "en" 
