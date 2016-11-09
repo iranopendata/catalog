@@ -65,8 +65,18 @@
       "properties": {
         "title": {"$ref": "#/definitions/i18n"},
         "url": {
-          "type": "string",
-          "format": "uri"
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "properties": {
+              "lang": {"$ref": "#/definitions/lang"},
+              "link": {
+                "type": "string",
+                "format": "uri"
+              }
+            }
+          }
         },
         "code": {
           "type": "string",

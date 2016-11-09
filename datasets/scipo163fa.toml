@@ -51,7 +51,9 @@ text = "Employment rates in this dataset were calculated based upon Iran's popul
 
 [[resources]]
 
-  url = "http://iod.dataset.s3.amazonaws.com/nocrd1693/scipo163fa.csv"
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/nocrd1693/scipo163fa.csv"
 
   [[resources.title]]
   lang = "en" 

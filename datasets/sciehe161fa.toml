@@ -51,7 +51,9 @@ text = ""
 
 [[resources]]
 
-  url = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe161fa.csv"
+  [[resources.url]]
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe161fa.csv"
 
   [[resources.title]]
   lang = "en" 

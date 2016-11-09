@@ -213,11 +213,16 @@ Resources are an array of resource objects. Each resource object has the followi
 ### url
 **REQUIRED**
 
-- `type: URL string`
+- `type: Array of URL object`
+- `url.lang: string`
+- `url.link: URI string`
 
-URL pointing to clean resource data (such as a processed CSV)
+An array of URLs pointing to clean resource data for each language (such as a processed CSV). The language has to be specified, however only one of the languages "fa" or "en" is required to pass validation. This occurs when there is no possible translation for the resource file.
+
 ```
-url = "http://example.com/csv" 
+[[url]] 
+lang = "fa"
+link = "http://example.com/csv" 
 ```
 
 ### code
