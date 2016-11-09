@@ -35,7 +35,7 @@ web = "https://www.amar.org.ir/%D8%AE%D8%A7%D9%86%D9%87/%D8%B5%D9%81%D8%AD%D9%87
 
 [[title]]
 lang = "en" 
-text = "Distribution of employees aged 10 and more disaggregated by private and public sector" 
+text = "Employment data, disaggregated by private/public sector (1365 - 1385)" 
 
 [[title]]
 lang = "fa"
@@ -47,7 +47,7 @@ text = "این داده از جدول شماره ۲۵-۱ از نتایج کلی 
 
 [[description]]
 lang = "en"
-text = ""
+text = "Employment rates in this dataset were calculated based upon Iran's population aged 10 or over."
 
 [[resources]]
 
