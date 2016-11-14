@@ -54,6 +54,10 @@ text = "Unemployment rates in this dataset were calculated based upon Iran's pop
   lang = "fa"
   link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe166fa.csv"
 
+ [[resources.url]] 
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe166en.csv"
+
   [[resources.title]]
   lang = "en" 
   text = "Database"
