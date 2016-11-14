@@ -47,80 +47,27 @@ text = ""
 
 [[resources]]
 
-  name = "scipo165fa"
-  code = "https://github.com/iranopendata/ingest/blob/master/ruby/mhmellih16.rb"
-
   [[resources.url]] 
   lang = "fa"
-  link = "http://iod.dataset.s3.amazonaws.com/mhmellih16/mhmellih16fa.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/population%20/scipo165fa.csv"
 
   [[resources.url]] 
   lang = "en"
-  link = "http://iod.dataset.s3.amazonaws.com/mhmellih16/mhmellih16en.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/population%20/scipo165en.csv"
 
   [[resources.title]]
   lang = "en"
-  text = "List of Iran's hospitals"
+  text = "Tehran province's population disaggregated by residency status (1390)"
 
   [[resources.title]]
   lang = "fa"
-  text = "لیست بیمارستان‌های ایران"
+  text = "خانوار و جمعیت شهرستان‌های استان تهران بر حسب ساکن و غیرساکن (1390)"
 
   [[resources.sources]]
-  name = "Ministry of Health and Medical Education"
-  web = "http://avab.behdasht.gov.ir/hospital/"
+  name = "Statistical Centre of Iran"
+  web = "http://nnt.sci.org.ir/sites/Apps/yearbook/Lists/year_book_req/Item/newifs.aspx?List=97c00882-734c-4417-831a-633d795b18ce&RootFolder=&Web=f9aca984-16ee-4860-8c00-bb43c696d32d"
 
   [resources.schema]
   format = "csv"
 
-      [[resources.schema.fields]] 
-      name = "name"
-      typr = "string"
- 
-      [[resources.schema.fields]] 
-      name = "city"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "address"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "tel"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "soc_id"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "hsp_type"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "bed_count"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "spc_type"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "ward1"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "ward2"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "ward3"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "ward4"
-      typr = "string"
-
-      [[resources.schema.fields]] 
-      name = "email"
-      typr = "string"
+     
