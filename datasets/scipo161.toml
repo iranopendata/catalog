@@ -1,4 +1,4 @@
-name = "scipo161fa"
+name = "scipo161"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
@@ -53,6 +53,10 @@ text = ""
   [[resources.url]] 
   lang = "fa"
   link = "http://iod.dataset.s3.amazonaws.com/nocrd1693/scipo161fa.csv"
+
+  [[resources.url]] 
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/nocrd1693/scipo161en.csv"
 
   [[resources.title]]
   lang = "en" 
