@@ -1,8 +1,8 @@
-name = "scipo161"
+﻿name = "scipo161"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1365, 1385]
+period = [1365, 1385] 
 category= ["population"]
 
 [[maintainer]]
@@ -15,14 +15,14 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["population", "rural", "urban"]
+wordlist = []
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["جمعیت", "شهری", "روستایی"]
+wordlist = ["جمعیت", "فعال", "شهری", "روستایی"]
 
 [author]
-web = "https://www.amar.org.ir/%D8%AE%D8%A7%D9%86%D9%87/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%85%D8%AC%D8%A7%D8%B2%D9%8A/ProdID/83"
+web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs"
 
   [[author.name]] 
   lang = "fa"
@@ -30,11 +30,11 @@ web = "https://www.amar.org.ir/%D8%AE%D8%A7%D9%86%D9%87/%D8%B5%D9%81%D8%AD%D9%87
 
   [[author.name]]
   lang = "en"
-  text = "Statistical Centre of Iran"
+  text = ""
 
 [[title]]
 lang = "en" 
-text = "Distribution of the active population aged 10 and more in urban and rural areas" 
+text = "" 
 
 [[title]]
 lang = "fa"
@@ -52,27 +52,45 @@ text = ""
 
   [[resources.url]] 
   lang = "fa"
-  link = "http://iod.dataset.s3.amazonaws.com/nocrd1693/scipo161fa.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/nocrd1693/scipo161fa.csv" 
 
-  [[resources.url]] 
+  [[resources.url]]
   lang = "en"
   link = "http://iod.dataset.s3.amazonaws.com/nocrd1693/scipo161en.csv"
 
   [[resources.title]]
   lang = "en" 
-  text = "Database"
+  text = ""
 
   [[resources.title]]
   lang = "fa"
-  text = "Database"
+  text = "توزیع جمعیت ۱۰ ساله و بیش‌تر بر حسب وضع فعالیت در نقاط شهری و روستایی"
 
   [[resources.sources]]
-  name = "Statistical Centre of Iran" 
-  web = "https://www.amar.org.ir/%D8%AE%D8%A7%D9%86%D9%87/%D8%B5%D9%81%D8%AD%D9%87-%D8%A7%D8%B5%D9%84%DB%8C-%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87-%D9%85%D8%AC%D8%A7%D8%B2%D9%8A/ProdID/83" 
+  name = "" 
+  web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs" 
 
   [resources.schema]
   format = "csv"
 
       [[resources.schema.fields]]
-      name = "Field_name"
+      name = ""
       type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "10 year old population (1000 people)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Active (percentage)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Inactive (percentage)"
+      type = "string"
+
+
