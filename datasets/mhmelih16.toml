@@ -76,15 +76,15 @@ text = "An index of Iranian hospitals. This dataset is disaggregated by province
   format = "csv"
 
       [[resources.schema.fields]] 
-      name = "name"
+      name = "Medical centres"
       typr = "string"
  
       [[resources.schema.fields]] 
-      name = "city"
+      name = "City"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "address"
+      name = "Address"
       typr = "string"
 
       [[resources.schema.fields]] 
@@ -92,37 +92,37 @@ text = "An index of Iranian hospitals. This dataset is disaggregated by province
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "soc_id"
+      name = "Central organisation"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "hsp_type"
+      name = "type of activity"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "bed_count"
+      name = "available beds"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "spc_type"
+      name = "spciality"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "ward1"
+      name = "wards"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "ward2"
+      name = "special care"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "ward3"
+      name = "paraclinic wards"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "ward4"
+      name = "ambulatories"
       typr = "string"
 
       [[resources.schema.fields]] 
-      name = "email"
+      name = "website"
       typr = "string"
