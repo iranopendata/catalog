@@ -30,11 +30,11 @@ web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs"
 
   [[author.name]]
   lang = "en"
-  text = ""
+  text = "test"
 
 [[title]]
 lang = "en" 
-text = "" 
+text = "test" 
 
 [[title]]
 lang = "fa"
