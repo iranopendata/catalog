@@ -1,0 +1,220 @@
+name = "sciehe167"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1393, 1393] 
+category= ["employment", "education", "women"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["unemployment", "employment", "women employment", "population employmnet", "literacy"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بیکاری", "اشتغال", "اشتغال زنان", "اشتغال جمعیت", "سواد"]
+
+[author]
+web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Population aged 10 and over, disaggregated by sex, ability to work and literacy" 
+
+[[title]]
+lang = "fa"
+text = "جمعیت ۱۰ ساله و بیشتر بر حسب جنس و وضع فعالیت اقتصادی به تفکیک وضع سواد، آخرین مدرک با دوره تحصیلی باسودان (سال ۱۳۹۳)"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۱۰ در صفحه ۸۹ نتایج آمارگیری نیروی کار ۱۳۹۳ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = ""
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe167fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe167en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Population aged 10 and over, disaggregated by sex, ability to work and literacy"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "جمعیت ۱۰ ساله و بیشتر بر حسب جنس و وضع فعالیت اقتصادی به تفکیک وضع سواد، آخرین مدرک با دوره تحصیلی باسودان (سال ۱۳۹۳)"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – literate and illiterate – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – literate – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Primary school – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Middle school – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Secondary school – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "High school diploma – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Associate degree – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Degree – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "MA and DVM degrees – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "PHD – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Non-formal literacy – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Illiterate – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – literate and illiterate – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – literate – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Primary school – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Middle school – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Secondary school – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "High school diploma – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Associate degree – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Degree – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "MA and DVM degrees – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "PHD – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Non-formal literacy – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Illiterate – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – literate and illiterate – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – literate – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Primary school – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Middle school – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Secondary school – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "High school diploma – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Associate degree – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Degree – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "MA and DVM degrees – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "PHD – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Non-formal literacy – rural area"
+      type = "string"
+
+
