@@ -1,0 +1,136 @@
+name = "sciehe168"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1393, 1393] 
+category= ["education", "employment", "population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["education", "employment", "urban area", "rural area", "women"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["تحصیلات", "اشتغال", "نقاط شهری", "نقاط روستایی", "زنان"]
+
+[author]
+web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Educated population disaggregated by major fields of studies and employment status" 
+
+[[title]]
+lang = "fa"
+text = "جمعیت فارغ‌التحصیل با درحال تحصیل دوره‌های عالی بر حسب جنس و گروه‌های عمده رشته تحصیلی به تفکیک وضع فعالیت اقتصادی (سال ۱۳۹۳)"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره 11 در صفحه 95 نتایج آمارگیری نیروی کار ۱۳۹۳ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = ""
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe168fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe168en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Educated population disaggregated by major fields of studies and employment status"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "جمعیت فارغ‌التحصیل با درحال تحصیل دوره‌های عالی بر حسب جنس و گروه‌های عمده رشته تحصیلی به تفکیک وضع فعالیت اقتصادی (سال ۱۳۹۳)"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Sex and main fields of study"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total able and unable to work population – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – total – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – employed – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – unemployed – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unable to work – whole country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total able and unable to work population – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – total – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – employed – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – unemployed – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unable to work – urban area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total able and unable to work population – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – total – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – employed – rural area"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Able to work – unemployed – rural area"
+      type = "string"
+
+
