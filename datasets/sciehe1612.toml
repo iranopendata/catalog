@@ -1,0 +1,136 @@
+name = "sciehe1612"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1385, 1385] 
+category= ["employment", "population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["unemployment", "employment", "work market", "urban area", "rural area"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بیکاری", "اشتغال", "بازار کار", "شهری", "روستایی"]
+
+[author]
+web = "https://drive.google.com/open?id=0B4viFwPm8_QKdldRYU9VM1ZfMzg"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Labour force index disaggregated by sex, rural and urban area (1385)" 
+
+[[title]]
+lang = "fa"
+text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی (سال ۱۳۸۵)"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۱ در صفحه ۱۲ چکیده نتایج طرح آمارگیری نیروی کار سال ۱۳۸۴-۱۳۸۷ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 1, page 12, of the 1384-1387 Labour Force Survey"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1612fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1612en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Labour force index disaggregated by sex, rural and urban area (1385)"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی (سال ۱۳۸۵)"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://drive.google.com/open?id=0B4viFwPm8_QKdldRYU9VM1ZfMzg" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Labour force indicators"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – figure"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – share"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – rate – men"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – figure – men "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – share – men "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – rate – women "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – figure – women "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole country – share – women "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Urban area – rate "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Urban area – figure "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Urban area – share"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Rural area – rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Rural area – figure "
+      type = "string"
+
+
