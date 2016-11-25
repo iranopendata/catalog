@@ -1,0 +1,156 @@
+name = "nocrhsp168"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1393, 1393] 
+category= ["health", "population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["death", "Iran", "regions"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مرگ و میر", "ایران", "فوت"]
+
+[author]
+web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان ثبت احوال کشور"
+
+  [[author.name]]
+  lang = "en"
+  text = "National organisation for civil registration"
+
+[[title]]
+lang = "en" 
+text = "Number of deaths registered in 1393, disaggregated by causes of death and region" 
+
+[[title]]
+lang = "fa"
+text = "فوت جاری ثبت شده در سال ۱۳۹۳ بر حسب علت فوت و به تفکیک استانی"
+
+[[description]]
+lang = "fa"
+text = "این مجموعه داده از جدول شماره ۱۱ در صفحه ۲۳۴ و ۲۳۵ از سالنامه آمارهای جمعیتی سازمان ثبت احوال کشور ۱۳۹۳ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 11, pages 234 and 235, of the National Organisation for Civil Registration 1393 Demographic Yearbook"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1693fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/nocrd/nocrcd1693en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Number of deaths registered in 1393, disaggregated by causes of death and region"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "فوت جاری ثبت شده در سال ۱۳۹۳ بر حسب علت فوت و به تفکیک استانی"
+
+  [[resources.sources]]
+  name = "National organisation for civil registration" 
+  web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh93.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total death"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Infections and Parasitic disease"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cancer and Tumors"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Hematopoietic immune system diseases"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Nutritional and metabolic diseases"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Mental illness and behavioral disorders"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Nervous system diseases"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cardiovascular disease"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Respiratory tract diseases"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Gastrointestinal diseases"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Skin and subcutaneous diseases "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Musculoskeletal diseases"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Genitourinary tract diseases"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Complications of pregnancy and childbirth"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Congenital and chromosomal abnormalities"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Perinatal diseases"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Vague ill-defined conditions"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unintentional injuries"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unknown "
+      type = "string"
+
+
