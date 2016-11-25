@@ -2,8 +2,8 @@ name = "nocrhsp161"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1386, 1386] 
-category= ["health"]
+period = [1385, 1385] 
+category= ["health", "population"]
 
 [[maintainer]]
 lang = "en" 
@@ -15,14 +15,14 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["death", "Iran", "diseases"]
+wordlist = ["death", "Iran", "regions"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["مرگ و میر" , "ایران" , "فوت"]
+wordlist = ["مرگ و میر", "ایران", "فوت"]
 
 [author]
-web = "http://www.sabteahval.ir/Upload/Modules/Contents/asset99/1386.pdf"
+web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/1385.pdf"
 
   [[author.name]] 
   lang = "fa"
@@ -30,41 +30,45 @@ web = "http://www.sabteahval.ir/Upload/Modules/Contents/asset99/1386.pdf"
 
   [[author.name]]
   lang = "en"
-  text = "National Organisation for Civil Registration"
+  text = "National organisation for civil registration"
 
 [[title]]
 lang = "en" 
-text = "Registered deaths, by cause and province (1386)" 
+text = "Number of deaths registered in 1385, disaggregated by causes of death and region" 
 
 [[title]]
 lang = "fa"
-text = "فوت جاری ثبت شده در سال ۱۳۸۶ بر حسب علت فوت و به تفکیک استانی"
+text = "فوت جاری ثبت شده در سال ۱۳۸۵ بر حسب علت فوت و به تفکیک استانی"
 
 [[description]]
 lang = "fa"
-text = "این مجموعه داده از جدول شماره ۱۳ در صفحه ۲۷۴ و ۲۷۵ از سالنامه آمارهای جمعیتی سازمان ثبت احوال کشور ۱۳۸۶ استخراج شده است."
+text = "این مجموعه داده از جدول شماره ۱۳ در صفحه ۲۶۴ و ۲۶۵ از سالنامه آمارهای جمعیتی سازمان ثبت احوال کشور ۱۳۸۵ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = ""
+text = "Dataset extracted from table 13, pages 264 and 265, of the National Organisation for Civil Registration 1385 Demographic Yearbook"
 
 [[resources]]
 
   [[resources.url]] 
   lang = "fa"
-  link = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1686fa.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1685fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/nocrd/NOCRCD1685en.csv"
 
   [[resources.title]]
   lang = "en" 
-  text = "Database"
+  text = "Number of deaths registered in 1385, disaggregated by causes of death and region"
 
   [[resources.title]]
   lang = "fa"
-  text = "Database"
+  text = "فوت جاری ثبت شده در سال ۱۳۸۵ بر حسب علت فوت و به تفکیک استانی"
 
   [[resources.sources]]
-  name = "National Organisation for Civil Registration" 
-  web = "http://www.sabteahval.ir/Upload/Modules/Contents/asset99/1386.pdf" 
+  name = "National organisation for civil registration" 
+  web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/1385.pdf" 
 
   [resources.schema]
   format = "csv"
@@ -75,84 +79,78 @@ text = ""
 
       [[resources.schema.fields]]
       name = "Total death"
-      type = "integer"
+      type = "string"
 
       [[resources.schema.fields]]
       name = "Infections and Parasitic diseases"
-      type = "integer"
+      type = "string"
 
       [[resources.schema.fields]]
-      name = "Cancer and Tumors"
-      type = "integer"
-      
+      name = "Cancer and Tumour"
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Hematopoietic immune system diseases"
-      type = "integer"
+      type = "string"
 
       [[resources.schema.fields]]
       name = "Nutritional and metabolic diseases"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
-      name = "Mental illness and behavioral disorders"
-      type = "integer"
-      
+      name = "Mental illness and behavioural disorders"
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Nervous system diseases"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Cardiovascular diseases"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Respiratory tract diseases"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
-      name = "Skin and subcutaneous diseases"
-      type = "integer"
-      
+      name = "Gastrointestinal diseases"
+      type = "string"
+
       [[resources.schema.fields]]
-      name = "Respiratory tract diseases"
-      type = "integer"
-      
-      [[resources.schema.fields]]
-      name = "Skin and subcutaneous diseases"
-      type = "integer"
-      
+      name = "Skin and subcutaneous diseases "
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Musculoskeletal diseases"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Genitourinary tract diseases"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
-      name = "Complications in pregnancy and childbirth"
-      type = "integer"
-      
+      name = "Complications of pregnancy and childbirth"
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Congenital and chromosomal abnormalities"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Perinatal diseases"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Vague ill-defined conditions"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
       name = "Unintentional injuries"
-      type = "integer"
-      
+      type = "string"
+
       [[resources.schema.fields]]
-      name = "Unknown"
-      type = "integer"
-      
-      [[resources.schema.fields]]
-      name = "Others Total"
-      type = "integer"
+      name = "Unknown "
+      type = "string"
+
+
