@@ -1,5 +1,8 @@
 name = "scipo165"
 license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [, ] 
 category= ["population"]
 
 [[maintainer]]
@@ -11,17 +14,17 @@ lang = "fa"
 text = "اسمال مدیا"
 
 [[keywords]]
-lang = "fa"
-wordlist = [ "خانوار", "جمعیت", "شهری", "روستایی",]
+lang = "en" 
+wordlist = ["household", "population", "urban area", "rural area"]
 
 [[keywords]]
-lang = "en"
-wordlist = [ "urban" , "rural", "population" , "household"]
+lang = "fa" 
+wordlist = ["خانوار", "جمعیت", "شهری", "روستایی"]
 
 [author]
 web = "http://nnt.sci.org.ir/sites/Apps/yearbook/Lists/year_book_req/Item/newifs.aspx?List=97c00882-734c-4417-831a-633d795b18ce&RootFolder=&Web=f9aca984-16ee-4860-8c00-bb43c696d32d"
 
-  [[author.name]]
+  [[author.name]] 
   lang = "fa"
   text = "مرکز آمار ایران"
 
@@ -30,8 +33,8 @@ web = "http://nnt.sci.org.ir/sites/Apps/yearbook/Lists/year_book_req/Item/newifs
   text = "Statistical Centre of Iran"
 
 [[title]]
-lang = "en"
-text = "Tehran province's population disaggregated by residency status (1390)"
+lang = "en" 
+text = "Household and population of Tehran's province, disaggregated by residency" 
 
 [[title]]
 lang = "fa"
@@ -39,35 +42,67 @@ text = "خانوار و جمعیت شهرستان‌های استان تهران
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول ۲-۶ صفحه ۲۳ از سالنامه آماری استان تهران ۱۳۹۳ تهیه شده است. "
+text = "این داده از جدول ۲-۶ صفحه ۲۳ از سالنامه آماری استان تهران ۱۳۹۳ تهیه شده است."
+
 [[description]]
 lang = "en"
-text = ""
-
+text = "Dataset extracted from table 2-6, page 23, of the 1393 Statistical Yearbook"
 
 [[resources]]
 
   [[resources.url]] 
   lang = "fa"
-  link = "http://iod.dataset.s3.amazonaws.com/population%20/scipo165fa.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo165fa.csv" 
 
-  [[resources.url]] 
+  [[resources.url]]
   lang = "en"
-  link = "http://iod.dataset.s3.amazonaws.com/population%20/scipo165en.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo165en.csv"
 
   [[resources.title]]
-  lang = "en"
-  text = "Tehran province's population disaggregated by residency status (1390)"
+  lang = "en" 
+  text = "Household and population of Tehran's province, disaggregated by residency"
 
   [[resources.title]]
   lang = "fa"
   text = "خانوار و جمعیت شهرستان‌های استان تهران بر حسب ساکن و غیرساکن (1390)"
 
   [[resources.sources]]
-  name = "Statistical Centre of Iran"
-  web = "http://nnt.sci.org.ir/sites/Apps/yearbook/Lists/year_book_req/Item/newifs.aspx?List=97c00882-734c-4417-831a-633d795b18ce&RootFolder=&Web=f9aca984-16ee-4860-8c00-bb43c696d32d"
+  name = "Statistical Centre of Iran" 
+  web = "http://nnt.sci.org.ir/sites/Apps/yearbook/Lists/year_book_req/Item/newifs.aspx?List=97c00882-734c-4417-831a-633d795b18ce&RootFolder=&Web=f9aca984-16ee-4860-8c00-bb43c696d32d" 
 
   [resources.schema]
   format = "csv"
 
-     
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total households"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total population"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Urban area - resident households"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Urban area – resident population"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Rural area – resident households"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Rural area – resident population"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Non-resident households"
+      type = "string"
+
+
