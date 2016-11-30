@@ -1,0 +1,112 @@
+name = "sciehe1623"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1392, 1392] 
+category= ["employment", "population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["unemployment", "employment", "labour market", "urban area", "rural area"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بیکاری", "اشتغال", "بازار کار", "شهری", "روستایی"]
+
+[author]
+web = "https://drive.google.com/open?id=0B4viFwPm8_QKS3VxN05hWmxBbjQ"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The unemployment rate of the population 10 years and over by sex, by province (1392)" 
+
+[[title]]
+lang = "fa"
+text = "نرخ بیکاری جمعیت ۱۰ساله و بیشتر برحسب استان به تفکیک جنس(سال ۱۳۹۲)"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۲۵ در صفحه ۴۹ نتایج آمارگیری نیروی کار ۱۳۹۲ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 25, page 49, of the 1392 Labour Force Survey"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1623fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1623en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The unemployment rate of the population 10 years and over by sex, by province (1392)"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "نرخ بیکاری جمعیت ۱۰ساله و بیشتر برحسب استان به تفکیک جنس(سال ۱۳۹۲)"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://drive.google.com/open?id=0B4viFwPm8_QKS3VxN05hWmxBbjQ" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total Male & Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Male & Female (Urban Areas)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Male (Urban Areas)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Female (Urban Areas)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Male & Female (Rural Areas)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Male (Rural Areas)"
+      type = "string"
+
+

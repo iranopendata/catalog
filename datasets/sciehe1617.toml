@@ -1,0 +1,96 @@
+name = "sciehe1617"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1390, 1390] 
+category= ["employment", "population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["unemployment", "employment", "labour market", "urban area", "rural area"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بیکاری", "اشتغال", "بازار کار", "شهری", "روستایی"]
+
+[author]
+web = "https://drive.google.com/open?id=0B4viFwPm8_QKTG1BbDc4N1l5Mlk"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Labour force index disaggregated by sex, rural and urban area (1390)" 
+
+[[title]]
+lang = "fa"
+text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی سال ۱۳۹۰"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۱ در صفحه ۵ چکیده نتایج طرح آمارگیری نیروی کار سال ۱۳۹۰ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 1, page 5, of the 1390 Labour Force Survey"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1617fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1617en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Labour force index disaggregated by sex, rural and urban area (1390)"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی سال ۱۳۹۰"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://drive.google.com/open?id=0B4viFwPm8_QKTG1BbDc4N1l5Mlk" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Indicators of labor"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The whole Country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Urban Areas"
+      type = "string"
+
+

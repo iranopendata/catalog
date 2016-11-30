@@ -1,0 +1,96 @@
+name = "sciehe1621"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1392, 1392] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["unemployment", "employment", "labour market", "urban area", "rural area"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بیکاری", "اشتغال", "بازار کار", "شهری", "روستایی"]
+
+[author]
+web = "https://drive.google.com/open?id=0B4viFwPm8_QKS3VxN05hWmxBbjQ"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Distribution of workers aged 10 and over, disaggregated by sex, rural and urban area (1392)" 
+
+[[title]]
+lang = "fa"
+text = "توزیع نسبی برآورد جمعیت ۱۰ساله و بیشتر بر حسب وضع فعالیت به تفکفک جنس، نقاط شهری و روستای(سال ۱۳۹۲)"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۷ در صفحه ۳۶ نتایج آمارگیری نیروی کار ۱۳۹۲ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 7, page 36, of the 1392 Labour Force Survey"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1621fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1621en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Distribution of workers aged 10 and over, disaggregated by sex, rural and urban area (1392)"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "توزیع نسبی برآورد جمعیت ۱۰ساله و بیشتر بر حسب وضع فعالیت به تفکفک جنس، نقاط شهری و روستای(سال ۱۳۹۲)"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://drive.google.com/open?id=0B4viFwPm8_QKS3VxN05hWmxBbjQ" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Activity Status"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Male & Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Urban Areas"
+      type = "string"
+
+
