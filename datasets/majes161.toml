@@ -15,11 +15,11 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["Environment"]
+wordlist = ["Agriculture","Farming"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["محیط زیست"]
+wordlist = ["کشاورزی","زراعت"]
 
 [author]
 web = "http://www.maj.ir/Portal/File/ShowFile.aspx?ID=6f66d3e3-0884-4823-b12d-6319a2edad84"
