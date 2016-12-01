@@ -15,11 +15,11 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["Family economy", "Prices for goods & services", "Urban Areas", "Household income", "Household expenditure", "Inflation"]
+wordlist = ["Inflation", "Prices index"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["اقتصاد خانواده", "بهای کالاها و خدمات", "مناطق شهری", "درامد خانوار", "هزینه خانوار", "تورم"]
+wordlist = ["تورم ","شاخص قیمت"]
 
 [author]
 web = "http://cbi.ir/page/13363.aspx"
@@ -42,12 +42,11 @@ text = "شاخص بهای كالاها و خدمات مصرفی در مناطق 
 
 [[description]]
 lang = "fa"
-text = "،سال پایه=۱۳۹۰
-این داده از جدول شماره ۲ در صفحه ۲۱ نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۳ استخراج شده است."
+text = "سال پایه = ۱۳۹۰- این داده از جدول شماره ۲ در صفحه ۲۱ نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۳ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Dataset extracted from table 2, page 21, of the Results household budget survey in urban areas of Iran in 1393."
+text = "1390=100. Dataset extracted from table 2, page 21, of the Results household budget survey in urban areas of Iran in 1393."
 
 [[resources]]
 
