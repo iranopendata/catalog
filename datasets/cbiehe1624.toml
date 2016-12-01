@@ -38,7 +38,7 @@ text = "The average net cost of the annual budget of households in urban areas s
 
 [[title]]
 lang = "fa"
-text = "بررسی بودجه خانوار در مناطق شهری ايران - متوسط هزينه خالص سالانه يك خانوار به تفكيك گروه‌های مختلف هزينه طی سال‌های ۱۳۹۳ - ۱۳۸۴"
+text = "بررسی بودجه خانوار در مناطق شهری ايران متوسط هزينه خالص سالانه يك خانوار به تفكيك گروه‌های مختلف هزينه طی سال‌های 1393- 1384"
 
 [[description]]
 lang = "fa"
@@ -72,5 +72,85 @@ text = "Dataset extracted from table 3, page 20, of the Results household budget
 
   [resources.schema]
   format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Price groups and Years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1384) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1384)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1385) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1385)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1386) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1386)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1387) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1387)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1388) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1388)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1389) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1389)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1390) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1390)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1391) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1391)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1392) in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate (1392)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost (1393) in Rials"
+      type = "string"
 
 
