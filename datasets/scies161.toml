@@ -38,11 +38,11 @@ text = "Quantity and area of exploitation of lands, disaggregated by the extent 
 
 [[title]]
 lang = "fa"
-text = "تعداد و مساحت بهرهبرداريهاي با زمين بر حسب وسعت اراضی كشاورزي (سال ۱۳۹۳)"
+text = "تعداد و مساحت بهرهبرداريهای با زمين بر حسب وسعت اراضی كشاورزی (سال ۱۳۹۳)"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۹ در صفحه ۴۵ نتايج تفصيلي سرشماري عمومي كشاورزي كل كشور ۱۳۹۳ استخراج شده است."
+text = "این داده از جدول شماره ۹ در صفحه ۴۵ نتايج تفصيلی سرشماری عمومي كشاورزی كل كشور ۱۳۹۳ استخراج شده است."
 
 [[description]]
 lang = "en"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 9, page 45, of the Detailed Results of the 
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد و مساحت بهرهبرداريهاي با زمين بر حسب وسعت اراضی كشاورزي (سال ۱۳۹۳)"
+  text = "تعداد و مساحت بهرهبرداريهای با زمين بر حسب وسعت اراضی كشاورزی (سال ۱۳۹۳)"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
