@@ -15,11 +15,11 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["Household income", "Urban Areas", "Family economy", "Household expenditure"]
+wordlist = ["Household income", "Family economy", "Household expenditure"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["درامد خانوار", "مناطق شهری", "اقتصاد خانواده", "هزینه خانوار"]
+wordlist = ["درامد خانوار", "اقتصاد خانواده", "هزینه خانوار"]
 
 [author]
 web = "http://cbi.ir/page/13423.aspx"
