@@ -38,11 +38,11 @@ text = "Quantity and area of exploitation of irrigated lands, disaggregated by p
 
 [[title]]
 lang = "fa"
-text = "تعداد و مساحت بهرهبرداريهاي با زمين آبی بر حسب استان (سال ۱۳۹۳)"
+text = "تعداد و مساحت بهرهبرداريهای با زمين آبی بر حسب استان (سال ۱۳۹۳)"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۱۱ در صفحه ۴۷ نتايج تفصيلي سرشماري عمومي كشاورزي كل كشور ۱۳۹۳ استخراج شده است."
+text = "این داده از جدول شماره ۱۱ در صفحه ۴۷ نتايج تفصيلي سرشماری عمومي كشاورزی كل كشور ۱۳۹۳ استخراج شده است."
 
 [[description]]
 lang = "en"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 11, page 47, of the Detailed Results of the
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد و مساحت بهرهبرداريهاي با زمين آبی بر حسب استان (سال ۱۳۹۳)"
+  text = "تعداد و مساحت بهرهبرداريهای با زمين آبی بر حسب استان (سال ۱۳۹۳)"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
