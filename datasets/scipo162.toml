@@ -15,7 +15,7 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = []
+wordlist = ["occupation" , "unemployment" , "urban area" , "rural area"]
 
 [[keywords]]
 lang = "fa" 
@@ -30,11 +30,11 @@ web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs"
 
   [[author.name]]
   lang = "en"
-  text = ""
+  text = "Statistical Centre of Iran"
 
 [[title]]
 lang = "en" 
-text = "" 
+text = "Distribution of population aged 10 and over, disaggregated by occupation, urban and rural area" 
 
 [[title]]
 lang = "fa"
@@ -46,7 +46,7 @@ text = "این داده از جدول شماره ۲۳-۱ از نتایج کلی 
 
 [[description]]
 lang = "en"
-text = ""
+text = "Dataset extracted from table 1-23 of the 1385 General Census of Population and Housing."
 
 [[resources]]
 
@@ -60,15 +60,15 @@ text = ""
 
   [[resources.title]]
   lang = "en" 
-  text = ""
+  text = "Distribution of population aged 10 and over, disaggregated by occupation, urban and rural area"
 
   [[resources.title]]
   lang = "fa"
   text = "توزیع جمعیت فعال ۱۰ ساله و بیش‌تر بر حسب شاغل و بیکار در نقاط شهری و روستایی"
 
   [[resources.sources]]
-  name = "" 
-  web = "https://drive.google.com/open?id=0B4viFwPm8_QKWHpvUFR6aXhmbGs" 
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/census/1385/results/country_1385_general.pdf" 
 
   [resources.schema]
   format = "csv"
