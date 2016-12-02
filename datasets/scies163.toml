@@ -38,11 +38,11 @@ text = "Quantity and area of exploitation of dry lands, disaggregated by provinc
 
 [[title]]
 lang = "fa"
-text = "تعداد و مساحت بهرهبرداريهاي با زمين ديم بر حسب استان (سال ۱۳۹۳)"
+text = "تعداد و مساحت بهرهبرداريهای با زمين ديم بر حسب استان (سال ۱۳۹۳)"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۱۲ در صفحه ۴۸ نتايج تفصيلي سرشماري عمومي كشاورزي كل كشور ۱۳۹۳ استخراج شده است."
+text = "این داده از جدول شماره ۱۲ در صفحه ۴۸ نتايج تفصيلی سرشماری عمومی كشاورزی كل كشور ۱۳۹۳ استخراج شده است."
 
 [[description]]
 lang = "en"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 12, page 48, of the Detailed Results of the
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد و مساحت بهرهبرداريهاي با زمين ديم بر حسب استان (سال ۱۳۹۳)"
+  text = "تعداد و مساحت بهرهبرداريهای با زمين ديم بر حسب استان (سال ۱۳۹۳)"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
