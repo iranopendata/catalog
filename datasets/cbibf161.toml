@@ -1,0 +1,136 @@
+name = "cbibf161"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1369 ,  1393] 
+category= ["banking"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Inflation", "Prices of goods and services", "Household income", "Household expenditure"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["تورم", "بهای کالاها و خدمات", "درآمد خانوار", "هزینه خانوار"]
+
+[author]
+web = "http://cbi.ir/page/13363.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Central Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "Price index of goods and services in urban areas of the main groups and groups dedicated annual average index in the 1369 - 1393" 
+
+[[title]]
+lang = "fa"
+text = "شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران - متوسط سالانه شاخص کل، گروه‌های اصلی و گروه‌های اختصاصی درسال‌های ۱۳۶۹ - ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "سال پایه =۱۳۹۰- این داده از جدول شماره ۲ در صفحه ۲۱ نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۳ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Base year = 1390 - The data is from Table 2 on page 21. Results household budget survey in urban areas of Iran in 1393 has been extracted."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bf/cbibf161fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bf/cbibf161en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Price index of goods and services in urban areas of the main groups and groups dedicated annual average index in the 1369 - 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران - متوسط سالانه شاخص کل، گروه‌های اصلی و گروه‌های اختصاصی درسال‌های ۱۳۶۹ - ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Central Bank of Iran" 
+  web = "http://cbi.ir/page/13363.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Groups and Year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The total net cost"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Food & Beverages"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Tobacco"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Clothing & shoes"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main group – Housing, water, electricity, gas & fuels"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Supplies & services used in home furnishings"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Healthcare"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Transportation"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Connections"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Recreation & Cultural affairs"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Schooling"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Restaurants & Hotels"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The main groups – Products & Services"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Monitoring groups – Products"
+      type = "string"
+
+
