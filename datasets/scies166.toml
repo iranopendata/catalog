@@ -1,0 +1,100 @@
+name = "scies166"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1393, 1393] 
+category= ["economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["agriculture", "literacy", "age"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["کشاورزی", "وضع سواد", "سن"]
+
+[author]
+web = "http://www.amar.org.ir/Portals/0/keshavarzi93/results/agri93-99.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمارایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Exploitation of lands belonging to individuals, disaggregated by literacy, level of education and age (1993)" 
+
+[[title]]
+lang = "fa"
+text = "بهره‌برداریهای كشاورزی متعلق به اشخاص حقيقی بر حسب، وضع سواد و مدرك تحصيلی و سن بهره‌بردار (سال ۱۳۹۳)"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۶ در صفحه ۴۰ نتايج تفصيلی سرشماری عمومی كشاورزی كل كشور ۱۳۹۳ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 18, page 55, of the Detailed Results of the 1393 General Census of Agriculture."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies166fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies166en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Exploitation of lands belonging to individuals, disaggregated by literacy, level of education and age (1993)"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "بهره‌برداریهای كشاورزی متعلق به اشخاص حقيقی بر حسب، وضع سواد و مدرك تحصيلی و سن بهره‌بردار (سال ۱۳۹۳)"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "http://www.amar.org.ir/Portals/0/keshavarzi93/results/agri93-99.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Age of landowners"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Illiterate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Literacy disaggregated by degree – total "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Literacy disaggregated by degree – primary and non official school "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Literacy disaggregated by degree – middle and secondary school, and pre-university courses"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Literacy disaggregated by degree – high school diploma in agriculture"
+      type = "string"
+
+
