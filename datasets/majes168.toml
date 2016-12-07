@@ -1,0 +1,84 @@
+name = "majes168"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1391, 1391] 
+category= ["economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Crop pests", "Plant diseases"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["آفات زراعی", "بیماری‌های نباتات"]
+
+[author]
+web = "http://www.maj.ir/Portal/File/ShowFile.aspx?ID=71539e78-a50b-4043-923c-941e03db6091"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "وزارت جهاد کشاورزی"
+
+  [[author.name]]
+  lang = "en"
+  text = "Ministry of Agriculture-Jahad"
+
+[[title]]
+lang = "en" 
+text = "Yield crops pests control and plant diseases in the years 1392 and 1393" 
+
+[[title]]
+lang = "fa"
+text = "عملكرد مبارزه با آفات و بيماری‌های نباتات زراعی در سال‌های ۱۳۹۲ و ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۱-۴-۱۲ در صفحه ۶۹، جلد دوم آمارنامه کشاورزی سال ۱۳۹۳ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset from 1-4-12 table on page 69, the second volume of agricultural statistics in 1393 has been extracted."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/es/majes168fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/es/majes168en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Yield crops pests control and plant diseases in the years 1392 and 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "عملكرد مبارزه با آفات و بيماری‌های نباتات زراعی در سال‌های ۱۳۹۲ و ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Ministry of Agriculture-Jahad" 
+  web = "http://www.maj.ir/Portal/File/ShowFile.aspx?ID=71539e78-a50b-4043-923c-941e03db6091" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description / year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1392"
+      type = "string"
+
+

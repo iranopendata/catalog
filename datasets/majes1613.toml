@@ -1,0 +1,100 @@
+name = "majes1613"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1386, 1386] 
+category= ["economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Chemical pesticides"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["سموم شیمیایی"]
+
+[author]
+web = "http://www.maj.ir/Portal/File/ShowFile.aspx?ID=d0b078e5-9a97-4ddf-bd09-9fae2c1fa3ef"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "وزارت جهاد کشاورزی"
+
+  [[author.name]]
+  lang = "en"
+  text = "Ministry of Agriculture-Jahad"
+
+[[title]]
+lang = "en" 
+text = "The distribution of chemical toxins into separate provinces in 1386" 
+
+[[title]]
+lang = "fa"
+text = "ميزان توزیع سموم شيميايی به تفكيک استان در سال۱۳۸۶"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۱-۲-۲ در صفحه ۲۱، جلد دوم آمارنامه کشاورزی سال ۱۳۸۶ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset from 1-2-2 table on page 21, the second volume of agricultural statistics in 1386 has been extracted."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/es/majes1613fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/es/majes1613en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The distribution of chemical toxins into separate provinces in 1386"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "ميزان توزیع سموم شيميايی به تفكيک استان در سال۱۳۸۶"
+
+  [[resources.sources]]
+  name = "Ministry of Agriculture-Jahad" 
+  web = "http://www.maj.ir/Portal/File/ShowFile.aspx?ID=d0b078e5-9a97-4ddf-bd09-9fae2c1fa3ef" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total (litres / kg)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Insecticide (litres / kg)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Acaricides (litres / kg)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fungicides (litres / kg)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Herbicide (liters / kg)"
+      type = "string"
+
+

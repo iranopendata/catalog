@@ -1,0 +1,92 @@
+name = "mrudho163"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1365, 1390] 
+category= ["housing"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Housing", "Distribution of housing units", "The number of households living", "Household density housing"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مسکن", "توزیع واحدهای مسکونی", "تعداد خانوار ساکن", "تراکم خانوار در مسکن"]
+
+[author]
+web = "http://www.pnu.ac.ir/portal/File/ShowFile.aspx?ID=4ffc4ba2-da33-4f59-b4ee-5de53bb3c0a10"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "وزارت راه و شهرسازی، سازمان ملی زمین و مسکن"
+
+  [[author.name]]
+  lang = "en"
+  text = "Ministry of Road & Urban Development of Iran, The National Land & Housing Organisation"
+
+[[title]]
+lang = "en" 
+text = "Distribution based on the number of households living in conventional housing units in 1365 to 1390" 
+
+[[title]]
+lang = "fa"
+text = "توزیع واحدهای مسکونی معمولی براساس تعداد خانوار ساکن در سالهای ۱۳۶۵ تا ۱۳۹۰"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۳۶ در صفحه ۴۳، مطالعات بازنگری طرح جامع مسکن، سند راهبردی و چشم انداز کلان بخش مسکن در افق ۱۴۰۵ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset from table 36 on page 43, studies Reload comprehensive housing plan, Horizon 1405 strategic document and outlook for the housing sector overall has been extracted."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/mrudho163fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/mrudho163en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Distribution based on the number of households living in conventional housing units in 1365 to 1390"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "توزیع واحدهای مسکونی معمولی براساس تعداد خانوار ساکن در سالهای ۱۳۶۵ تا ۱۳۹۰"
+
+  [[resources.sources]]
+  name = "Ministry of Road & Urban Development of Iran, The National Land & Housing Organisation" 
+  web = "http://www.pnu.ac.ir/portal/File/ShowFile.aspx?ID=4ffc4ba2-da33-4f59-b4ee-5de53bb3c0a10" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1 household"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "2 households"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "3 households"
+      type = "string"
+
+

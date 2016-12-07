@@ -1,0 +1,112 @@
+name = "mrudho162"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1365, 1390] 
+category= ["housing"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Housing", "Persons per dwelling", "The density of persons per dwelling", "Family size"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مسکن", "نفر در واحد مسکونی", "تراکم نفر در واحد مسکونی", "بعد خانوار"]
+
+[author]
+web = "http://www.pnu.ac.ir/portal/File/ShowFile.aspx?ID=4ffc4ba2-da33-4f59-b4ee-5de53bb3c0a9"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "وزارت راه و شهرسازی، سازمان ملی زمین و مسکن"
+
+  [[author.name]]
+  lang = "en"
+  text = "Ministry of Road & Urban Development of Iran, The National Land & Housing Organisation"
+
+[[title]]
+lang = "en" 
+text = "Compare the ratio of persons per dwelling by household size, 1365 to 1390" 
+
+[[title]]
+lang = "fa"
+text = "مقایسه نسبت شاخص نفر در واحد مسکونی با بعد خانوار ۱۳۶۵ تا ۱۳۹۰"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۳۵ در صفحه ۴۲، مطالعات بازنگری طرح جامع مسکن، سند راهبردی و چشم انداز کلان بخش مسکن در افق ۱۴۰۵ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset from table 35 on page 42, studies Reload comprehensive housing plan, Horizon 1405 strategic document and outlook for the housing sector overall has been extracted."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/mrudho162fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/mrudho162en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Compare the ratio of persons per dwelling by household size, 1365 to 1390"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "مقایسه نسبت شاخص نفر در واحد مسکونی با بعد خانوار ۱۳۶۵ تا ۱۳۹۰"
+
+  [[resources.sources]]
+  name = "Ministry of Road & Urban Development of Iran, The National Land & Housing Organisation" 
+  web = "http://www.pnu.ac.ir/portal/File/ShowFile.aspx?ID=4ffc4ba2-da33-4f59-b4ee-5de53bb3c0a9" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The entire country - family members"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The entire country – housing"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The entire country – two indices"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The urban areas - family members"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The urban areas – housing"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The urban areas – two indices"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The rural areas - family members"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The rural areas – housing"
+      type = "string"
+
+
