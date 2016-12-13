@@ -1,0 +1,124 @@
+name = "aqccen161"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1393, 1393] 
+category= ["environment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["air", "month", "Tehran", "pollution"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["هوا", "ماه", "تهران", "آلودگی"]
+
+[author]
+web = "http://air.tehran.ir/portals/0/ReportFiles/AirPollution/New/25.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "شرکت کنترل کیفیت هوا - وابسته به شهرداری تهران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Air Quality Control Company - Subsidiary of Terhan Municipality"
+
+[[title]]
+lang = "en" 
+text = "Air quality according to AQI, disaggregated by months over 1393" 
+
+[[title]]
+lang = "fa"
+text = "کیفیت هوا بر اساس شاخص AQI طی ماه‌های مختلف در سال ۱۳۹۳ (تعداد روز)"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۳-۱-۳ در صفحه ۹۵، کیفیت هوا بر اساس شاخص AQI طی ماه‌های مختلف در سال ۱۳۹۳ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from table 3-1-3, page 95, of the 1393 Annual Report on Tehran's Air Quality. Please note the dataset is disaggregated by Persian months."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/en/aqccen161fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/en/aqccen161en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Air quality according to AQI, disaggregated by months over 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "کیفیت هوا بر اساس شاخص AQI طی ماه‌های مختلف در سال ۱۳۹۳ (تعداد روز)"
+
+  [[resources.sources]]
+  name = "Air Quality Control Company - Subsidiary of Terhan Municipality" 
+  web = "http://air.tehran.ir/portals/0/ReportFiles/AirPollution/New/25.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Air Quality Index"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Farvardin"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ordibehesht "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khordad"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tir"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Mordad"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Shahrivar"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Mehr"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Aban"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Azar"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Dey"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Bahman"
+      type = "string"
+
+
