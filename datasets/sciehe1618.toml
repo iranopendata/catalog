@@ -22,7 +22,7 @@ lang = "fa"
 wordlist = ["بیکاری", "اشتغال", "بازار کار", "شهری", "روستایی"]
 
 [author]
-web = "https://drive.google.com/open?id=0B4viFwPm8_QKOHFBRjl4ejloaXM"
+web = "http://lib.sci.org.ir/DIGLIB/getfile.aspx?fileid=8412"
 
   [[author.name]] 
   lang = "fa"
@@ -68,7 +68,7 @@ text = "Dataset extracted from table 7, page 33, of the 1391 Labour Force Survey
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
-  web = "https://drive.google.com/open?id=0B4viFwPm8_QKOHFBRjl4ejloaXM" 
+  web = "http://lib.sci.org.ir/DIGLIB/getfile.aspx?fileid=8412" 
 
   [resources.schema]
   format = "csv"
