@@ -22,7 +22,7 @@ lang = "fa"
 wordlist = ["اشتغال", "بخش خصوصی", "بخش عمومی", "نقاط شهری", "نقاط روستایی"]
 
 [author]
-web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE"
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf"
 
   [[author.name]] 
   lang = "fa"
@@ -34,11 +34,11 @@ web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE"
 
 [[title]]
 lang = "en" 
-text = "Employed population aged 10 and over disaggregated by field of work and emloyment status" 
+text = "Employed population aged 10 and over disaggregated by field of work and emloyment status (1393)" 
 
 [[title]]
 lang = "fa"
-text = "شاغلان ۱۰ ساله و بيشتر برحسب جنس و گروههای عمده شغلي به تفكيك وضع شغلي (سال ۱۳۹۳)"
+text = "شاغلان ۱۰ ساله و بيشتر برحسب جنس و گروههاي عمده شغلي به تفكيك وضع شغلي (سال ۱۳۹۳)"
 
 [[description]]
 lang = "fa"
@@ -46,7 +46,7 @@ text = "این داده از جدول شماره ۱۶ در صفحه ۱۴۹ نت�
 
 [[description]]
 lang = "en"
-text = "This dataset was extracted from table 16, page 149, of the Labor Force Survey, 1393"
+text = ""
 
 [[resources]]
 
@@ -60,7 +60,7 @@ text = "This dataset was extracted from table 16, page 149, of the Labor Force S
 
   [[resources.title]]
   lang = "en" 
-  text = "Employed population aged 10 and over disaggregated by field of work and emloyment status"
+  text = "Employed population aged 10 and over disaggregated by field of work and emloyment status (1393)"
 
   [[resources.title]]
   lang = "fa"
@@ -68,7 +68,7 @@ text = "This dataset was extracted from table 16, page 149, of the Labor Force S
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
-  web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf" 
 
   [resources.schema]
   format = "csv"

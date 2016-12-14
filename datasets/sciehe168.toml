@@ -22,7 +22,7 @@ lang = "fa"
 wordlist = ["تحصیلات", "اشتغال", "نقاط شهری", "نقاط روستایی", "زنان"]
 
 [author]
-web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE"
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf"
 
   [[author.name]] 
   lang = "fa"
@@ -46,7 +46,7 @@ text = "این داده از جدول شماره 11 در صفحه 95 نتایج 
 
 [[description]]
 lang = "en"
-text = "This dataset was extracted from table 11, page 95, of the Labor Force Survey, 1393."
+text = ""
 
 [[resources]]
 
@@ -68,7 +68,7 @@ text = "This dataset was extracted from table 11, page 95, of the Labor Force Su
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
-  web = "https://drive.google.com/open?id=0B4viFwPm8_QKTTV2Ti1NaXhObFE" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf" 
 
   [resources.schema]
   format = "csv"
