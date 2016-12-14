@@ -38,7 +38,7 @@ text = "Distribution of workers aged 10 and over, disaggregated by sex, rural an
 
 [[title]]
 lang = "fa"
-text = "توزیع نسبی برآورد جمعیت ۱۰ساله و بیشتر بر حسب وضع فعالیت به تفکیک جنس، نقاط شهری و روستایی(سال ۱۳۹۱)"
+text = "توزیع نسبی برآورد جمعیت ۱۰ساله و بیشتر برحسب وضع فعالیت به تفکیک جنس، نقاط شهری و روستایی (سال ۱۳۹۱)"
 
 [[description]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 7, page 33, of the 1391 Labour Force Survey
 
   [[resources.title]]
   lang = "en" 
-  text = "Distribution of workers aged 10 and over, disaggregated by sex, rural and urban area (1391)"
+  text = "Relative Distribution of the population of 10 years and more in terms of activity status by sex, urban and rural areas (1391)"
 
   [[resources.title]]
   lang = "fa"
