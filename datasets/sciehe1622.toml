@@ -22,7 +22,7 @@ lang = "fa"
 wordlist = ["بیکاری", "اشتغال", "بازار کار", "شهری", "روستایی"]
 
 [author]
-web = "https://drive.google.com/open?id=0B4viFwPm8_QKS3VxN05hWmxBbjQ"
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1392/n_ank_92.pdf"
 
   [[author.name]] 
   lang = "fa"
@@ -68,7 +68,7 @@ text = "Dataset extracted from table 9, page 37, of the 1392 Labour Force Survey
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
-  web = "https://drive.google.com/open?id=0B4viFwPm8_QKS3VxN05hWmxBbjQ" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1392/n_ank_92.pdf" 
 
   [resources.schema]
   format = "csv"
