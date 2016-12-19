@@ -1,0 +1,316 @@
+name = "cbiehe1638"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1384, 1384] 
+category= ["employment", "housing", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Housing", "Household budget"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مسکن", "بودجه خانوار"]
+
+[author]
+web = "http://www.cbi.ir/page/3369.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Central Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "Iran household budget survey in urban areas, Average annual gross household expenses to the cost breakdown of various groups in different provinces in 1384" 
+
+[[title]]
+lang = "fa"
+text = "بررسی بودجه خانوار در مناطق شهری ایران، متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه در استان‌های مختلف در سال ۱۳۸۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۴۹ در صفحات ۸۴ تا ۸۶، نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۸۴، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from Table 49 on page 84 to 86, The results of 1384 survey of household spending in urban areas."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe1638fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe1638en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Iran household budget survey in urban areas, Average annual gross household expenses to the cost breakdown of various groups in different provinces in 1384"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "بررسی بودجه خانوار در مناطق شهری ایران، متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه در استان‌های مختلف در سال ۱۳۸۴"
+
+  [[resources.sources]]
+  name = "Central Bank of Iran" 
+  web = "http://www.cbi.ir/page/3369.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Price groups and Years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Azarbaijan East – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Azarbaijan East – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Azarbaijan West – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Azarbaijan West – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ardabil – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ardabil – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Isfahan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Isfahan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ilam – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ilam – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Boushehr – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Boushehr – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tehran – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tehran – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Chaharmahal e Bakhtiari – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Chaharmahal e Bakhtiari – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khorasan South – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khorasan South – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khorasan Razavi – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khorasan Razavi – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khorasan North – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khorasan North – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "khozestan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khozestan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Zanjun – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Zanjun – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Semnan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Semnan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sistan & Balochestan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sistan & Balochestan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fars – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fars – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Qazvin – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Qazvin – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Qom – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Qom – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Kordestan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Kordestan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Kerman – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Kerman – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Kermanshah – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Kermanshah – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Kohgiluyeh and Boyer-Ahmad – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Kohgiluyeh and Boyer-Ahmad – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Golestan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Golestan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Gilan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Gilan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Lorestan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Lorestan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Mazandaran – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Mazandaran – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Markazi – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Markazi – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Hormozgan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Hormozgan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Hamadan – Cost in Rials"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Hamadan – Distribution Rate"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Yazd – Cost in Rials"
+      type = "string"
+
+
