@@ -53,11 +53,11 @@ text = "Dataset extracted from table 10, page 38, of the 1393 Labour Force Surve
 
   [[resources.url]] 
   lang = "fa"
-  link = "" 
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe165fa.csv" 
 
   [[resources.url]]
   lang = "en"
-  link = ""
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe165en.csv"
 
   [[resources.title]]
   lang = "en" 
