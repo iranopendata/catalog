@@ -38,7 +38,7 @@ text = "Distribution of workers aged 10 and over, disaggregated by employment st
 
 [[title]]
 lang = "fa"
-text = "توزيع نسبی براورد شاغلان ۱۰ ساله و بيشتر برحسب وضع شغلی به تفكيک جنس (سال ۱۳۹۳)"
+text = "توزيع نسبی برآورد شاغلان ۱۰ ساله و بيشتر برحسب وضع شغلی به تفكيک جنس (سال ۱۳۹۳)"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 17, page 42, of the 1393 Labour Force Surve
 
   [[resources.title]]
   lang = "fa"
-  text = "توزيع نسبی براورد شاغلان ۱۰ ساله و بيشتر برحسب وضع شغلی به تفكيک جنس (سال ۱۳۹۳)"
+  text = "توزيع نسبی برآورد شاغلان ۱۰ ساله و بيشتر برحسب وضع شغلی به تفكيک جنس (سال ۱۳۹۳)"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
