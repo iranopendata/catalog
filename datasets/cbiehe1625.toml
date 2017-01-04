@@ -1,0 +1,164 @@
+name = "cbiehe1625"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1384 ,  1394] 
+category= ["employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Household income", "Urban Areas", "Household economy", "Household expenditure"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["درآمد خانوار", "مناطق شهری", "اقتصاد خانوار", "هزینه خانوار"]
+
+[author]
+web = "http://cbi.ir/page/15187.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Central Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "Household budget survey in urban areas of average annual gross household income and the share of income groups during the years 1384 - 1394" 
+
+[[title]]
+lang = "fa"
+text = "بررسی بودجه خانوار در مناطق شهری ايران - متوسط درآمد ناخالص سالانه يک خانوار و سهم گروه‌های مختلف درآمد طی سال‌های ۱۳۸۴ تا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۸ در صفحه ۲۶ نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 8, page 26, of the Results household budget survey in urban areas of Iran in 1394."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe1625fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe1625en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Household budget survey in urban areas of average annual gross household income and the share of income groups during the years 1384 - 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "بررسی بودجه خانوار در مناطق شهری ايران - متوسط درآمد ناخالص سالانه يک خانوار و سهم گروه‌های مختلف درآمد طی سال‌های ۱۳۸۴ تا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Central Bank of Iran" 
+  web = "http://cbi.ir/page/15187.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Income groups / years (Income in Rials)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1384"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1384"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1385"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1385"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1393"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Distribution Rate 1393"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Income 1394"
+      type = "string"
+
+
