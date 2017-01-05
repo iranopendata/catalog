@@ -1,0 +1,132 @@
+name = "scies168"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1379, 1392] 
+category= ["economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["gdp", "gross domestic product", "provinces"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["gdp", "محصول ناخالص داخلی", "استان ها"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6676/1379-92.xlsx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکزآمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Non-oil gross domestic product, disaggregated by province" 
+
+[[title]]
+lang = "fa"
+text = "تولید  ناخالص داخلی بدون نفت  به تفکیک استان"
+
+[[description]]
+lang = "fa"
+text = "این داده، نسخه‌ی تمیز شده‌ی فایل منتشر شده‌ی مرکز آمار ایران است."
+
+[[description]]
+lang = "en"
+text = "Dataset cleaned from an Excel file published by the Statistical Center of Iran."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies168fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies168en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Non-oil gross domestic product, disaggregated by province"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تولید  ناخالص داخلی بدون نفت  به تفکیک استان"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6676/1379-92.xlsx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Non-oil gross domestic product (million Rial) / Year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1379"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1380"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1381"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1382"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1383"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1384"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1385"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1391"
+      type = "string"
+
+
