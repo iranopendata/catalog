@@ -1,0 +1,80 @@
+name = "sciehe1628"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["unemployment", "unemployment rate", "population"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بیکاری", "نرخ بیکاری", "جمعیت"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Main labour force indicators for population aged 15 and over, disaggregated by sex and province" 
+
+[[title]]
+lang = "fa"
+text = "شاخص‌های عمده نیروی کار در جمعیت ۱۵ ساله و بیشتر به تفکیک جنس و استان"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۴۷ در صفحه ۳۸۰، نتایج آمارگیری نیروی کار در سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 47 on page 380, Results of the 1394 Labour force survey."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1628fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1628en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Main labour force indicators for population aged 15 and over, disaggregated by sex and province"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "شاخص‌های عمده نیروی کار در جمعیت ۱۵ ساله و بیشتر به تفکیک جنس و استان"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Sex and province"
+      type = "string"
+
+
