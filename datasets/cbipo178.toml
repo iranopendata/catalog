@@ -1,0 +1,96 @@
+name = "cbipo178"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1385, 1394] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Employment", "Employed", "Household"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["اشتغال", "شاغل", "خانوار"]
+
+[author]
+web = "http://cbi.ir/page/15187.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی جمهوری اسلامی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Cenral Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "Iran household budget survey in urban areas, the percentage distribution of households by number of employees during the period 1385 to 1394" 
+
+[[title]]
+lang = "fa"
+text = "بررسی بودجه خانوار در مناطق شهری ایران، درصد توزيع خانوارها بر حسب تعداد شاغلین طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۲۰ در صفحه ۴۴، نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 20 on page 44, results of the households budget survey in urban areas in year 1394."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo178fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo178en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Iran household budget survey in urban areas, the percentage distribution of households by number of employees during the period 1385 to 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "بررسی بودجه خانوار در مناطق شهری ایران، درصد توزيع خانوارها بر حسب تعداد شاغلین طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Cenral Bank of Iran" 
+  web = "http://cbi.ir/page/15187.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Year / Number of employees"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "No person employed"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1 employed person"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "2 employed persons"
+      type = "string"
+
+

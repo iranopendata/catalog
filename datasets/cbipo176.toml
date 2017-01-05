@@ -1,0 +1,124 @@
+name = "cbipo176"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1385, 1394] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["The percentage distribution of households", "Age groups"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["درصد توزیع خانوار", "گروه‌های سنی"]
+
+[author]
+web = "http://cbi.ir/page/15187.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی جمهوری اسلامی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Cenral Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "Iran household budget survey in urban areas, the percentage distribution of households by age groups during the years 1385 to 1394" 
+
+[[title]]
+lang = "fa"
+text = "بررسی بودجه خانوار در مناطق شهری ایران، درصد توزيع افراد خانوارها بر حسب گروه‌های سنی طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۱۴ در صفحه ۳۴، نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 14 on page 34, results of the households budget survey in urban areas in year 1394."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo176fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo176en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Iran household budget survey in urban areas, the percentage distribution of households by age groups during the years 1385 to 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "بررسی بودجه خانوار در مناطق شهری ایران، درصد توزيع افراد خانوارها بر حسب گروه‌های سنی طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Cenral Bank of Iran" 
+  web = "http://cbi.ir/page/15187.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Year / Age groups"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "All"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Less than 1 year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1 to 5 years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "6 to 10 years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "11 to 15 years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "16 to 20 years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "21 to 30 years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "31 to 40 years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "41 to 50 years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "51 to 60 years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "61 to 70 years"
+      type = "string"
+
+
