@@ -1,0 +1,164 @@
+name = "scipo171"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1335, 1390] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Annual population growth"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["رشد جمعیت سالانه"]
+
+[author]
+web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/2881/roshd_jamiat.xls"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Average annual growth of the population from 1335 to 1390" 
+
+[[title]]
+lang = "fa"
+text = "متوسط رشد سالانه جمعيت كشور از سال ۱۳۳۵ تا ۱۳۹۰"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo171fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo171en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Average annual growth of the population from 1335 to 1390"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "متوسط رشد سالانه جمعيت كشور از سال ۱۳۳۵ تا ۱۳۹۰"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/2881/roshd_jamiat.xls" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description (percentage)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1335-45"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1335-55"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1335-65"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1335-70"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1335-75"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1335-85"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1345-55"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1345-65"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1345-70"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1345-75"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1345-85"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1355-65"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1355-70"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1355-75"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1355-85"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1365-70"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1365-75"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1365-85"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1370-75"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1370-85"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1375-85"
+      type = "string"
+
+
