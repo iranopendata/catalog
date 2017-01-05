@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1367, 1393] 
-category= ["Education", "Women"]
+category= ["education", "women"]
 
 [[maintainer]]
 lang = "en" 
