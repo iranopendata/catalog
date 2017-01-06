@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1392/n_ank_92.pdf"
 
 [[title]]
 lang = "en" 
-text = "Relative Distribution of the population of 10 years and more in terms of activity status by sex, urban and rural areas (1392)" 
+text = "Relative Distribution of the population of 10 years and more in terms of activity status by gender, urban and rural areas (1392)" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 7, page 36, of the 1392 Labour Force Survey
 
   [[resources.title]]
   lang = "en" 
-  text = "Distribution of workers aged 10 and over, disaggregated by sex, rural and urban area (1392)"
+  text = "Distribution of workers aged 10 and over, disaggregated by gender, rural and urban area (1392)"
 
   [[resources.title]]
   lang = "fa"
