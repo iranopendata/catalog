@@ -15,7 +15,7 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["education", "field of study", "sex"]
+wordlist = ["education", "field of study", "gender"]
 
 [[keywords]]
 lang = "fa" 
@@ -34,7 +34,7 @@ web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6363/daneshjo93-
 
 [[title]]
 lang = "en" 
-text = "University and high education centres students, students of Azad University, disaggregated by field of study, age and sex (1367-1393)" 
+text = "University and high education centres students, students of Azad University, disaggregated by field of study, age and gender (1367-1393)" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset cleaned from an Excel file published by the Statistical Center o
 
   [[resources.title]]
   lang = "en" 
-  text = "University and high education centres students, students of Azad University, disaggregated by field of study, age and sex (1367-1393)"
+  text = "University and high education centres students, students of Azad University, disaggregated by field of study, age and gender (1367-1393)"
 
   [[resources.title]]
   lang = "fa"
