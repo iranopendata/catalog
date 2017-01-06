@@ -34,7 +34,7 @@ web = "http://lib.sci.org.ir/DIGLIB/getfile.aspx?fileid=8412"
 
 [[title]]
 lang = "en" 
-text = "The unemployment rate of the population 10 years and over by sex, by province (1391)" 
+text = "The unemployment rate of the population 10 years and over by gender, by province (1391)" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 25, page 46, of the 1391 Labour Force Surve
 
   [[resources.title]]
   lang = "en" 
-  text = "The unemployment rate of the population 10 years and over by sex, by province (1391)"
+  text = "The unemployment rate of the population 10 years and over by gender, by province (1391)"
 
   [[resources.title]]
   lang = "fa"
