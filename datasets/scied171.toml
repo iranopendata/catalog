@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D9%87%D8%A7
 
 [[title]]
 lang = "en" 
-text = "Students of univercities and higher education centers and Islamic Azad University students in major groups according to their field of study and sex" 
+text = "Students of univercities and higher education centers and Islamic Azad University students in major groups according to their field of study and gender" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from the official website of the Statistical Center o
 
   [[resources.title]]
   lang = "en" 
-  text = "Students of univercities and higher education centers and Islamic Azad University students in major groups according to their field of study and sex"
+  text = "Students of univercities and higher education centers and Islamic Azad University students in major groups according to their field of study and gender"
 
   [[resources.title]]
   lang = "fa"
