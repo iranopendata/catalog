@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1392/n_ank_92.pdf"
 
 [[title]]
 lang = "en" 
-text = "The estimated economic participation population rate of 10 years and over, disaggregated by sex, rural and urban area (1392)" 
+text = "The estimated economic participation population rate of 10 years and over, disaggregated by gender, rural and urban area (1392)" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 9, page 37, of the 1392 Labour Force Survey
 
   [[resources.title]]
   lang = "en" 
-  text = "The estimated economic participation population rate of 10 years and over, disaggregated by sex, rural and urban area (1392)"
+  text = "The estimated economic participation population rate of 10 years and over, disaggregated by gender, rural and urban area (1392)"
 
   [[resources.title]]
   lang = "fa"
