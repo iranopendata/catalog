@@ -34,7 +34,7 @@ web = "http://lib.sci.org.ir/DIGLIB/getfile.aspx?fileid=8412"
 
 [[title]]
 lang = "en" 
-text = "The estimated economic participation population rate of 10 years and over, disaggregated by sex, rural and urban area (1391)" 
+text = "The estimated economic participation population rate of 10 years and over, disaggregated by gender, rural and urban area (1391)" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 9, page 34, of the 1391 Labour Force Survey
 
   [[resources.title]]
   lang = "en" 
-  text = "The estimated population of 10 years and over, disaggregated by sex, rural and urban area (1391)"
+  text = "The estimated population of 10 years and over, disaggregated by gender, rural and urban area (1391)"
 
   [[resources.title]]
   lang = "fa"
