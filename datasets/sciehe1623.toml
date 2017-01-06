@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1392/n_ank_92.pdf"
 
 [[title]]
 lang = "en" 
-text = "The unemployment rate of the population 10 years and over by province and sex (1392)" 
+text = "The unemployment rate of the population 10 years and over by province and gender (1392)" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 25, page 49, of the 1392 Labour Force Surve
 
   [[resources.title]]
   lang = "en" 
-  text = "The unemployment rate of the population 10 years and over by sex, by province (1392)"
+  text = "The unemployment rate of the population 10 years and over by gender, by province (1392)"
 
   [[resources.title]]
   lang = "fa"
