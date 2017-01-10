@@ -34,11 +34,11 @@ web = "http://cbi.ir/page/13423.aspx"
 
 [[title]]
 lang = "en" 
-text = "The average net cost of the annual budget of households in urban areas separated by different household expenses during the years 1393- 1384" 
+text = "Average household annual net cost to the cost of separation of different groups during the years 1384 to 1393" 
 
 [[title]]
 lang = "fa"
-text = "بررسی بودجه خانوار در مناطق شهری ايران- متوسط هزينه خالص سالانه يک خانوار به تفكيك گروه‌های مختلف هزينه طی سال‌های ۱۳۹۳- ۱۳۸۴"
+text = "متوسط هزينه خالص سالانه يك خانوار به تفكيك گروه‌های مختلف هزينه طی سال‌های ۱۳۸۴ تا ۱۳۹۳"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset extracted from table 3, page 20, of the Results household budget
 
   [[resources.title]]
   lang = "en" 
-  text = "The average net cost of the annual budget of households in urban areas separated by different household expenses during the years 1393- 1384"
+  text = "Average household annual net cost to the cost of separation of different groups during the years 1384 to 1393"
 
   [[resources.title]]
   lang = "fa"
-  text = "بررسی بودجه خانوار در مناطق شهری ايران متوسط هزينه خالص سالانه يك خانوار به تفكيك گروه‌های مختلف هزينه طی سال‌های 1393- 1384"
+  text = "متوسط هزينه خالص سالانه يك خانوار به تفكيك گروه‌های مختلف هزينه طی سال‌های ۱۳۸۴ تا ۱۳۹۳"
 
   [[resources.sources]]
   name = "Central Bank of Iran" 
