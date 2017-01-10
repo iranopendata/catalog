@@ -34,11 +34,11 @@ web = "http://www.maj.ir/Portal/File/ShowFile.aspx?ID=6f66d3e3-0884-4823-b12d-63
 
 [[title]]
 lang = "en" 
-text = "The provincial breakdown of the distribution of the country's crops crop year 1391-1392" 
+text = "Provincial breakdown of the distribution of the country's crops in crop years of 1391 and 1392" 
 
 [[title]]
 lang = "fa"
-text = "توزيع سطح محصولات زراعی كشور به تفکیک استانی در سال زراعی ۱۳۹۱-۱۳۹۲"
+text = "توزيع سطح محصولات زراعی كشور به تفکیک استانی در سال زراعی ۱۳۹۱ و۱۳۹۲"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset from Table 1-1 on page 8, agricultural statistics, Volume I: cro
 
   [[resources.title]]
   lang = "en" 
-  text = "The provincial breakdown of the distribution of the country's crops crop year 1391-1392"
+  text = "Provincial breakdown of the distribution of the country's crops in crop years of 1391 and 1392"
 
   [[resources.title]]
   lang = "fa"
-  text = "توزيع سطح محصولات زراعی كشور به تفکیک استانی در سال زراعی ۱۳۹۱-۱۳۹۲"
+  text = "توزيع سطح محصولات زراعی كشور به تفکیک استانی در سال زراعی ۱۳۹۱ و۱۳۹۲"
 
   [[resources.sources]]
   name = "Ministry of Agriculture-Jahad" 
