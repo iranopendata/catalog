@@ -34,11 +34,11 @@ web = "http://www.cbi.ir/page/6221.aspx"
 
 [[title]]
 lang = "en" 
-text = "Iran household budget survey in urban areas, Average annual gross household expenses to the cost breakdown of various groups in different provinces in 1386" 
+text = "Average annual gross household expenses to the cost breakdown of various groups in different provinces in 1386" 
 
 [[title]]
 lang = "fa"
-text = "بررسی بودجه خانوار در مناطق شهری ایران، متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه در استان‌های مختلف در سال ۱۳۸۶"
+text = "متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه در استان‌های مختلف در سال ۱۳۸۶"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset exctracted from Table 49 on page 81 to 83, The results of 1386 s
 
   [[resources.title]]
   lang = "en" 
-  text = "Iran household budget survey in urban areas, Average annual gross household expenses to the cost breakdown of various groups in different provinces in 1386"
+  text = "Average annual gross household expenses to the cost breakdown of various groups in different provinces in 1386"
 
   [[resources.title]]
   lang = "fa"
-  text = "بررسی بودجه خانوار در مناطق شهری ایران، متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه در استان‌های مختلف در سال ۱۳۸۶"
+  text = "متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه در استان‌های مختلف در سال ۱۳۸۶"
 
   [[resources.sources]]
   name = "Central Bank of Iran" 
