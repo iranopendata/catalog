@@ -34,11 +34,11 @@ web = "http://www.pnu.ac.ir/portal/File/ShowFile.aspx?ID=4ffc4ba2-da33-4f59-b4ee
 
 [[title]]
 lang = "en" 
-text = "The process of urban and rural housing developments" 
+text = "The process of urban and rural housing developments during the years 1365 to 1390" 
 
 [[title]]
 lang = "fa"
-text = "روند تحولات موجودی مسکن مناطق شهری و روستایی کشور"
+text = "روند تحولات موجودی مسکن مناطق شهری و روستایی کشور طی سال‌های ۱۳۶۵ تا ۱۳۹۰"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset from table 32 on page 40, studies Reload comprehensive housing p
 
   [[resources.title]]
   lang = "en" 
-  text = "The process of urban and rural housing developments"
+  text = "The process of urban and rural housing developments during the years 1365 to 1390"
 
   [[resources.title]]
   lang = "fa"
-  text = "روند تحولات موجودی مسکن مناطق شهری و روستایی کشور"
+  text = "روند تحولات موجودی مسکن مناطق شهری و روستایی کشور طی سال‌های ۱۳۶۵ تا ۱۳۹۰"
 
   [[resources.sources]]
   name = "Ministry of Road & Urban Development of Iran, The National Land & Housing Organisation" 
