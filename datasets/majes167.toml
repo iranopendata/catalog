@@ -34,7 +34,7 @@ web = "http://www.maj.ir/Portal/File/ShowFile.aspx?ID=7eee653c-da90-4b87-9784-b1
 
 [[title]]
 lang = "en" 
-text = "The sales amount of fertilizers and chemical pesticides in the years 1392 and 1393" 
+text = "Sales amount of fertilizers and chemical pesticides in the years 1392 and 1393" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset from 1-3-1 table on page 45, the second volume of agricultural s
 
   [[resources.title]]
   lang = "en" 
-  text = "The sales amount of fertilizers and chemical pesticides in the years 1392 and 1393"
+  text = "Sales amount of fertilizers and chemical pesticides in the years 1392 and 1393"
 
   [[resources.title]]
   lang = "fa"
