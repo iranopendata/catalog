@@ -34,7 +34,7 @@ web = "http://lib.sci.org.ir/DIGLIB/getfile.aspx?fileid=8412"
 
 [[title]]
 lang = "en" 
-text = "Distribution of workers aged 10 and over, disaggregated by gender, rural and urban area in year 1391" 
+text = "Relative distribution of workers aged 10 and over, disaggregated by gender, rural and urban area in year 1391" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 7, page 33, of the 1391 Labour Force Survey
 
   [[resources.title]]
   lang = "en" 
-  text = "Distribution of workers aged 10 and over, disaggregated by gender, rural and urban area in year 1391"
+  text = "Relative distribution of workers aged 10 and over, disaggregated by gender, rural and urban area in year 1391"
 
   [[resources.title]]
   lang = "fa"
