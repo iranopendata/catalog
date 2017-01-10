@@ -34,11 +34,11 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "Household budget survey of the households in urban areas - Average annual gross household income disaggregated by different income groups and various provinces" 
+text = "Urban household's average annual gross income disaggregated by different income groups and provinces during 1394" 
 
 [[title]]
 lang = "fa"
-text = "بررسی بودجه خانوار در مناطق شهری ايران - متوسط درآمد ناخالص سالانه يک خانواربه تفكيک گروه‌های مختلف درآمد در استان‌های مختلف در سال ۱۳۹۴"
+text = "متوسط درآمد ناخالص سالانه يک خانوار در مناطق شهری به تفكيک گروه‌های مختلف درآمد در استان‌های مختلف در سال ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -46,7 +46,7 @@ text = "این داده از جدول ۵۰ از صفحه ۸۸ تا ۹۱، نتا
 
 [[description]]
 lang = "en"
-text = "Dataset extracted from table 50 on page 88-91, Results of the 1394 Labout forcet survey."
+text = "Dataset extracted from table 50 on page 88-91, Results of the 1394 Labour force survey."
 
 [[resources]]
 
