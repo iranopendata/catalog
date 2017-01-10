@@ -34,11 +34,11 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "Household budget survey in urban areas of average annual gross household income and the share of income groups during the years 1384 - 1394" 
+text = "Average annual gross household income and the share of different income groups during 1384 to 1394" 
 
 [[title]]
 lang = "fa"
-text = "بررسی بودجه خانوار در مناطق شهری ايران - متوسط درآمد ناخالص سالانه يک خانوار و سهم گروه‌های مختلف درآمد طی سال‌های ۱۳۸۴ تا ۱۳۹۴"
+text = "متوسط درآمد ناخالص سالانه يک خانوار و سهم گروه‌های مختلف درآمد طی سال‌های ۱۳۸۴ تا ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset extracted from table 8, page 26, of the Results household budget
 
   [[resources.title]]
   lang = "en" 
-  text = "Household budget survey in urban areas of average annual gross household income and the share of income groups during the years 1384 - 1394"
+  text = "Average annual gross household income and the share of different income groups during 1384 to 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "بررسی بودجه خانوار در مناطق شهری ايران - متوسط درآمد ناخالص سالانه يک خانوار و سهم گروه‌های مختلف درآمد طی سال‌های ۱۳۸۴ تا ۱۳۹۴"
+  text = "متوسط درآمد ناخالص سالانه يک خانوار و سهم گروه‌های مختلف درآمد طی سال‌های ۱۳۸۴ تا ۱۳۹۴"
 
   [[resources.sources]]
   name = "Central Bank of Iran" 
