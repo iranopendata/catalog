@@ -34,11 +34,11 @@ web = "http://nnt.sci.org.ir/sites/Apps/yearbook/Lists/year_book_req/Item/newifs
 
 [[title]]
 lang = "en" 
-text = "Household and population of Tehran's province, disaggregated by residency" 
+text = "Household and population of Tehran's province, disaggregated by residency in 1390" 
 
 [[title]]
 lang = "fa"
-text = "خانوار و جمعیت شهرستان‌های استان تهران بر حسب ساکن و غیرساکن (1390)"
+text = "خانوار و جمعیت شهرستان‌های استان تهران بر حسب ساکن و غیرساکن در سال ۱۳۹۰"
 
 [[description]]
 lang = "fa"
