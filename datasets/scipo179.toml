@@ -1,0 +1,104 @@
+name = "scipo179"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1385, 1390] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Immigrants divided by province", "Internal migration"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مهاجران به تفکیک استان", "مهاجرت‌های داخلی"]
+
+[author]
+web = "http://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_mdkdsshbansonvm_90.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکزآمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Migrants entered, exited the separation between the province and the province's immigrants during the years 1385 to 1390" 
+
+[[title]]
+lang = "fa"
+text = "مهاجران واردشده، خارج شده بين استانی و كل مهاجران به تفكيك استان طی سال‌های ۱۳۸۵ تا ۱۳۹۰"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۲-۲ در صفحه ۲۱، مهاجرت‌های داخلی کشور، در سطح شهرستان بر اساس نتایج سرشماری عمومی نفوس و مسکن ۱۳۹۰ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 2-2 on page 21, Internal migration of the country, in the city based on population and housing census in 1390."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo179fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo179en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Migrants entered, exited the separation between the province and the province's immigrants during the years 1385 to 1390"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "مهاجران واردشده، خارج شده بين استانی و كل مهاجران به تفكيك استان طی سال‌های ۱۳۸۵ تا ۱۳۹۰"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "http://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_mdkdsshbansonvm_90.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Provinces"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The number of immigrants entering the province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The percentage of immigrants entering the province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The number of migrants leaving the province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The percentage of migrants leaving the province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The net number of migrants"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The total number of migrants"
+      type = "string"
+
+
