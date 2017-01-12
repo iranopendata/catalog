@@ -1,0 +1,124 @@
+name = "cbiehe173"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["income", "household", "public sector", "private sector", "agriculture"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["درآمد", "خانوار", "بخش عمومی", "بخش خصوصی", "کشاورزی"]
+
+[author]
+web = "http://cbi.ir/page/15187.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی جمهوری اسلامی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Central Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "Urban household's average annual gross income disaggregated by different income groups and provinces during 1394" 
+
+[[title]]
+lang = "fa"
+text = "متوسط درآمد ناخالص سالانه يک خانوار در مناطق شهری به تفكيک گروه‌های مختلف درآمد در استان‌های مختلف در سال ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۵۰ از صفحه ۸۸ تا ۹۱، نتایج آمارگیری نیروی کار در سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 50 on page 88-91, Results of the 1394 Labout forcet survey."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe173fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe173fa.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Urban household's average annual gross income disaggregated by different income groups and provinces during 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "متوسط درآمد ناخالص سالانه يک خانوار در مناطق شهری به تفكيک گروه‌های مختلف درآمد در استان‌های مختلف در سال ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Central Bank of Iran" 
+  web = "http://cbi.ir/page/15187.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "گروه های درآمد "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "مجموع درآمدپولی و غیرپولی ناخالص "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد پولی ناخالص "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "  درآمد پولی ناخالص - درآمد از مزد وحقوق - بخش دولتی و عمومی"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد پولی ناخالص - درآمد از مزد وحقوق – بخش خصوصی "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد پولی ناخالص - درآمد از مزد وحقوق – بخش تعاونی"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد پولی ناخالص – درآمد از مشاغل آزاد کشاورزی "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد پولی ناخالص - درآمد از مشاغل آزاد غیر کشاورزی  "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد پولی ناخالص – درآمد های متفرقه "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد پولی ناخالص – درآمد حاصل از فروش کالاهای دست دوم "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد غیر پولی"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "درآمد غیر پولی – ارزش اجاری مسکن شخصی (مالک نشین)"
+      type = "string"
+
+
