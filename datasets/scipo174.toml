@@ -42,11 +42,11 @@ text = "برآورد و پیش بینی خانوار استان‌های كشو�
 
 [[description]]
 lang = "fa"
-text = "این داده، نسخه‌ی تمیز شده‌ی فایل منتشر شده‌ی مرکز آمار ایران است."
+text = "این داده، نسخه‌ی تمیز شده‌ی فایل منتشر شده‌ی مرکز آمار ایران است. ارقام به هزار خانوار."
 
 [[description]]
 lang = "en"
-text = "Dataset cleaned from an Excel file published by the Statistical Center of Iran."
+text = "Dataset cleaned from an Excel file published by the Statistical Center of Iran. Figures show the number of households (thousands)."
 
 [[resources]]
 
