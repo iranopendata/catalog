@@ -15,11 +15,11 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["household", "population", "urban area", "rural area", "non-resident", "province"]
+wordlist = ["household", "population", "urban area", "rural area", "non-resident"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["خانوار", "جمعیت", "نقاط شهری", "نقاط روستايی", "غیرساکن", "استان"]
+wordlist = ["خانوار", "جمعیت", "نقاط شهری", "نقاط روستايی", "غیرساکن"]
 
 [author]
 web = "https://www.amar.org.ir/Portals/0/Files/baravord/household85-95.xls"
@@ -34,11 +34,11 @@ web = "https://www.amar.org.ir/Portals/0/Files/baravord/household85-95.xls"
 
 [[title]]
 lang = "en" 
-text = "Estimates and forecasts of regional households, disaggregated by residency, urban and rural areas from 1385 until 1395 (figures in thousand households)" 
+text = "Estimates and forecasts of regional households, disaggregated by residency, urban and rural areas from 1385 until 1395" 
 
 [[title]]
 lang = "fa"
-text = "برآورد و پیش بینی خانوار استان‌های كشور به تفكيک نقاط شهری و روستايی وغیرساکن از سال ۱۳۸۵ تا ۱۳۹۵ ( ارقام به هزار خانوار )"
+text = "برآورد و پیش بینی خانوار استان‌های كشور به تفكيک نقاط شهری و روستايی وغیرساکن از سال ۱۳۸۵ تا ۱۳۹۵ "
 
 [[description]]
 lang = "fa"
