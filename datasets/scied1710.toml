@@ -38,7 +38,7 @@ text = "The number of research projects based on the type of project in the year
 
 [[title]]
 lang = "fa"
-text = "تعداد پروژه‌های تحقیقاتی بر حسب نوع پروژه طی سال‌های۱۳۷۵ تا ۱۳۸۹"
+text = "تعداد پروژه‌های تحقیقاتی بر حسب نوع پروژه طی سال‌های ۱۳۷۵ تا ۱۳۸۹"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset exctracted from the official website of the Statistical Center o
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد پروژه‌های تحقیقاتی بر حسب نوع پروژه طی سال‌های۱۳۷۵ تا ۱۳۸۹"
+  text = "تعداد پروژه‌های تحقیقاتی بر حسب نوع پروژه طی سال‌های ۱۳۷۵ تا ۱۳۸۹"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
