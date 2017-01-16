@@ -1,0 +1,108 @@
+name = "scied176"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1335 ,  1390] 
+category= ["education", "population", "women"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["The literacy"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["سواد"]
+
+[author]
+web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/2858/basavadi_6sale-kol.xls"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The literacy rate of the population aged 6 and over the whole country, urban areas and rural areas from 1335 to 1390" 
+
+[[title]]
+lang = "fa"
+text = "ميزان باسوادی جمعيت ۶ ساله و بيشتر کل کشور، مناطق شهری و مناطق روستایی از سال ۱۳۳۵ تا ۱۳۹۰"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ed/scied176fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ed/scied176en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The literacy rate of the population aged 6 and over the whole country, urban areas and rural areas from 1335 to 1390"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "ميزان باسوادی جمعيت ۶ ساله و بيشتر کل کشور، مناطق شهری و مناطق روستایی از سال ۱۳۳۵ تا ۱۳۹۰"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/2858/basavadi_6sale-kol.xls" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1335"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1345"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1355"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1365"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1370"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1375"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1385"
+      type = "string"
+
+

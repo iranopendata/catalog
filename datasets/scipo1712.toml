@@ -1,0 +1,152 @@
+name = "scipo1712"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1376, 1394] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Economic participation rate", "Economic participation rate in urban areas", "Economic participation rate in rural areas"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["نرخ مشارکت اقتصادی", "نرخ مشارکت اقتصادی مناطق شهری", "نرخ مشارکت اقتصادی مناطق روستایی"]
+
+[author]
+web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6217/%D9%86%D8%B1%D8%AE%20%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%20%20%D8%B3%D8%A7%D9%84%D8%A7%D9%86%D9%87%20%D8%AC%D9%85%D8%B9%D9%8A%D8%AA%2010%20%D8%B3%D8%A7%D9%84%D9%87%20%D9%88%D8%A8%D9%8A%D8%B4%E2%80%8C%D8%AA%D8%B1-%DA%A9%D9%84%20%DA%A9%D8%B4%D9%88%D8%B1.xls"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکزآمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Economic participation rate of the population 10 years and over in urban and rural areas during the years of 1376 to 1394" 
+
+[[title]]
+lang = "fa"
+text = "تعداد نرخ مشاركت اقتصادی جمعیت ۱۰ ساله و بیشتر بر حسب مناطق شهری و روستايی طی سال‌های ۱۳۷۶ تا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo1712fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/scipo1712en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Economic participation rate of the population 10 years and over in urban and rural areas during the years of 1376 to 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تعداد نرخ مشاركت اقتصادی جمعیت ۱۰ ساله و بیشتر بر حسب مناطق شهری و روستايی طی سال‌های ۱۳۷۶ تا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6217/%D9%86%D8%B1%D8%AE%20%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%AA%20%20%D8%B3%D8%A7%D9%84%D8%A7%D9%86%D9%87%20%D8%AC%D9%85%D8%B9%D9%8A%D8%AA%2010%20%D8%B3%D8%A7%D9%84%D9%87%20%D9%88%D8%A8%D9%8A%D8%B4%E2%80%8C%D8%AA%D8%B1-%DA%A9%D9%84%20%DA%A9%D8%B4%D9%88%D8%B1.xls" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1376"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1377"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1378"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1379"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1380"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1381"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1382"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1383"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1384"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1385"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1393"
+      type = "string"
+
+
