@@ -1,0 +1,108 @@
+name = "pdspcbgs161"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1388, 1388] 
+category= ["budget", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Budget for year 1388", "Budget for sectors"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بودجه سال ۱۳۸۸", "بودجه وزارتخانه‌ها"]
+
+[author]
+web = "http://iod.dataset.s3.amazonaws.com/Sources/pdspc65.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "معاونت برنامه‌ريزی و نظارت راهبردی رئيس جمهور"
+
+  [[author.name]]
+  lang = "en"
+  text = "Iranian President Deputy Strategic Planning and Control"
+
+[[title]]
+lang = "en" 
+text = "The executive budget summary for the year 1388" 
+
+[[title]]
+lang = "fa"
+text = "خلاصه بودجه دستگاه‌های اجرایی ۱۳۸۸"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۵ در صفحات ۴۸ تا ۱۲۷، قانون بودجه دستگاه‌های اجرایی ۱۳۸۸ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from Table 5 from pages 48 to 127, The 1388 executive budget."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/pdspcbgs161fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/pdspcbgs161en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The executive budget summary for the year 1388"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "خلاصه بودجه دستگاه‌های اجرایی ۱۳۸۸"
+
+  [[resources.sources]]
+  name = "Iranian President Deputy Strategic Planning and Control" 
+  web = "http://iod.dataset.s3.amazonaws.com/Sources/pdspc65.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Title / Device Code"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "ٍExpenditure / General costs / wages and benefits"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Expenditure / General costs / other"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Expenditure / General expenses / Total"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Expenditure / Price / Exclusive"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Expenditure / Price / Total"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Expenditure / Acquisition of capital assets"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Expenditure / Financial assets acquisition"
+      type = "string"
+
+
