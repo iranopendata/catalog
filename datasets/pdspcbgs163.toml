@@ -38,15 +38,15 @@ text = "The executive budget summary for the year 1390"
 
 [[title]]
 lang = "fa"
-text = "خلاصه بودجه دستگاه‌های اجرایی ۱۳۹۰"
+text = "خلاصه بودجه دستگاه‌های اجرایی در سال ۱۳۹۰"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۷ در صفحات ۱۰۴ تا ۱۷۶، قانون بودجه سال ۱۳۹۰ کل کشور، استخراج شده است."
+text = "این داده از جدول شماره ۷ در صفحات ۱۰۴ تا ۱۷۶، قانون بودجه سال ۱۳۹۰ کل کشور، استخراج شده است. در این مجموعه داده، تنها بودجه دستگاه‌های اصلی (بدون زیر مجموعه‌‌هایشان) آمده است. "
 
 [[description]]
 lang = "en"
-text = "Dataset exctracted from Table 7 on pages 104 to 176, The country's 1390 budget law."
+text = "Dataset exctracted from Table 7 on pages 104 to 176, The country's 1390 budget law. In this dataset, only the main executive agencies (without their subdivisions) are mentioned."
 
 [[resources]]
 
