@@ -38,15 +38,15 @@ text = "The executive budget summary for the year 1388"
 
 [[title]]
 lang = "fa"
-text = "خلاصه بودجه دستگاه‌های اجرایی ۱۳۸۸"
+text = "خلاصه بودجه دستگاه‌های اجرایی در سال ۱۳۸۸"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۵ در صفحات ۴۸ تا ۱۲۷، قانون بودجه دستگاه‌های اجرایی ۱۳۸۸ استخراج شده است."
+text = "این داده از جدول شماره ۵ در صفحات ۴۸ تا ۱۲۷، قانون بودجه دستگاه‌های اجرایی ۱۳۸۸ استخراج شده است. در این مجموعه داده، تنها بودجه دستگاه‌های اصلی (بدون زیر مجموعه‌‌هایشان) آمده است."
 
 [[description]]
 lang = "en"
-text = "Dataset exctracted from Table 5 from pages 48 to 127, The 1388 executive budget."
+text = "Dataset exctracted from Table 5 from pages 48 to 127, The 1388 executive budget. In this dataset, only the main executive agencies (without their subdivisions) are mentioned."
 
 [[resources]]
 
