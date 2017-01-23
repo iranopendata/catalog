@@ -38,15 +38,15 @@ text = "The executive budget summary for the year 1395"
 
 [[title]]
 lang = "fa"
-text = "خلاصه بودجه دستگاه‌های اصلی در سال ۱۳۹۵"
+text = "خلاصه بودجه دستگاه‌های اجرایی در سال ۱۳۹۵"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۷ در صفحات ۴۲ تا ۱۴۴، قانون بودجه سال ۱۳۹۵ کل کشور، استخراج شده است."
+text = "این داده از جدول شماره ۷ در صفحات ۴۲ تا ۱۴۴، قانون بودجه سال ۱۳۹۵ کل کشور، استخراج شده است. در این مجموعه داده، تنها بودجه دستگاه‌های اصلی (بدون زیر مجموعه‌‌هایشان) آمده است."
 
 [[description]]
 lang = "en"
-text = "Dataset exctracted from table 7 on pages 42 to 144, The country's 1395 budget law."
+text = "Dataset exctracted from table 7 on pages 42 to 144, The country's 1395 budget law. In this dataset, only the main executive agencies (without their subdivisions) are mentioned."
 
 [[resources]]
 
