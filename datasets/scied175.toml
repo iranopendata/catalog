@@ -1,0 +1,264 @@
+name = "scied175"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1347, 1394] 
+category= ["education", "population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["number of students", "preparatory school", "primary school", "middle school", "secondary school"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["تعداد دانش‌آموزان", "مقطع آمادگی", "مقطع ابتدايی", "مقطع راهنمايی", "مقطع متوسطه"]
+
+[author]
+web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6274/daneshamoz.xlsx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The total number of students of preschool and secondary school" 
+
+[[title]]
+lang = "fa"
+text = "تعداد کل  دانش آموزان به تفكيک دوره‌های تحصيلی و جنس از مقطع آمادگی تا متوسطه طی سال‌های ۱۳۴۷ تا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ed/scied175fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ed/scied175en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The total number of students of preschool and secondary school"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تعداد کل  دانش آموزان به تفكيک دوره‌های تحصيلی و جنس از مقطع آمادگی تا متوسطه طی سال‌های ۱۳۴۷ تا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6274/daneshamoz.xlsx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Year and term time"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1347-1348 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1348-1349 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1349-1350 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1350-1351 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1351-1352 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1352-1353 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1353-1354 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1354-1355 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1355-1356 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1356-1357 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1357-1358 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1358-1359 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1359-1360 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1360-1361 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1361-1362 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1362-1363 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1363-1364 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1364-1365 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1365-1366 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1366-1367 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1367-1368 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1368-1369 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1369-1370 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1370-1371 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1371-1372 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1372-1373 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1373-1374  "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1374-1375 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1375-1376 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1376-1377 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1377-1378 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1378-1379 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1379-1380 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1380-1381 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1381-1382 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1382-1383 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1383-1384 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1384-1385 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1385-1386 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1386-1387 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1387-1388 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1388-1389 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1389-1390 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1390-1391 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1391-1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1392-1393"
+      type = "string"
+
+
