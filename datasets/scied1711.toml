@@ -38,7 +38,7 @@ text = "Number of researchers disaggregated by type of employment from 1375 to 1
 
 [[title]]
 lang = "fa"
-text = "تعداد محققان به تفکیک نوع اشتغال طی سال‌های۱۳۷۵ تا ۱۳۸۹"
+text = "تعداد محققان به تفکیک نوع اشتغال طی سال‌های ۱۳۷۵ تا ۱۳۸۹"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset exctracted from the official website of the Statistical Center o
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد محققان به تفکیک نوع اشتغال طی سال‌های۱۳۷۵ تا ۱۳۸۹"
+  text = "تعداد محققان به تفکیک نوع اشتغال طی سال‌های ۱۳۷۵ تا ۱۳۸۹"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
