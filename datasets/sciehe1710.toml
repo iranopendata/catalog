@@ -1,0 +1,136 @@
+name = "sciehe1710"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Seasonal employment", "Agriculture", "Industry", "Services"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["اشتغال فصلی", "کشاورزی", "صنعت", "خدمات"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Employment share of the population aged 10 and over in the major sectors of economic activity according to provinces in various seasons for the year 1394" 
+
+[[title]]
+lang = "fa"
+text = "سهم اشتغال جمعیت ۱۰ ساله و بيشتر در بخش‌های عمده‌ فعاليت اقتصادی بر حسب استان به تفكيک فصل در سال ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۳۱ در صفحات ۵۵ و ۵۶،‌ نتایج آمارگیری نیروی کار در سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 31 on pages 55 & 56, Results of the 1394 Labout forcet survey."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1710fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1710en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Employment share of the population aged 10 and over in the major sectors of economic activity according to provinces in various seasons for the year 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "سهم اشتغال جمعیت ۱۰ ساله و بيشتر در بخش‌های عمده‌ فعاليت اقتصادی بر حسب استان به تفكيک فصل در سال ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Provinces"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole year – Agriculture"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole year – Industry"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Whole year – Services"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Spring – Agriculture"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Spring – Industry"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Spring – Services"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Summer – Agriculture"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Summer – Industry"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Summer – Services"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Autumn – Agriculture"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Autumn – Industry"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Autumn – Services"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Winter – Agriculture"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Winter – Industry"
+      type = "string"
+
+

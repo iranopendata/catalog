@@ -1,0 +1,96 @@
+name = "sciehe175"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Employment", "Agriculture", "Industry", "Services"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["اشتغال", "کشاورزی", "صنعت", "خدمات"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Relative distribution of workers aged 10 and over by occupational major groups according to the main areas of activity in 1394" 
+
+[[title]]
+lang = "fa"
+text = "توزيع نسبی برآورد شاغلان ۱۰ ساله و بيشتر برحسب گروه‌های عمده‌ شغلی به تفكيک بخش‌های عمده‌ی فعاليت در سال ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۱۸ در صفحه ۴۳، نتایج آمارگیری نیروی کار در سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 18 on page 43, Results of the 1394 Labout forcet survey."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe175fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe175en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Relative distribution of workers aged 10 and over by occupational major groups according to the main areas of activity in 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "توزيع نسبی برآورد شاغلان ۱۰ ساله و بيشتر برحسب گروه‌های عمده‌ شغلی به تفكيک بخش‌های عمده‌ی فعاليت در سال ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "The major occupational groups"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Agriculture"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Industry"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Services"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Undeclared"
+      type = "string"
+
+
