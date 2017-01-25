@@ -2,7 +2,7 @@ name = "sciho1716"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [۱۳۸۸, ۱۳۸۸] 
+period = [1388, 1388] 
 category= ["housing"]
 
 [[maintainer]]
@@ -52,11 +52,11 @@ text = "Dataset exctracted from table 28-1 on page 80, the results of surveys of
 
   [[resources.url]] 
   lang = "fa"
-  link = "" 
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1716fa.csv" 
 
   [[resources.url]]
   lang = "en"
-  link = ""
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1716en.csv"
 
   [[resources.title]]
   lang = "en" 
@@ -72,5 +72,49 @@ text = "Dataset exctracted from table 28-1 on page 80, the results of surveys of
 
   [resources.schema]
   format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Average ground area of residence of households (sqm) "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile"
+      type = "string"
 
 
