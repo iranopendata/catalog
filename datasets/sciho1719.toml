@@ -1,0 +1,120 @@
+name = "sciho1719"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1386, 1386] 
+category= ["housing"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Housing", "Residential infrastructure", "Housing for urban households"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مسکن", "زیربنای مسکونی", "مسکن خانوار شهری"]
+
+[author]
+web = "https://amar.sci.org.ir/Detail.aspx?Ln=F&no=262506&S=SS"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The percentage of urban households in terms of ground area of households locations in each of the deciles annual costs in 1386" 
+
+[[title]]
+lang = "fa"
+text = "درصد خانوارها‌ی شهری بر حسب سطح زيربنای محل سكونت خانوار در هر يک از دهک‌های هزينه سالانه در سال ۱۳۸۶"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1719fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1719en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The percentage of urban households in terms of ground area of households locations in each of the deciles annual costs in 1386"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "درصد خانوارها‌ی شهری بر حسب سطح زيربنای محل سكونت خانوار در هر يک از دهک‌های هزينه سالانه در سال ۱۳۸۶"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://amar.sci.org.ir/Detail.aspx?Ln=F&no=262506&S=SS" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "The average floor area of residence (sqm)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile"
+      type = "string"
+
+
