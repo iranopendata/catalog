@@ -1,0 +1,196 @@
+name = "sciehe1712"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["employment", "population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["educated population", "graduates", "university students"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["جمعیت باسواد", "فارغ‌ التحصیلان", "دانشجو"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Educated population disaggregated by gender, age, school level or degree certificate, in the year 1394" 
+
+[[title]]
+lang = "fa"
+text = "جمعیت باسواد بر حسب جنس و سن به تفکیک دوره یا مدرک تحصیلی در سال ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۶ در صفحه ۷۴،‌ نتایج آمارگیری نیروی کار در سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 6 on page 74, Results of the 1394 Labour force survey."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1712fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1712en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Educated population disaggregated by gender, age, school level or degree certificate, in the year 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "جمعیت باسواد بر حسب جنس و سن به تفکیک دوره یا مدرک تحصیلی در سال ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Gender and age"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+
