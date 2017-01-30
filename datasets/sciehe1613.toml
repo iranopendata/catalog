@@ -1,8 +1,8 @@
-name = "sciehe1611"
+name = "sciehe1613"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1384, 1384] 
+period = [1386, 1386] 
 category= ["employment", "population"]
 
 [[maintainer]]
@@ -34,37 +34,37 @@ web = "http://iod.dataset.s3.amazonaws.com/Sources/sci25.pdf"
 
 [[title]]
 lang = "en" 
-text = "Labour force index disaggregated by gender, rural and urban area in 1384" 
+text = "Labour force index disaggregated by gender, rural and urban area 1386" 
 
 [[title]]
 lang = "fa"
-text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سال ۱۳۸۴"
+text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سال ۱۳۸۶"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۱ در صفحه شش چکیده نتایج طرح آمارگیری نیروی کار سال ۱۳۸۴-۱۳۸۷ استخراج شده است."
+text = "این داده از جدول شماره ۱ در صفحه ۲۰ چکیده نتایج طرح آمارگیری نیروی کار سال ۱۳۸۴-۱۳۸۷ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Dataset extracted from table 1, page 6, of the 1384-1387 Labour Force Survey"
+text = "Dataset extracted from table 1, page 20, of the 1384-1387 Labour Force Survey."
 
 [[resources]]
 
   [[resources.url]] 
   lang = "fa"
-  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1611fa.csv" 
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1613fa.csv" 
 
   [[resources.url]]
   lang = "en"
-  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1611en.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1613en.csv"
 
   [[resources.title]]
   lang = "en" 
-  text = "Labour force index disaggregated by gender, rural and urban area in 1384"
+  text = "Labour force index disaggregated by gender, rural and urban area 1386"
 
   [[resources.title]]
   lang = "fa"
-  text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سال ۱۳۸۴"
+  text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سال ۱۳۸۶"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
@@ -82,11 +82,11 @@ text = "Dataset extracted from table 1, page 6, of the 1384-1387 Labour Force Su
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Whole country – share"
+      name = "Whole country – figure"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Whole country – figure"
+      name = "Whole country – share"
       type = "string"
 
       [[resources.schema.fields]]
@@ -94,11 +94,11 @@ text = "Dataset extracted from table 1, page 6, of the 1384-1387 Labour Force Su
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Whole country – share – men "
+      name = "Whole country – figure – men "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Whole country – figure – men "
+      name = "Whole country – share – men "
       type = "string"
 
       [[resources.schema.fields]]
@@ -106,11 +106,11 @@ text = "Dataset extracted from table 1, page 6, of the 1384-1387 Labour Force Su
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Whole country – share – women "
+      name = "Whole country – figure – women "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Whole country – figure – women "
+      name = "Whole country – share – women "
       type = "string"
 
       [[resources.schema.fields]]
@@ -118,11 +118,11 @@ text = "Dataset extracted from table 1, page 6, of the 1384-1387 Labour Force Su
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Urban area – share "
+      name = "Urban area – figure "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Urban area – figure"
+      name = "Urban area – share"
       type = "string"
 
       [[resources.schema.fields]]
@@ -130,7 +130,7 @@ text = "Dataset extracted from table 1, page 6, of the 1384-1387 Labour Force Su
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Rural area – share "
+      name = "Rural area – figure "
       type = "string"
 
 
