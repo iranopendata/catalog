@@ -34,19 +34,20 @@ web = "http://cbi.ir/page/13363.aspx"
 
 [[title]]
 lang = "en" 
-text = "Annual average index, the main groups and private groups in the years 1369 to 1393" 
+text = "Price index of consumer goods and services in urban areas in the years 1369 to 1393" 
 
 [[title]]
 lang = "fa"
-text = "متوسط سالانه شاخص کل، گروه‌های اصلی و گروه‌های اختصاصی درسال‌های ۱۳۶۹ تا ۱۳۹۳"
+text = "شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران درسال‌های ۱۳۶۹ تا ۱۳۹۳"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۲ در صفحه ۲۱ نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۳ استخراج شده است."
+text = "سال پایه =۱۳۹۰- این داده از جدول شماره ۲ در صفحه ۲۱ شاخص بهای كالاها وخدمات مصرفی در مناطق شهری ايران 
+سال ١٣٩٣ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "The data is from Table 2 on page 21. Results household budget survey in urban areas of Iran in 1393 has been extracted."
+text = "Base year = 1390 - Dataset extracted from table 2 on page 21, Consumer price index of goods and services in urban areas of Iran in year 1393."
 
 [[resources]]
 
@@ -60,11 +61,11 @@ text = "The data is from Table 2 on page 21. Results household budget survey in 
 
   [[resources.title]]
   lang = "en" 
-  text = "Annual average index, the main groups and private groups in the years 1369 to 1393"
+  text = "Price index of consumer goods and services in urban areas in the years 1369 to 1393"
 
   [[resources.title]]
   lang = "fa"
-  text = "متوسط سالانه شاخص کل، گروه‌های اصلی و گروه‌های اختصاصی درسال‌های ۱۳۶۹ تا ۱۳۹۳"
+  text = "شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران درسال‌های ۱۳۶۹ تا ۱۳۹۳"
 
   [[resources.sources]]
   name = "Central Bank of Iran" 
