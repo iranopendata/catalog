@@ -38,7 +38,7 @@ text = "The percentage of rural households in terms of ground area of households
 
 [[title]]
 lang = "fa"
-text = "درصد خانوارها‌ی روستایی بر حسب سطح زيربنای محل سكونت خانوار در هر يک از دهک‌های هزينه سالانه در سال ۱۳۹۳"
+text = "درصد خانوارها‌ی روستایی بر حسب سطح زيربنای محل سكونت خانوار در هر يک از دهكهای هزينه سالانه در سال ۱۳۹۳"
 
 [[description]]
 lang = "fa"
@@ -47,7 +47,8 @@ text = "این داده از جدول شماره ۲۸-۱ در صفحه ۶۸، ن
 
 [[description]]
 lang = "en"
-text = "Dataset exctracted from table 28-1 on page 68, The results of surveys of expenditure and income of rural households in 1393."
+text = "داده‌های مربوط به سال ۱۳۹۳، از جدول شماره ۲۸-۱ در صفحه ۶۸، <a href='http&#58;https;//www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ahvdkhr_93.pdf'> نتايج آمارگير هزينه و درامد خانوارهای روستایی
+سال ۱۳۹۳ <a>، استخراج شده است."
 
 [[resources]]
 
@@ -65,7 +66,7 @@ text = "Dataset exctracted from table 28-1 on page 68, The results of surveys of
 
   [[resources.title]]
   lang = "fa"
-  text = "درصد خانوارها‌ی روستایی بر حسب سطح زيربنای محل سكونت خانوار در هر يک از دهک‌های هزينه سالانه در سال ۱۳۹۳"
+  text = "درصد خانوارها‌ی روستایی بر حسب سطح زيربنای محل سكونت خانوار در هر يک از دهكهای هزينه سالانه در سال ۱۳۹۳"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
@@ -79,43 +80,351 @@ text = "Dataset exctracted from table 28-1 on page 68, The results of surveys of
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Total"
+      name = "Total 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The first decile"
+      name = "The first decile 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Second decile"
+      name = "Second decile 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Third decile"
+      name = "Third decile 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Fourth decile"
+      name = "Fourth decile 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Fifth decile"
+      name = "Fifth decile 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Sixth decile"
+      name = "Sixth decile 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Seventh decile"
+      name = "Seventh decile 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Eighth decile"
+      name = "Eighth decile 1393 "
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Ninth decile"
+      name = "Ninth decile 1393 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tenth decile 1393 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tenth decile 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tenth decile 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tenth decile 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tenth decile 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tenth decile 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tenth decile 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The first decile 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Second decile 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Third decile 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fourth decile 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fifth decile 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Sixth decile 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Seventh decile 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Eighth decile 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ninth decile 1386"
       type = "string"
 
 
