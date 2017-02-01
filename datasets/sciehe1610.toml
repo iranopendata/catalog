@@ -38,7 +38,7 @@ text = "Employed population aged 10 and over, disaggregated by field of work and
 
 [[title]]
 lang = "fa"
-text = " شاغلان ۱۰ ساله و بيشتر برحسب جنس و گروههای عمده شغلی به تفكيک وضع شغلی  در سال ۱۳۹۳"
+text = " شاغلان ۱۰ ساله و بيشتر برحسب جنس و گروه‌های عمده شغلی به تفكيک وضع شغلی  در سال ۱۳۹۳"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 16, page 149, of the 1393 Labour Force Surv
 
   [[resources.title]]
   lang = "fa"
-  text = "شاغلان ۱۰ ساله و بيشتر برحسب جنس و گروههای عمده شغلی به تفكيک وضع شغلی (سال ۱۳۹۳)"
+  text = "شاغلان ۱۰ ساله و بيشتر برحسب جنس و گروه‌های عمده شغلی به تفكيک وضع شغلی  در سال ۱۳۹۳"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
