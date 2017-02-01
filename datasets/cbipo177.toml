@@ -34,11 +34,11 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "The percentage distribution of households by status of activities for six years and above from 1385 to 1394" 
+text = "The percentage distribution of households by status of activities for 6 years and above from 1385 to 1394" 
 
 [[title]]
 lang = "fa"
-text = "درصد توزيع افراد شش ساله و بیشتر خانوارها بر حسب وضع فعالیت طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
+text = "درصد توزيع افراد ۶ ساله و بیشتر خانوارها بر حسب وضع فعالیت طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset extracted from table 18 on page 40, results of the households bu
 
   [[resources.title]]
   lang = "en" 
-  text = "The percentage distribution of households by status of activities for six years and above from 1385 to 1394"
+  text = "The percentage distribution of households by status of activities for 6 years and above from 1385 to 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "درصد توزيع افراد شش ساله و بیشتر خانوارها بر حسب وضع فعالیت طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
+  text = "درصد توزيع افراد ۶ ساله و بیشتر خانوارها بر حسب وضع فعالیت طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
 
   [[resources.sources]]
   name = "Cenral Bank of Iran" 
