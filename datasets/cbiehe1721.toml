@@ -1,0 +1,142 @@
+name = "cbiehe1721"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["employment", "education"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["annual gross cost", "gross monetary income", "Tehran urban households", "cost categories"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["هزینه ناخالص سالانه", "درآمد پولی ناخالص", "خانوار شهری تهران", "گروه های هزينه"]
+
+[author]
+web = "http://cbi.ir/page/15187.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی جمهوری اسلامی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Cenral Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "Percentage of average distribution of gross annual costs of a Tehran urban household, disaggregated by different cost categories and gross annual income, in 1394" 
+
+[[title]]
+lang = "fa"
+text = "درصد توزيع متوسط هزينه ناخالص سالانه يک خانوار در مناطق شهری ايران
+ بر حسب گروه های مختلف هزينه در طبقات درآمد پولی ناخالص در سال ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۴۱ در صفحه ۷۲،‌ نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 41 on page 72, Results household budget survey in urban areas of Iran in 1394."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe1721fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe1721en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Percentage of average distribution of gross annual costs of a Tehran urban household, disaggregated by different cost categories and gross annual income, in 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "درصد توزيع متوسط هزينه ناخالص سالانه يک خانوار در مناطق شهری ايران
+ بر حسب گروه های مختلف هزينه در طبقات درآمد پولی ناخالص در سال ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Cenral Bank of Iran" 
+  web = "http://cbi.ir/page/15187.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Cost groups/Monetary income categories (rial)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Average for a household"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "up to 49811500 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 49811501 to 69303600 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = " from69303601 to 96423300 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 96423301 to 134155300 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 134155301 to 186652700 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 186652701 to 259693100 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 259693101 to 361315500 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 361315501  to 502704500 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 502704501 to 699421500 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 699421501 to 973117200 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 973117201 to 1353914900 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 1353914901 to 1883725300 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 1883725301 to 2620859600 rial"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "from 2620859601 to 3646447400 rial"
+      type = "string"
+
+
