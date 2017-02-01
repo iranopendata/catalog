@@ -2,7 +2,7 @@ name = "scies1610"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1379, 1392] 
+period = [1379 , 1392] 
 category= ["economics"]
 
 [[maintainer]]
