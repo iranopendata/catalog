@@ -15,11 +15,11 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["annual gross cost", "gross monetary income", "Tehran urban households", "cost categories"]
+wordlist = ["annual gross cost", "gross monetary income", "urban households", "cost categories"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["هزینه ناخالص سالانه", "درآمد پولی ناخالص", "خانوار شهری تهران", "گروه های هزينه"]
+wordlist = ["هزینه ناخالص سالانه", "درآمد پولی ناخالص", "خانوار شهری ", "گروه های هزينه"]
 
 [author]
 web = "http://cbi.ir/page/15187.aspx"
