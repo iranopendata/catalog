@@ -1,4 +1,4 @@
-name = "scies1610"
+name = "scies167"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
@@ -15,11 +15,11 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["per capita gross domestic product", "province"]
+wordlist = ["gdp", "gross domestic product", "province"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["سرانه محصول ناخالص داخلی", "استان"]
+wordlist = ["gdp", "محصول ناخالص داخلی", "استان"]
 
 [author]
 web = "http://iod.dataset.s3.amazonaws.com/Sources/1379-92.xlsx"
@@ -34,11 +34,11 @@ web = "http://iod.dataset.s3.amazonaws.com/Sources/1379-92.xlsx"
 
 [[title]]
 lang = "en" 
-text = "Per capita gross domestic product without oil, disaggregated by province, from 1379 until 1392" 
+text = "Gross domestic product, disaggregated by province from 1379 until 1392" 
 
 [[title]]
 lang = "fa"
-text = "سرانه محصول ناخالص داخلی بدون نفت به تفکیک استانی، از سال ۱۳۷۹ تا ۱۳۹۲"
+text = "تولید  ناخالص داخلی به تفکیک استان از ۱۳۷۹ تا ۱۳۹۲"
 
 [[description]]
 lang = "fa"
@@ -52,19 +52,19 @@ text = "Dataset cleaned from an Excel file published by the Statistical Center o
 
   [[resources.url]] 
   lang = "fa"
-  link = "http://iod.dataset.s3.amazonaws.com/es/scies1610fa.csv" 
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies167fa.csv" 
 
   [[resources.url]]
   lang = "en"
-  link = "http://iod.dataset.s3.amazonaws.com/es/scies1610en.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies167en.csv"
 
   [[resources.title]]
   lang = "en" 
-  text = "Per capita gross domestic product without oil, disaggregated by province, from 1379 until 1392"
+  text = "Gross domestic product, disaggregated by province from 1379 until 1392"
 
   [[resources.title]]
   lang = "fa"
-  text = "سرانه محصول ناخالص داخلی بدون نفت به تفکیک استانی، از سال ۱۳۷۹ تا ۱۳۹۲"
+  text = "تولید  ناخالص داخلی به تفکیک استان از ۱۳۷۹ تا ۱۳۹۲"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
@@ -74,7 +74,7 @@ text = "Dataset cleaned from an Excel file published by the Statistical Center o
   format = "csv"
 
       [[resources.schema.fields]]
-      name = "Year /Gross domestic product per capita without oil (thousand rials)"
+      name = "Gross domestic product (million rials) / Year"
       type = "string"
 
       [[resources.schema.fields]]

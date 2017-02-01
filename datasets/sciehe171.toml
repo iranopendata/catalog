@@ -1,0 +1,108 @@
+name = "sciehe171"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1385 ,  1391] 
+category= ["employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["unemployment", "unemployment rate", "province", "population"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بیکاری", "نرخ بیکاری", "استان", "جمعیت"]
+
+[author]
+web = "http://iod.dataset.s3.amazonaws.com/Sources/sci97.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The unemployment rate (1384-1391)" 
+
+[[title]]
+lang = "fa"
+text = "نرخ بیکاری از سال ۱۳۸۴ تا ۱۳۹۱"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۲ در صفحه ۹۲،  شاخص‌های بازار کار در ایران (۱۳۸۴-۱۳۹۱) استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 2 on page 92, Iranian labour market index (1384-1391)."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe171fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe171en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The unemployment rate (1384-1391)"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "نرخ بیکاری از سال ۱۳۸۴ تا ۱۳۹۱"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "http://iod.dataset.s3.amazonaws.com/Sources/sci97.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Provinces"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unemployment rate 1384"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unemployment rate 1385"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unemployment rate 1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unemployment rate 1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unemployment rate 1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unemployment rate 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Unemployment rate 1390"
+      type = "string"
+
+
