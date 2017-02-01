@@ -38,7 +38,7 @@ text = "Quantity and area of exploitation of agricultural lands, disaggregated b
 
 [[title]]
 lang = "fa"
-text = "تعداد و مساحت بهره برداريهاي داراي اراضی زراعی بر حسب استان در سال ۱۳۹۳"
+text = "تعداد و مساحت بهره برداری‌های دارای اراضی زراعی بر حسب استان در سال ۱۳۹۳"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 12, page 48, of the Detailed Results of the
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد و مساحت بهرهبرداريهای داراي اراضی زراعی بر حسب استان (سال ۱۳۹۳)"
+  text = "تعداد و مساحت بهره برداری‌های دارای اراضی زراعی بر حسب استان در سال ۱۳۹۳"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
