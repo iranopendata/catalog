@@ -34,19 +34,20 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_tabkhveaafeve_94.
 
 [[title]]
 lang = "en" 
-text = "Population aged 6 and over, disaggregated by use of information and communicato technology and province in 1393" 
+text = "Population aged 6 and over, disaggregated by use of information and communicato technology and province in 1394" 
 
 [[title]]
 lang = "fa"
-text = "جمعیت ۶ سال و بیشتر کشور برحسب استفاده از فناوری اطلاعات و ارتباطات به تفکیک استان در سال ۱۳۹۳"
+text = "جمعیت ۶ سال و بیشتر کشور برحسب استفاده از فناوری اطلاعات و ارتباطات به تفکیک استان در سال ۱۳۹۴"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول ۵ در صفحه ۴۳، کیفیت هوا بر اساس شاخص AQI طی ماه‌های مختلف در سال ۱۳۹۰ استخراج شده است."
+text = "این داده از جدول ۵ در صفحه ۴۳، نتایج طرح آمارگیری برخورداری خانوارها و استفاده‌ی افراد
+از فناوری اطلاعات و ارتباطات در سال ۱۳۹۴ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Dataset extracted from table 5 on page 43, AQI Air Quality Index during different months in 1390."
+text = "Dataset extracted from table 5 on page 43, Results of the survey of husehold and people use of ICT in 1394."
 
 [[resources]]
 
@@ -60,11 +61,11 @@ text = "Dataset extracted from table 5 on page 43, AQI Air Quality Index during 
 
   [[resources.title]]
   lang = "en" 
-  text = "Population aged 6 and over, disaggregated by use of information and communicato technology and province in 1393"
+  text = "Population aged 6 and over, disaggregated by use of information and communicato technology and province in 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "جمعیت ۶ سال و بیشتر کشور برحسب استفاده از فناوری اطلاعات و ارتباطات به تفکیک استان در سال ۱۳۹۳"
+  text = "جمعیت ۶ سال و بیشتر کشور برحسب استفاده از فناوری اطلاعات و ارتباطات به تفکیک استان در سال ۱۳۹۴"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
