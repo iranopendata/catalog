@@ -2,7 +2,7 @@ name = "sciho176"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1393, 1393] 
+period = [1386, 1393] 
 category= ["housing"]
 
 [[maintainer]]
@@ -47,7 +47,8 @@ text = "این داده از جدول شماره ۲۸-۱ در صفحه ۶۸، ن
 
 [[description]]
 lang = "en"
-text = "داده‌های مربوط به سال ۱۳۹۳، از جدول شماره ۲۸-۱ در صفحه ۶۸، <a href='http&#58;https;//www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ahvdkhr_93.pdf'> نتايج آمارگير هزينه و درامد خانوارهای روستایی
+text = "داده‌های مربوط به سال ۱۳۹۳، از جدول شماره ۲۸-۱ در صفحه ۶۸، <a href='http&#58;https;//www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ahvdkhr_93.pdf'> نتايج آمارگير هزينه و درامد خانوارهای روستایی
+
 سال ۱۳۹۳ <a>، استخراج شده است."
 
 [[resources]]
