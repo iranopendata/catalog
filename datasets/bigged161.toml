@@ -56,6 +56,8 @@ text = "Dataset exctracted from the official website of Behnam Ideh Gostar Group
   [[resources.url]]
   lang = "en"
   link = "http://iod.dataset.s3.amazonaws.com/ed/bigged161en.csv"
+  
+  code = "https://github.com/iranopendata/ingest/blob/master/python/schools.py"
 
   [[resources.title]]
   lang = "en" 
