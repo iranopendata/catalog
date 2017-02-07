@@ -2,7 +2,6 @@ name = "bigged161"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [, ] 
 category= ["education"]
 
 [[maintainer]]
