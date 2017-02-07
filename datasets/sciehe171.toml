@@ -38,7 +38,7 @@ text = "The unemployment rate disaggregated by provinces from 1384 to 1391"
 
 [[title]]
 lang = "fa"
-text = "نرخ بیکاری به تفکیک استان از سال ۱۳۸۴ تا ۱۳۹۱"
+text = "نرخ بیکاری به تفکیک استانی از سال ۱۳۸۴ تا ۱۳۹۱"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 2 on page 92, Iranian labour market index (
 
   [[resources.title]]
   lang = "fa"
-  text = "نرخ بیکاری به تفکیک استان از سال ۱۳۸۴ تا ۱۳۹۱"
+  text = "نرخ بیکاری به تفکیک استانی از سال ۱۳۸۴ تا ۱۳۹۱"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
