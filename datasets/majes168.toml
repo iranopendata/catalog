@@ -38,7 +38,7 @@ text = "The sale of a variety of chemical toxins into separate provinces in 1391
 
 [[title]]
 lang = "fa"
-text = "ميزان فروش انواع سموم شيميايی به تفكيک استان در سال ۱۳۹۱"
+text = "ميزان فروش انواع سموم شيميايی به تفكيک استانی در سال ۱۳۹۱"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset extracted from 1-3-2 table on page 53, the second volume of agri
 
   [[resources.title]]
   lang = "fa"
-  text = "ميزان فروش انواع سموم شيميايی به تفكيک استان در سال ۱۳۹۱"
+  text = "ميزان فروش انواع سموم شيميايی به تفكيک استانی در سال ۱۳۹۱"
 
   [[resources.sources]]
   name = "Ministry of Agriculture-Jahad" 
