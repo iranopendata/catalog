@@ -38,7 +38,7 @@ text = "Gross domestic product, disaggregated by province from 1379 until 1392"
 
 [[title]]
 lang = "fa"
-text = "تولید  ناخالص داخلی به تفکیک استان از سال ۱۳۷۹ تا ۱۳۹۲"
+text = "تولید  ناخالص داخلی به تفکیک استانی از سال ۱۳۷۹ تا ۱۳۹۲"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset cleaned from an Excel file published by the Statistical Center o
 
   [[resources.title]]
   lang = "fa"
-  text = "تولید  ناخالص داخلی به تفکیک استان از سال ۱۳۷۹ تا ۱۳۹۲"
+  text = "تولید  ناخالص داخلی به تفکیک استانی از سال ۱۳۷۹ تا ۱۳۹۲"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
