@@ -38,7 +38,7 @@ text = "Index of prices of goods and services in urban areas (inflation index) i
 
 [[title]]
 lang = "fa"
-text = "شاخص کل بهای کالاها و خدمات مصرفی در مناطق شهری ايران (شاخص تورم) در سال‌های ۱۳۹۴ - ۱۳۱۵"
+text = "شاخص کل بهای کالاها و خدمات مصرفی در مناطق شهری ايران (شاخص تورم) در سال‌های ۱۳۱۵ تا ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset exctracted from the official website of the Central Bank of the 
 
   [[resources.title]]
   lang = "fa"
-  text = "شاخص کل بهای کالاها و خدمات مصرفی در مناطق شهری ايران (شاخص تورم) در سال‌های ۱۳۹۴ - ۱۳۱۵"
+  text = "شاخص کل بهای کالاها و خدمات مصرفی در مناطق شهری ايران (شاخص تورم) در سال‌های ۱۳۱۵ تا ۱۳۹۴"
 
   [[resources.sources]]
   name = "Cenral Bank of Iran" 
