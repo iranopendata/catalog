@@ -1,0 +1,84 @@
+name = "cbibf171"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1315 ,  1394] 
+category= ["banking", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Price index for consumer goods and services", "Inflation"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["شاخص بهای کالا و خدمات مصرفی", "تورم"]
+
+[author]
+web = "http://cbi.ir/page/10809.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی جمهوری اسلامی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Cenral Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "Index of prices of goods and services in urban areas (inflation index) in the years 1394 - 1315" 
+
+[[title]]
+lang = "fa"
+text = "شاخص کل بهای کالاها و خدمات مصرفی در مناطق شهری ايران (شاخص تورم) در سال‌های ۱۳۹۴ - ۱۳۱۵"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی بانک مرکزی جمهوری اسلامی ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Central Bank of the Islamic Republic of Iran."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bf/cbibf171fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bf/cbibf171en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Index of prices of goods and services in urban areas (inflation index) in the years 1394 - 1315"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "شاخص کل بهای کالاها و خدمات مصرفی در مناطق شهری ايران (شاخص تورم) در سال‌های ۱۳۹۴ - ۱۳۱۵"
+
+  [[resources.sources]]
+  name = "Cenral Bank of Iran" 
+  web = "http://cbi.ir/page/10809.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Index number"
+      type = "string"
+
+
