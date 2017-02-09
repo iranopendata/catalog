@@ -38,7 +38,7 @@ text = "The average annual consumption of some food items, beverages and tobacco
 
 [[title]]
 lang = "fa"
-text = "متوسط مقدار مصرف سالانه برخی اقلام خوراكی‌ها، آشاميدنی‌ها و دخانيات يک خانوار شهری طی سال‌های ۱۳۸۵ - ۱۳۹۴"
+text = "متوسط مقدار مصرف سالانه برخی اقلام خوراكی‌ها، آشاميدنی‌ها و دخانيات يک خانوار شهری طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 6 on page 24, Results household budget surv
 
   [[resources.title]]
   lang = "fa"
-  text = "متوسط مقدار مصرف سالانه برخی اقلام خوراكی‌ها، آشاميدنی‌ها و دخانيات يک خانوار شهری طی سال‌های ۱۳۸۵ - ۱۳۹۴"
+  text = "متوسط مقدار مصرف سالانه برخی اقلام خوراكی‌ها، آشاميدنی‌ها و دخانيات يک خانوار شهری طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
 
   [[resources.sources]]
   name = "Cenral Bank of Iran" 
