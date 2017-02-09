@@ -38,7 +38,7 @@ text = "The main indicators of the labor force in the population aged 15 years a
 
 [[title]]
 lang = "fa"
-text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۵ ساله و بيشتر به تفكيک استان در سال ۱۳۹۴"
+text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۵ ساله و بيشتر به تفكيک استانی در سال ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset extracted from table 34 on page 60, Results of the 1394 Labour f
 
   [[resources.title]]
   lang = "fa"
-  text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۵ ساله و بيشتر به تفكيک استان در سال ۱۳۹۴"
+  text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۵ ساله و بيشتر به تفكيک استانی در سال ۱۳۹۴"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
