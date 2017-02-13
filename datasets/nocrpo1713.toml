@@ -1,0 +1,124 @@
+name = "nocrpo1713"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1393 , 1394] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Marriage Statistics", "Divorce Statistics"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["آمار ازدواج", "آمار طلاق"]
+
+[author]
+web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh94.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان ثبت احوال کشور"
+
+  [[author.name]]
+  lang = "en"
+  text = "National organisation for civil registration"
+
+[[title]]
+lang = "en" 
+text = "Statistics marriages and divorces registered in separate provinces in uears of 1393 and 1394" 
+
+[[title]]
+lang = "fa"
+text = "آمار ازدواج وطلاق ثبت شده به تفكيک استان در سال‌های ۱۳۹۳ و ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۱۲ در صفحه ۳۱۴،‌ سالنامه آمارهای جمعیتی سازمان ثبت احوال کشور ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 12 on page 314, Demographics calendar of  National organisation for civil registration in year 1394."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/nocrpo1713fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/nocrpo1713en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Statistics marriages and divorces registered in separate provinces in uears of 1393 and 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "آمار ازدواج وطلاق ثبت شده به تفكيک استان در سال‌های ۱۳۹۳ و ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "National organisation for civil registration" 
+  web = "https://www.sabteahval.ir/Upload/Modules/Contents/asset99/salnameh94.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Provinces"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Marriage – All 1394"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Marriage – Urban 1394"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Marriage – Rural 1394"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Divorce – All 1394"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Divorce – Urban 1394"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Divorce – Rural 1394"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Marriage – All 1393"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Marriage – Urban 1393"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Marriage – Rural 1393"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Divorce – All 1393"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Divorce – Urban 1393"
+      type = "string"
+
+
