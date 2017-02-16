@@ -34,11 +34,11 @@ web = "http://irandataportal.syr.edu/wp-content/uploads/budget-1393.pdf"
 
 [[title]]
 lang = "en" 
-text = "Financial estimation of costs and acquisition of capital assets disaggregated by chapter and topic in 1393" 
+text = "Financial estimation of costs and acquisition of capital assets disaggregated by affairs.chapter in 1393" 
 
 [[title]]
 lang = "fa"
-text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امورفصل در سال ۱۳۹۳"
+text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امور.فصل در سال ۱۳۹۳"
 
 [[description]]
 lang = "fa"
