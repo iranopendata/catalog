@@ -34,11 +34,11 @@ web = "https://www.princeton.edu/irandataportal/socioecon/annual-budgets/Budget-
 
 [[title]]
 lang = "en" 
-text = "Financial estimation of costs and acquisition of capital assets disaggregated by chapter and topic in 1390" 
+text = "Financial estimation of costs and acquisition of capital assets disaggregated by affairs.chapter in 1390" 
 
 [[title]]
 lang = "fa"
-text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امورفصل در سال ۱۳۹۰"
+text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امور.فصل در سال ۱۳۹۰"
 
 [[description]]
 lang = "fa"
