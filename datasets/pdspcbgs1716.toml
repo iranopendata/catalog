@@ -1,0 +1,96 @@
+name = "pdspcbgs1716"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1388, 1388] 
+category= ["budget", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Public budget", "Welfare and Social Security", "Environment", "Education"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بودجه دولت", "بودجه عمومی", "رفاه و تامین اجتماعی", "محیط زیست", "آموزش و پرورش"]
+
+[author]
+web = "http://irandataportal.syr.edu/wp-content/uploads/budget-1388.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "معاونت برنامه‌ریزی و نظارت راهبردی رییس جمهور"
+
+  [[author.name]]
+  lang = "en"
+  text = "President Deputy Strategic Planning and Control"
+
+[[title]]
+lang = "en" 
+text = "Financial estimation of costs  disaggregated by chapter and topic in 1388" 
+
+[[title]]
+lang = "fa"
+text = "برآورد اعتبارات هزينه ای بر حسب امورفصل در سال ۱۳۸۸"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره  ۱-۷ در صفحات ۱۴۹ تا ۱۵۱، قانون بودجه سال ۱۳۸۸ کل کشور، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from Table 7-1 on pages 149 to 151, The country's 1388 budget law."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/pdspcbgs1716fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/pdspcbgs1716en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Financial estimation of costs  disaggregated by chapter and topic in 1388"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "برآورد اعتبارات هزينه ای بر حسب امورفصل در سال ۱۳۸۸"
+
+  [[resources.sources]]
+  name = "President Deputy Strategic Planning and Control" 
+  web = "http://irandataportal.syr.edu/wp-content/uploads/budget-1388.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Subject"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - of public resources - national (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - of public resources - Provincial (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - from private sources - National (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - from private sources – Provincial (million IRR)"
+      type = "string"
+
+
