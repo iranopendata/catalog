@@ -34,11 +34,11 @@ web = "http://irandataportal.syr.edu/wp-content/uploads/budget-1392.pdf"
 
 [[title]]
 lang = "en" 
-text = "Financial estimation of costs and acquisition of capital assets disaggregated by chapter and topic in 1392" 
+text = "Financial estimation of costs and acquisition of capital assets disaggregated by affairs.chapter in 1392" 
 
 [[title]]
 lang = "fa"
-text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امورفصل در سال ۱۳۹۲"
+text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امور.فصل در سال ۱۳۹۲"
 
 [[description]]
 lang = "fa"
