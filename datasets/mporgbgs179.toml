@@ -1,0 +1,124 @@
+name = "mporgbgs179"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1395, 1395] 
+category= ["بودجه و هزینه‌های دولت"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Public budget", "Welfare and Social Security", "Environment", "Education"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بودجه دولت", "بودجه عمومی", "رفاه و تامین اجتماعی", "محیط زیست", "آموزش و پرورش"]
+
+[author]
+web = "http://dlp.mporg.ir/LinkClick.aspx?fileticket=AyxnVMM4JZE%3d&tabid=40&mid=562"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان مدیریت و برنامه‌ریزی کشور"
+
+  [[author.name]]
+  lang = "en"
+  text = "Management and Planning Organisation of Iran"
+
+[[title]]
+lang = "en" 
+text = "Budget summary of main units and subsidiaries in 1395" 
+
+[[title]]
+lang = "fa"
+text = "خلاصه بودجه دستگاه های اصلی و زير مجموعه در سال ۱۳۹۵"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره  ۶ در صفحات ۴۴ تا ۴۷، قانون بودجه سال ۱۳۹۵ کل کشور، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from Table 6 from page 44 to  47, The country's 1395 budget law."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/mporgbgs179fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/mporgbgs179en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Budget summary of main units and subsidiaries in 1395"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "خلاصه بودجه دستگاه های اصلی و زير مجموعه در سال ۱۳۹۵"
+
+  [[resources.sources]]
+  name = "Management and Planning Organisation of Iran" 
+  web = "http://dlp.mporg.ir/LinkClick.aspx?fileticket=AyxnVMM4JZE%3d&tabid=40&mid=562" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Classification number"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Subject"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - of public resources - national (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - of public resources - Provincial (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - from private sources - National (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - from private sources – Provincial (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Cost - Total (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Acquisition of capital assets – national (million IRR) "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Acquisition of capital assets – provincial (million IRR) "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Acquisition of capital assets – total (million IRR) "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – national (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – provincial (million IRR)"
+      type = "string"
+
+
