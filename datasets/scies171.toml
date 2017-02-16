@@ -1,0 +1,160 @@
+name = "scies171"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1385 ,  1395] 
+category= ["economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["GDP", "GDP at constant prices"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["تولید ناخالص داخلی", "تولید ناخالص داخلی به قیمت ثابت"]
+
+[author]
+web = "https://www.amar.org.ir/%D8%A2%D9%85%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D8%B6%D9%88%D8%B9%DB%8C/%D8%AD%D8%B3%D8%A7%D8%A8-%D9%87%D8%A7%DB%8C-%D9%85%D9%84%DB%8C#3505598-----"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Gross domestic product and value-added economic activities field in the country from 1385 to 1395 at current prices." 
+
+[[title]]
+lang = "fa"
+text = "محصول ناخالص داخلی و ارزش افزوده رشته فعاليت‌های اقتصادی كشور به قيمت‌های جاری از سال ۱۳۸۵ تا  ۱۳۹۵"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۱، تب جدول‌ها و سری‌های زمانی، گروه حساب‌های ملی فصلی، فایل ۱۳۸۵ تا نیمه ۱۳۹۵ در سایت رسمی مرکز آمار ایران، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from Table 1, tables and time series tab, the quarterly national accounts, files from 1385 to mid-1395 on the official Statistical Center of Iran."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies171fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies171en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Gross domestic product and value-added economic activities field in the country from 1385 to 1395 at current prices."
+
+  [[resources.title]]
+  lang = "fa"
+  text = "محصول ناخالص داخلی و ارزش افزوده رشته فعاليت‌های اقتصادی كشور به قيمت‌های جاری از سال ۱۳۸۵ تا  ۱۳۹۵"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/%D8%A2%D9%85%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D8%B6%D9%88%D8%B9%DB%8C/%D8%AD%D8%B3%D8%A7%D8%A8-%D9%87%D8%A7%DB%8C-%D9%85%D9%84%DB%8C#3505598-----" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Year and Season"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Department of Agriculture (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Agriculture (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Fishing (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Industry Group (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Mining (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Extraction of crude petroleum and natural gas (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Other deposits (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Industry (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Water, electricity and natural gas (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Building (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Services sector (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wholesale and retail, hotels and restaurants (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Transport, storage and communications (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Financial intermediation (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Real estate, rental and business services (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Public affairs, education, health and social work (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Social services, personal and household (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total value added of activities (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Net taxes on imports (billion IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Gross domestic product - the market price (billion IRR)"
+      type = "string"
+
+
