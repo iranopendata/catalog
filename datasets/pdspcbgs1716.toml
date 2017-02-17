@@ -34,11 +34,11 @@ web = "http://irandataportal.syr.edu/wp-content/uploads/budget-1388.pdf"
 
 [[title]]
 lang = "en" 
-text = "Financial estimation of costs  disaggregated by chapter and topic in 1388" 
+text = "Estimates of costs disaggregated by category in 1388" 
 
 [[title]]
 lang = "fa"
-text = "برآورد اعتبارات هزينه ای بر حسب امورفصل در سال ۱۳۸۸"
+text = "برآورد اعتبارات هزينه‌ای بر حسب امور.فصل در سال ۱۳۸۸"
 
 [[description]]
 lang = "fa"
