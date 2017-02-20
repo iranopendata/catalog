@@ -38,7 +38,7 @@ text = "Current and Capital Expenditures Estimates by Category in 1391"
 
 [[title]]
 lang = "fa"
-text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امور و فصل در سال ۱۳۹۱"
+text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امور.فصل در سال ۱۳۹۱"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset exctracted from Table 6 on pages 87 to 88, The country's 1391 bu
 
   [[resources.title]]
   lang = "fa"
-  text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امور و فصل در سال ۱۳۹۱"
+  text = "برآورد اعتبارات هزينه‌ای و تملک دارایی‌های سرمایه‌ای بر حسب امور.فصل در سال ۱۳۹۱"
 
   [[resources.sources]]
   name = "Management and Planning Organisation of Iran" 
