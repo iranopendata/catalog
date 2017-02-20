@@ -1,0 +1,112 @@
+name = "mruden172"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1388, 1395] 
+category= ["environment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Wet year", "Drought year", "Percent of the population affected by drought year", "Percent of the population affected by wet year"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["ترسالی", "خشک‌سالی", "درصد جمعیت تحت تاثیر خشک‌سالی", "درصد جمعیت تحت تاثیر ترسالی"]
+
+[author]
+web = "http://ndwmc.irimo.ir/far/web_directory/4415-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AE%D8%B4%DA%A9%D8%B3%D8%A7%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86.html"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "وزارت راه و کشاورزی - سازمان هواشناسی کشور"
+
+  [[author.name]]
+  lang = "en"
+  text = "Ministry of Road and Urban Development - Meteorological Organization"
+
+[[title]]
+lang = "en" 
+text = "Percentage of the population affected by drought within seven-year period until the end of Aban 1395 disaggregted by provinces" 
+
+[[title]]
+lang = "fa"
+text = "درصد جمعیت تحت تاثیر خشک‌سالی دوره هفت ساله تا پایان آبان ماه ۱۳۹۵ به تفکیک استانی"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی وزارت راه و شهرسازی - سازمان هواشناسی کشور گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of Ministry of Road and Urban Development - Meteorological Organization."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/en/mruden172fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/en/mruden172en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Percentage of the population affected by drought within seven-year period until the end of Aban 1395 disaggregted by provinces"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "درصد جمعیت تحت تاثیر خشک‌سالی دوره هفت ساله تا پایان آبان ماه ۱۳۹۵ به تفکیک استانی"
+
+  [[resources.sources]]
+  name = "Ministry of Road and Urban Development - Meteorological Organization" 
+  web = "http://ndwmc.irimo.ir/far/web_directory/4415-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AF%D8%B1%D8%B5%D8%AF-%D8%AE%D8%B4%DA%A9%D8%B3%D8%A7%D9%84%DB%8C-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86.html" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Provinces"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Extreme level wet Year (percent)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "High level wet Year (percent)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Medium level wet Year (percent)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Poor level wet Year (percent)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Normal level (percent)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Poor level drought year (percent)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Medium drought year (percent)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "High level drought year (percent)"
+      type = "string"
+
+
