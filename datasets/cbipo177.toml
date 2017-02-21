@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "The percentage distribution of households by status of activities for 6 years and above from 1385 to 1394" 
+text = "The percentage distribution of households of six years and above by employment status from 1385 to 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 18 on page 40, results of the households bu
 
   [[resources.title]]
   lang = "en" 
-  text = "The percentage distribution of households by status of activities for 6 years and above from 1385 to 1394"
+  text = "The percentage distribution of households of six years and above by employment status from 1385 to 1394"
 
   [[resources.title]]
   lang = "fa"
