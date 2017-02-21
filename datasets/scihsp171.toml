@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1367, 1394] 
-category= ["health", "education", "women"]
+category= ["education", "women"]
 
 [[maintainer]]
 lang = "en" 
@@ -15,11 +15,11 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["The number of students", "Medical students", "Humanities students", "Basic sciences students", "Engineering students", "Agriculture and veterinary students", "Art Students"]
+wordlist = ["The number of students", "Medical", "Humanities studies", "Basic sciences", "Engineering", "Agriculture and veterinary", "Art"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["تعداد دانشجویان", "دانشجویان پزشكی", "دانشجویان علوم انسانی", "دانشجویان علوم پايه", "دانشجویان فنی مهندسی", "دانشجویان كشاورزی و دامپزشكی", "دانشجویان هنر"]
+wordlist = ["تعداد دانشجویان", "پزشكی", "علوم انسانی", "علوم پايه", "فنی مهندسی", "كشاورزی و دامپزشكی", "هنر"]
 
 [author]
 web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6363/daneshjo93-94..xlsx"
