@@ -22,7 +22,7 @@ lang = "fa"
 wordlist = ["بودجه سال ۱۳۹۴", "بودجه وزارتخانه‌ها"]
 
 [author]
-web = "http://iod.dataset.s3.amazonaws.com/Sources/mporg71.pdf"
+web = "http://dlp.mporg.ir/LinkClick.aspx?fileticket=W8bnXVVo37o%3d&tabid=40&mid=562"
 
   [[author.name]] 
   lang = "fa"
@@ -42,11 +42,11 @@ text = "خلاصه بودجه دستگاه‌های اجرایی در سال ۱�
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۷ در صفحات ۷۱ تا ۱۷۵، قانون بودجه سال ۱۳۹۴ کل کشور، استخراج شده است. در این مجموعه داده، تنها بودجه دستگاه‌های اصلی (بدون زیر مجموعه‌‌هایشان) آمده است.استخراج شده است."
+text = "این داده از جدول شماره ۷ در صفحات ۶۸ تا ۱۷۱، قانون بودجه سال ۱۳۹۴ کل کشور، استخراج شده است. در این مجموعه داده، تنها بودجه دستگاه‌های اصلی (بدون زیر مجموعه‌‌هایشان) آمده است.استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Dataset exctracted from Table 7 on pages 71 to 175, The country's 1394 budget law. In this dataset, only the main executive agencies (without their subdivisions) are mentioned."
+text = "Dataset exctracted from Table 7 on pages 68 to 171, The country's 1394 budget law. In this dataset, only the main executive agencies (without their subdivisions) are mentioned."
 
 [[resources]]
 
