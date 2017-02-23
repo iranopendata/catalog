@@ -38,7 +38,7 @@ text = "Literate inactive population of 10 years and over in course or qualifica
 
 [[title]]
 lang = "fa"
-text = "جمعیت ۱۰ ساله و بیش‌تر غیرفعال باسواد برحسب دوره یا مدرک تحصیلی به تفکیک جنس و استاندر سال ۱۳۹۴"
+text = "جمعیت ۱۰ ساله و بیش‌تر غیرفعال باسواد برحسب دوره یا مدرک تحصیلی به تفکیک جنس و استان در سال ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset exctracted from Table 43 on pages 307 to 324, Results of the lab
 
   [[resources.title]]
   lang = "fa"
-  text = "جمعیت ۱۰ ساله و بیش‌تر غیرفعال باسواد برحسب دوره یا مدرک تحصیلی به تفکیک جنس و استاندر سال ۱۳۹۴"
+  text = "جمعیت ۱۰ ساله و بیش‌تر غیرفعال باسواد برحسب دوره یا مدرک تحصیلی به تفکیک جنس و استان در سال ۱۳۹۴"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
