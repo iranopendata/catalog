@@ -30,7 +30,7 @@ web = "http://iod.dataset.s3.amazonaws.com/Sources/mporg71.pdf"
 
   [[author.name]]
   lang = "en"
-  text = "Iranian President Deputy Strategic Planning and Control"
+  text = "Vice president of strategic planning and monitoring"
 
 [[title]]
 lang = "en" 
