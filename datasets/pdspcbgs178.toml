@@ -22,7 +22,7 @@ lang = "fa"
 wordlist = ["بودجه استان‌ها سال ۱۳۹۴"]
 
 [author]
-web = "http://iod.dataset.s3.amazonaws.com/Sources/mporg71.pdf"
+web = "http://iod.dataset.s3.amazonaws.com/Sources/IOD082.pdf"
 
   [[author.name]] 
   lang = "fa"
