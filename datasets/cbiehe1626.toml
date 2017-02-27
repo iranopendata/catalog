@@ -2,7 +2,7 @@ name = "cbiehe1626"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1394] 
+period = [1385 , 1394] 
 category= ["employment", "housing", "economics"]
 
 [[maintainer]]
@@ -34,11 +34,11 @@ web = "http://www.cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "Average annual gross household expenditure of the cost breakdown of various groups in different provinces in 1394" 
+text = "Average annual gross household expenditure to the separation of different cost groups during the years 1385 to 1394" 
 
 [[title]]
 lang = "fa"
-text = "متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه در استان‌های مختلف در سال ۱۳۹۴"
+text = "متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset exctracted from Table 1 on page 16, The results of 1394 survey o
 
   [[resources.title]]
   lang = "en" 
-  text = "Average annual gross household expenditure of the cost breakdown of various groups in different provinces in 1394"
+  text = "Average annual gross household expenditure to the separation of different cost groups during the years 1385 to 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه در استان‌های مختلف در سال ۱۳۹۴"
+  text = "متوسط هزینه ناخالص سالانه یک خانوار به تفکیک گروه‌های مختلف هزینه طی سال‌های ۱۳۸۵ تا ۱۳۹۴"
 
   [[resources.sources]]
   name = "Central Bank of Iran" 
