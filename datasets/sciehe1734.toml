@@ -1,8 +1,8 @@
-name = "sciehe1735"
+name = "sciehe1734"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1391, 1391] 
+period = [1392, 1392] 
 category= ["employment", "women"]
 
 [[maintainer]]
@@ -22,7 +22,7 @@ lang = "fa"
 wordlist = ["نرخ بیکاری", "نرخ مشارکت اقتصادی", "کشاورزی", "صنعت", "خدمات", "زنان", "شهری و روستایی"]
 
 [author]
-web = "http://lib.sci.org.ir/DIGLIB/getfile.aspx?fileid=8412"
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1392/n_ank_92.pdf"
 
   [[author.name]] 
   lang = "fa"
@@ -34,41 +34,41 @@ web = "http://lib.sci.org.ir/DIGLIB/getfile.aspx?fileid=8412"
 
 [[title]]
 lang = "en" 
-text = "The main indicators of the labor force in the population aged 10 and over by gender and province in urban and rural areas and the whole country in 1391" 
+text = "The main indicators of the labor force in the population aged 10 and over by gender and province in urban and rural areas and the whole country in 1392" 
 
 [[title]]
 lang = "fa"
-text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۰ ساله و بيشتر به تفكيک جنس و استان در نقاط شهری و روستایی و کل کشور در سال ۱۳۹۱"
+text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۰ ساله و بيشتر به تفكيک جنس و استان در نقاط شهری و روستایی و کل کشور در سال ۱۳۹۲"
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول ۴۶ در صفحات ۳۳۱ تا ۳۴۸،‌ نتایج آمارگیری نیروی کار در سال ۱۳۹۱ استخراج شده است."
+text = "این داده از جدول ۴۶ در صفحات ۳۶۱ تا ۳۷۸،‌ نتایج آمارگیری نیروی کار در سال ۱۳۹۲ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Dataset extracted from table 46 on pages 331 to 348, Results of the 1391 Labout forcet survey."
+text = "Dataset extracted from table 46 on pages 361 to 378, Results of the 1392 Labour force survey."
 
 [[resources]]
 
   [[resources.url]] 
   lang = "fa"
-  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1735fa.csv" 
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1734fa.csv" 
 
   [[resources.url]]
   lang = "en"
-  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1735en.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1734en.csv"
 
   [[resources.title]]
   lang = "en" 
-  text = "The main indicators of the labor force in the population aged 10 and over by gender and province in urban and rural areas and the whole country in 1391"
+  text = "The main indicators of the labor force in the population aged 10 and over by gender and province in urban and rural areas and the whole country in 1392"
 
   [[resources.title]]
   lang = "fa"
-  text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۰ ساله و بيشتر به تفكيک جنس و استان در نقاط شهری و روستایی و کل کشور در سال ۱۳۹۱"
+  text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۰ ساله و بيشتر به تفكيک جنس و استان در نقاط شهری و روستایی و کل کشور در سال ۱۳۹۲"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
-  web = "http://lib.sci.org.ir/DIGLIB/getfile.aspx?fileid=8412" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1392/n_ank_92.pdf" 
 
   [resources.schema]
   format = "csv"

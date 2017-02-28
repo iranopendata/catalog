@@ -1,0 +1,232 @@
+name = "sciehe1733"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1393, 1393] 
+category= ["employment", "women"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Unemployment rate", "Economic participation rate", "Agriculture", "Industry", "Services", "Women", "Urban and Rural"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["نرخ بیکاری", "نرخ مشارکت اقتصادی", "کشاورزی", "صنعت", "خدمات", "زنان", "شهری و روستایی"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The main indicators of the labor force in the population aged 10 and over by gender and province in urban and rural areas and the whole country in 1393" 
+
+[[title]]
+lang = "fa"
+text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۰ ساله و بيشتر به تفكيک جنس و استان در نقاط شهری و روستایی و کل کشور در سال ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۴۶ در صفحات ۳۶۱ تا ۳۷۸،‌ نتایج آمارگیری نیروی کار در سال ۱۳۹۳ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 46 on pages 361 to 378, Results of the 1393 Labour force survey."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1733fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1733en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The main indicators of the labor force in the population aged 10 and over by gender and province in urban and rural areas and the whole country in 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "شاخص‌های عمده‌ نيروی كار در جمعيت ۱۰ ساله و بيشتر به تفكيک جنس و استان در نقاط شهری و روستایی و کل کشور در سال ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Gender and province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Economic participation rate (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Employment rate (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Population rate of underemployment (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The unemployment rate (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Employment ratio (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Proportion of the population with underemployment (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of workers with normal working hours to 49 hours and more (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The underemployment rate (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in agriculture (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in industry (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in the service sector (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in the private sector (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in the public sector (All country) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Economic participation rate (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Employment rate (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Population rate of underemployment (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The unemployment rate (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Employment ratio (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Proportion of the population with underemployment (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of workers with normal working hours to 49 hours and more (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The underemployment rate (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in agriculture (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in industry (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in the service sector (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in the private sector (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in the public sector (Urban areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Economic participation rate (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Employment rate (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Population rate of underemployment (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The unemployment rate (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Employment ratio (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Proportion of the population with underemployment (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of workers with normal working hours to 49 hours and more (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The underemployment rate (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in agriculture (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in industry (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in the service sector (Rural areas) – percent"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The share of employment in the private sector (Rural areas) – percent"
+      type = "string"
+
+
