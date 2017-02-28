@@ -56,7 +56,7 @@ text = "Dataset extracted from table 50 on page 88-91, Results of the 1394 Labou
 
   [[resources.url]]
   lang = "en"
-  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe173fa.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe173en.csv"
 
   [[resources.title]]
   lang = "en" 
