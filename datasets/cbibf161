@@ -2,7 +2,7 @@ name = "cbibf161"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1369 ,  1393] 
+period = [1369 ,  1394] 
 category= ["banking"]
 
 [[maintainer]]
@@ -34,19 +34,19 @@ web = "http://cbi.ir/page/13363.aspx"
 
 [[title]]
 lang = "en" 
-text = "Price index of goods and services in urban areas of the main groups and groups dedicated and annual average index in the 1369 - 1393" 
+text = "Price index of goods and services in urban areas of the main groups and groups dedicated and annual average index in the 1369 - 1394" 
 
 [[title]]
 lang = "fa"
-text = "شاخص بهای كالاها و خدمات مصرفی در مناطق  شهری ايران - متوسط سالانه شاخص کل، گروه‌های اصلی و گروه‌های اختصاصی درسال‌های ۱۳۶۹ - ۱۳۹۳"
+text = "شاخص بهای كالاها و خدمات مصرفی در مناطق  شهری ايران - متوسط سالانه شاخص کل، گروه‌های اصلی و گروه‌های اختصاصی درسال‌های ۱۳۶۹ - ۱۳۹۴"
 
 [[description]]
 lang = "fa"
-text = "سال پایه = ۱۳۹۰- این داده از جدول شماره ۲ در صفحه ۲۱ نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۳ استخراج شده است."
+text = "این داده از جدول شماره ۲ در صفحه ۲۱ نتایج بررسی بودجه خانوار در مناطق شهری ایران سال ۱۳۹۴ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "1390=100. Dataset extracted from table 2, page 21, of the Results household budget survey in urban areas of Iran in 1393."
+text = "Dataset extracted from table 2, page 21, of the Results household budget survey in urban areas of Iran in 1394."
 
 [[resources]]
 
@@ -60,11 +60,11 @@ text = "1390=100. Dataset extracted from table 2, page 21, of the Results househ
 
   [[resources.title]]
   lang = "en" 
-  text = "Price index of goods and services in urban areas of the main groups and groups dedicated annual average index in the 1369 - 1393"
+  text = "Price index of goods and services in urban areas of the main groups and groups dedicated annual average index in the 1369 - 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "شاخص بهای كالاها و خدمات مصرفی در مناطق  شهری ايران متوسط سالانه شاخص کل گروه‌های اصلی و گروه‌های اختصاصی درسال‌های ۱۳۶۹ - ۱۳۹۳"
+  text = "شاخص بهای كالاها و خدمات مصرفی در مناطق  شهری ايران متوسط سالانه شاخص کل گروه‌های اصلی و گروه‌های اختصاصی درسال‌های ۱۳۶۹ - ۱۳۹۴
 
   [[resources.sources]]
   name = "Central Bank of Iran" 
