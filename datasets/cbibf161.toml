@@ -2,7 +2,7 @@ name = "cbibf161"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1369 ,  1393] 
+period = [1369 ,  1394] 
 category= ["banking"]
 
 [[maintainer]]
@@ -34,20 +34,19 @@ web = "http://cbi.ir/page/13363.aspx"
 
 [[title]]
 lang = "en" 
-text = "Price index of consumer goods and services in urban areas in the years 1369 to 1393" 
+text = "Price index of consumer goods and services in urban areas in the years 1369 to 1394" 
 
 [[title]]
 lang = "fa"
-text = "شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران درسال‌های ۱۳۶۹ تا ۱۳۹۳"
+text = "شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران درسال‌های ۱۳۶۹ تا ۱۳۹۴"
 
 [[description]]
 lang = "fa"
-text = "سال پایه =۱۳۹۰- این داده از جدول شماره ۲ در صفحه ۲۱ شاخص بهای كالاها وخدمات مصرفی در مناطق شهری ايران 
-سال ١٣٩٣ استخراج شده است."
+text = " این داده از جدول شماره ۲ در صفحه ۲۱ شاخص بهای كالاها وخدمات مصرفی در مناطق شهری ايران سال ١٣٩۴ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Base year = 1390 - Dataset extracted from table 2 on page 21, Consumer price index of goods and services in urban areas of Iran in year 1393."
+text = "Dataset extracted from table 2 on page 21, Consumer price index of goods and services in urban areas of Iran in year 1394."
 
 [[resources]]
 
@@ -61,11 +60,11 @@ text = "Base year = 1390 - Dataset extracted from table 2 on page 21, Consumer p
 
   [[resources.title]]
   lang = "en" 
-  text = "Price index of consumer goods and services in urban areas in the years 1369 to 1393"
+  text = "Price index of consumer goods and services in urban areas in the years 1369 to 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران درسال‌های ۱۳۶۹ تا ۱۳۹۳"
+  text = "شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران درسال‌های ۱۳۶۹ تا ۱۳۹۴"
 
   [[resources.sources]]
   name = "Central Bank of Iran" 
