@@ -1,0 +1,128 @@
+name = "aqccen173"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1390 ,  1394] 
+category= ["environment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["air pollution", "Tehran"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["آلودگی هوا", "تهران"]
+
+[author]
+web = "http://air.tehran.ir/گزارش-ها/گزارش-های-سالانه-کیفیت-هوا"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "شرکت کنترل کیفیت هوا - وابسته به شهرداری تهران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Air Quality Control Company - Subsidiary of Terhan Municipality"
+
+[[title]]
+lang = "en" 
+text = "Tehran air quality according to AQI, disaggregated by days per month, during the years of 1390 to 1394" 
+
+[[title]]
+lang = "fa"
+text = "کیفیت هوای تهران بر اساس شاخص AQI طی ماه‌های مختلف در طی سال‌های ۱۳۹۰ تا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۳-۴ در صفحه ۷۱، گزارش سالانه کیفیت هوای تهران در سال ۱۳۹۴ استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from table 4-3, page 71, of the 1394 Annual Report on Tehran's Air Quality. Please note the dataset is disaggregated by Persian months."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/en/aqccen173fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/en/aqccen173en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Tehran air quality according to AQI, disaggregated by days per month, during the years of 1390 to 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "کیفیت هوای تهران بر اساس شاخص AQI طی ماه‌های مختلف در طی سال‌های ۱۳۹۰ تا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Air Quality Control Company - Subsidiary of Terhan Municipality" 
+  web = "http://air.tehran.ir/گزارش-ها/گزارش-های-سالانه-کیفیت-هوا" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Air Quality Index"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Farvardin (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Ordibehesht (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Khordad (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Tir (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Mordad (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Shahrivar (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Mehr (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Aban (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Azar (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Dey (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Bahman (number of days)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Esfand (number of days)"
+      type = "string"
+
+
