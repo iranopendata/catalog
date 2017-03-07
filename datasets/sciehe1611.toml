@@ -2,7 +2,7 @@ name = "sciehe1611"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1384, 1384] 
+period = [1384, 1385] 
 category= ["employment", "population"]
 
 [[maintainer]]
@@ -34,19 +34,19 @@ web = "http://iod.dataset.s3.amazonaws.com/Sources/sci25.pdf"
 
 [[title]]
 lang = "en" 
-text = "Labour force index disaggregated by gender, rural and urban area in 1384" 
+text = "Labour force index disaggregated by gender, rural and urban area in 1384 and 1385" 
 
 [[title]]
 lang = "fa"
-text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سال ۱۳۸۴"
+text = " شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سالهای ۱۳۸۴و۱۳۸۵" 
 
 [[description]]
 lang = "fa"
-text = "این داده از جدول شماره ۱ در صفحه شش چکیده نتایج طرح آمارگیری نیروی کار سال ۱۳۸۴-۱۳۸۷ استخراج شده است."
+text = "این داده از جداول شماره ۱ در صفحات ۶ و ۱۲ چکیده نتایج طرح آمارگیری نیروی کار سال ۱۳۸۴-۱۳۸۷ استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Dataset extracted from table 1, page 6, of the 1384-1387 Labour Force Survey"
+text = "Dataset extracted from tables 1, on pages 6 and 12, of the 1384-1387 Labour Force Survey"
 
 [[resources]]
 
@@ -60,11 +60,11 @@ text = "Dataset extracted from table 1, page 6, of the 1384-1387 Labour Force Su
 
   [[resources.title]]
   lang = "en" 
-  text = "Labour force index disaggregated by gender, rural and urban area in 1384"
+  text = "Labour force index disaggregated by gender, rural and urban area in 1384 and 1385"
 
   [[resources.title]]
   lang = "fa"
-  text = "شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سال ۱۳۸۴"
+  text = " شاخص نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سالهای ۱۳۸۴و۱۳۸۵"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
