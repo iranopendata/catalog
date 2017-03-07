@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf"
 
 [[title]]
 lang = "en" 
-text = "Distribution of workers aged 10 and over, disaggregated by employment status and sex in 1393" 
+text = "Distribution of workers aged 10 and over, disaggregated by employment status and gender in 1393" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 17, page 42, of the 1393 Labour Force Surve
 
   [[resources.title]]
   lang = "en" 
-  text = "Distribution of workers aged 10 and over, disaggregated by employment status and sex (1393)"
+  text = "Distribution of workers aged 10 and over, disaggregated by employment status and gender in 1393"
 
   [[resources.title]]
   lang = "fa"
