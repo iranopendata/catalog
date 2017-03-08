@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "The percentage distribution of households by number of employees during the period 1385 to 1394" 
+text = "Distribution percentage of household as per the number of employed people between 1385 to 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 20 on page 44, results of the households bu
 
   [[resources.title]]
   lang = "en" 
-  text = "The percentage distribution of households by number of employees during the period 1385 to 1394"
+  text = "Distribution percentage of household as per the number of employed people between 1385 to 1394"
 
   [[resources.title]]
   lang = "fa"
