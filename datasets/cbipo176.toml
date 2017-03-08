@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "The percentage distribution of households by age groups during the years 1385 to 1394" 
+text = "Distribution percentage of members of household as per age groups between 385 to 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 14 on page 34, results of the households bu
 
   [[resources.title]]
   lang = "en" 
-  text = "The percentage distribution of households by age groups during the years 1385 to 1394"
+  text = "Distribution percentage of members of household as per age groups between 385 to 1394"
 
   [[resources.title]]
   lang = "fa"
