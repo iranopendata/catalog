@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/baravord/b_ostani_85-95.xls"
 
 [[title]]
 lang = "en" 
-text = "Estimate and Prediction of the population of the Country’s provinces divided by urban, rural and non-settled ones from 1385 to 1395" 
+text = "Estimate and prediction of the population of the Country’s provinces divided by urban, rural and non-settled ones from 1385 to 1395" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset cleaned from an Excel file published by the Statistical Center o
 
   [[resources.title]]
   lang = "en" 
-  text = "Estimate and Prediction of the population of the Country’s provinces divided by urban, rural and non-settled ones from 1385 to 1395"
+  text = "Estimate and prediction of the population of the Country’s provinces divided by urban, rural and non-settled ones from 1385 to 1395"
 
   [[resources.title]]
   lang = "fa"
