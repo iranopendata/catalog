@@ -34,7 +34,7 @@ web = "https://amar.sci.org.ir/Detail.aspx?Ln=F&no=264851&S=SS"
 
 [[title]]
 lang = "en" 
-text = "Housing ownership of urban households in each of the price groups during the years 1383 to 1387" 
+text = "The way of acquiring homes used by urban household in each expense decile between 1383 and 1387" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from the official website of the Statistical Center o
 
   [[resources.title]]
   lang = "en" 
-  text = "Housing ownership of urban households in each of the price groups during the years 1383 to 1387"
+  text = "The way of acquiring homes used by urban household in each expense decile between 1383 and 1387"
 
   [[resources.title]]
   lang = "fa"
