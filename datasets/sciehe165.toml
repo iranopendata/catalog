@@ -34,12 +34,11 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf"
 
 [[title]]
 lang = "en" 
-text = "Labour force participation rate of population aged 10 and over, disaggregated by ability to work, sex, urban and rural area in 1393" 
+text = "Relative distribution of employed population of 15-64 years in terms of age groups disaggregated by gender, urban and rural areas in 1393" 
 
 [[title]]
 lang = "fa"
-text = " برآورد نرخ مشارکت اقتصادی جمعیت ۱۰ ساله و بیشتر بر حسب وضع فعالیت به تفکیک جنس، نقاط شهری و روستایی
-  در سال ۱۳۹۳"
+text = " توزيع نسبی برآورد جمعيت شاغل ۶۴-۱۵ ساله برحسب گروه‌های سنی به تفكيک جنس، نقاط شهری و روستايی  در سال ۱۳۹۳"
 
 [[description]]
 lang = "fa"
@@ -61,12 +60,11 @@ text = "Dataset extracted from table 10, page 38, of the 1393 Labour Force Surve
 
   [[resources.title]]
   lang = "en" 
-  text = "Labour force participation rate of population aged 10 and over, disaggregated by ability to work, sex, urban and rural area (1393)"
+  text = "Relative distribution of employed population of 15-64 years in terms of age groups disaggregated by gender, urban and rural areas in 1393"
 
   [[resources.title]]
   lang = "fa"
-  text = "برآورد نرخ مشارکت اقتصادی جمعیت ۱۰ ساله و بیشتر بر حسب وضع فعالیت به تفکیک جنس، نقاط شهری و روستایی
-  (سال ۱۳۹۳)"
+  text = "توزيع نسبی برآورد جمعيت شاغل ۶۴-۱۵ ساله برحسب گروه‌های سنی به تفكيک جنس، نقاط شهری و روستايی  در سال ۱۳۹۳"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
