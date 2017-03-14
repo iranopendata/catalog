@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 
-category= ["communications"]
+category= ["communications" , "energy"]
 
 [[maintainer]]
 lang = "en" 
