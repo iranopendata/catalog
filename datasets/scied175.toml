@@ -2,8 +2,8 @@ name = "scied175"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1347, 1394] 
-category= ["education", "population"]
+period = [1347, 1395] 
+category= ["education", "population", "women"]
 
 [[maintainer]]
 lang = "en" 
@@ -34,11 +34,11 @@ web = "http://www.amar.org.ir/Portals/0/PropertyAgent/461/Files/6274/daneshamoz.
 
 [[title]]
 lang = "en" 
-text = "The total number of students disaggregated by academic year and gender, from preparatory school to high school, between 1347 and 1394" 
+text = "The total number of students disaggregated by academic year and gender, from preparatory school to high school, between 1347 and 1395" 
 
 [[title]]
 lang = "fa"
-text = "تعداد کل  دانش آموزان به تفكيک دوره‌های تحصيلی و جنس از مقطع آمادگی تا متوسطه طی سال‌های ۱۳۴۷ تا ۱۳۹۴"
+text = "تعداد کل  دانش آموزان به تفكيک دوره‌های تحصيلی و جنس از مقطع آمادگی تا متوسطه طی سال‌های ۱۳۴۷ تا ۱۳۹۵"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset exctracted from the official website of the Statistical Center o
 
   [[resources.title]]
   lang = "en" 
-  text = "The total number of students of preschool and secondary school"
+  text = "The total number of students disaggregated by academic year and gender, from preparatory school to high school, between 1347 and 1395"
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد کل  دانش آموزان به تفكيک دوره‌های تحصيلی و جنس از مقطع آمادگی تا متوسطه طی سال‌های ۱۳۴۷ تا ۱۳۹۴"
+  text = "تعداد کل  دانش آموزان به تفكيک دوره‌های تحصيلی و جنس از مقطع آمادگی تا متوسطه طی سال‌های ۱۳۴۷ تا ۱۳۹۵"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
