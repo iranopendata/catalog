@@ -2,7 +2,7 @@ name = "sciehe165"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1393, 1393] 
+period = [1393, 1394] 
 category= ["employment", "women"]
 
 [[maintainer]]
@@ -34,11 +34,11 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1393/n_ank_93.pdf"
 
 [[title]]
 lang = "en" 
-text = "Relative distribution of employed population of 15-64 years in terms of age groups disaggregated by gender, urban and rural areas in 1393" 
+text = "Relative distribution of employed population of 15-64 years in terms of age groups disaggregated by gender, urban and rural areas in 1393 and 1394" 
 
 [[title]]
 lang = "fa"
-text = " توزيع نسبی برآورد جمعيت شاغل ۶۴-۱۵ ساله برحسب گروه‌های سنی به تفكيک جنس، نقاط شهری و روستايی  در سال ۱۳۹۳"
+text = " توزيع نسبی برآورد جمعيت شاغل ۶۴-۱۵ ساله برحسب گروه‌های سنی به تفكيک جنس، نقاط شهری و روستايی  در سال‌های ۱۳۹۳ و ۱۳۹۴ "
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset extracted from table 10, page 38, of the 1393 Labour Force Surve
 
   [[resources.title]]
   lang = "en" 
-  text = "Relative distribution of employed population of 15-64 years in terms of age groups disaggregated by gender, urban and rural areas in 1393"
+  text = "Relative distribution of employed population of 15-64 years in terms of age groups disaggregated by gender, urban and rural areas in 1393 and 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "توزيع نسبی برآورد جمعيت شاغل ۶۴-۱۵ ساله برحسب گروه‌های سنی به تفكيک جنس، نقاط شهری و روستايی  در سال ۱۳۹۳"
+  text = "توزيع نسبی برآورد جمعيت شاغل ۶۴-۱۵ ساله برحسب گروه‌های سنی به تفكيک جنس، نقاط شهری و روستايی  در سال‌های ۱۳۹۳ و ۱۳۹۴"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
