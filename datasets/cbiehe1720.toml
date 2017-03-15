@@ -52,11 +52,11 @@ text = "Dataset exctracted from Table 1 on page 16, The results of 1394 survey o
 
   [[resources.url]] 
   lang = "fa"
-  link = "http://iod.dataset.s3.amazonaws.com/po/cbiehe1720fa.csv" 
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe1720fa.csv" 
 
   [[resources.url]]
   lang = "en"
-  link = "http://iod.dataset.s3.amazonaws.com/po/cbiehe1720en.csv"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/cbiehe1720en.csv"
 
   [[resources.title]]
   lang = "en" 
