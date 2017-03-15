@@ -1,0 +1,81 @@
+name = "cbibf175"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1384, 1384] 
+category= ["Banking", "Employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Inflation", "Inflation of goods and services", "Food and beverage inflation", "Health inflation", "Education Inflation"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["تورم", "شاخص قیمت کالاها و خدمات", "شاخص قیمت خوراکی‌ها و آشامیدنی‌ها", "شاخص قیمت بهداشت ودرمان", "شاخص قیمت تحصیل"]
+
+[author]
+web = "http://www.cbi.ir/page/3253.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی جمهوری اسلامی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Cenral Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "The price index (Inflation rate) of consumer goods and services in urban areas of Iran in 1384" 
+
+[[title]]
+lang = "fa"
+text = "شاخص بهای کالاها و خدمات مصرفی (تورم) در مناطق شهری ایران در سال‌ ۱۳۸۴"
+
+[[description]]
+lang = "fa"
+text = "این مجموعه داده به عنوان خلاصه نتايج شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران ۱۳۸۴، از صفحه ۲ ، شاخص بهای كالاها وخدمات مصرفی در مناطق شهری ايران 
+دی ماه ١٣۸۴، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset of Summary price index of consumer goods and services in urban areas of Iran 1384, exctracted from page 2 of The index of consumer prices of goods and services in urban areas of Iran in 1384."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bf/cbibf175fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bf/cbibf175en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The price index (Inflation rate) of consumer goods and services in urban areas of Iran in 1384"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "شاخص بهای کالاها و خدمات مصرفی (تورم) در مناطق شهری ایران در سال‌ ۱۳۸۴"
+
+  [[resources.sources]]
+  name = "Cenral Bank of Iran" 
+  web = "http://www.cbi.ir/page/3253.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Group"
+      type = "string"
+
+
