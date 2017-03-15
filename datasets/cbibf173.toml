@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1391, 1394] 
-category= ["Banking", "Employment"]
+category= ["banking", "employment"]
 
 [[maintainer]]
 lang = "en" 
@@ -42,12 +42,11 @@ text = "شاخص بهای کالاها و خدمات مصرفی (تورم) در 
 
 [[description]]
 lang = "fa"
-text = "این مجموعه داده به عنوان خلاصه نتايج شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران ۱۳۹۴، از صفحه ۲ ، شاخص بهای كالاها وخدمات مصرفی در مناطق شهری ايران 
-دی ماه ١٣٩۴، استخراج شده است."
+text = "این مجموعه داده از صفحه ۲، شاخص بهای كالاها وخدمات مصرفی در مناطق شهری ايران دی ماه ١٣٩۴، استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Dataset of Summary price index of consumer goods and services in urban areas of Iran 1394, exctracted from page 2 of The index of consumer prices of goods and services in urban areas of Iran in 1394."
+text = "Dataset exctracted from page 2 of The index of consumer prices of goods and services in urban areas of Iran in 1394."
 
 [[resources]]
 
