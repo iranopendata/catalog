@@ -15,7 +15,7 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["Inflation", "Inflation of goods and services", "Food and beverage inflation", "Health inflation", "Education Inflation"]
+wordlist = ["Inflation", "Inflation of goods and services", "Food and beverage inflation", "Health Inflation", "Education Inflation"]
 
 [[keywords]]
 lang = "fa" 
@@ -42,11 +42,11 @@ text = "شاخص بهای کالاها و خدمات مصرفی (تورم) در 
 
 [[description]]
 lang = "fa"
-text = "این مجموعه داده به عنوان خلاصه نتايج شاخص بهای كالاها و خدمات مصرفی در مناطق شهری ايران - دی ماه ۱۳۹۵، از صفحه ۳ ، شاخص بهای كالاها وخدمات مصرفی در مناطق شهری ايران دی ماه ١٣٩٥، استخراج شده است."
+text = "این مجموعه داده از صفحه ۳، شاخص بهای كالاها وخدمات مصرفی در مناطق شهری ايران دی ماه ١٣٩٥، استخراج شده است."
 
 [[description]]
 lang = "en"
-text = "Dataset of Summary price index of consumer goods and services in urban areas of Iran - Day 1395, exctracted from page 3 of The index of consumer prices of goods and services in urban areas of Iran in Day 1395."
+text = "Dataset exctracted from page 3 of The index of consumer prices of goods and services in urban areas of Iran in Day 1395."
 
 [[resources]]
 
