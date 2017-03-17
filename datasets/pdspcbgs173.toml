@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1389, 1389] 
-category= ["budget", "economics"]
+category= ["budget", "economics","energy"]
 
 [[maintainer]]
 lang = "en" 
