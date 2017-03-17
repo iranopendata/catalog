@@ -1,0 +1,92 @@
+name = "tpotd177"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["trade", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Imports", "Imported principles", "Foreign business", "Foreign Trade"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["وادرات", "مبادی وارداتی", "تجارت خارجی", "بازرگانی خارجی"]
+
+[author]
+web = "http://www.tpo.ir/uploads/amalkarde-tejarat-khareji-12mahe94_16341.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان توسعه تجارت ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Trade Promotion Organization of Iran"
+
+[[title]]
+lang = "en" 
+text = "Imports of consumer, intermediate and capital goods during 1394" 
+
+[[title]]
+lang = "fa"
+text = "واردات طی سال ۱۳۹۴ به تفکیک کالاهای مصرفی، واسطه‌ای و سرمایه‌ای"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحه ۲۳، گزارش عملکرد تجارت خارجی کشور سال ۱۳۹۴، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from page 23, Report of country's foreign trade performance in 1394."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd177fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd177en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Imports of consumer, intermediate and capital goods during 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "واردات طی سال ۱۳۹۴ به تفکیک کالاهای مصرفی، واسطه‌ای و سرمایه‌ای"
+
+  [[resources.sources]]
+  name = "Trade Promotion Organization of Iran" 
+  web = "http://www.tpo.ir/uploads/amalkarde-tejarat-khareji-12mahe94_16341.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Good"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Weight (thousand tons)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Value (million dollar)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage of shares – weight"
+      type = "string"
+
+
