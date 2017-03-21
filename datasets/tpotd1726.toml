@@ -1,0 +1,96 @@
+name = "tpotd1726"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1390, 1390] 
+category= ["trade", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Imports", "Imported principles", "Foreign business", "Foreign Trade"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["وادرات", "مبادی وارداتی", "تجارت خارجی", "بازرگانی خارجی"]
+
+[author]
+web = "http://www.tpo.ir/uploads/modiran_arshad_90_5119.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان توسعه تجارت ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Trade Promotion Organization of Iran"
+
+[[title]]
+lang = "en" 
+text = "The main countries of imports in year 1390" 
+
+[[title]]
+lang = "fa"
+text = "مهمترین مبادی وارداتی سال ۱۳۹۰"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحه ۲۷، گزارش مدیران ارشد بر اساس آمار کارشناسی نشده گمرک سال ۱۳۹۰، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from page 27, Senior managers expert reports based on non experts customs statistics in 1390."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1726fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1726en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The main countries of imports in year 1390"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "مهمترین مبادی وارداتی سال ۱۳۹۰"
+
+  [[resources.sources]]
+  name = "Trade Promotion Organization of Iran" 
+  web = "http://www.tpo.ir/uploads/modiran_arshad_90_5119.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Rating in 1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Country’s name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The value of imports in 1390 (million dollars)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage of value of total imports"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage ratio of values in comparison with 1389"
+      type = "string"
+
+

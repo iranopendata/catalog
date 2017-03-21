@@ -1,0 +1,96 @@
+name = "tpotd1729"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1389, 1389] 
+category= ["trade", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Imports", "Imported principles", "Foreign business", "Foreign Trade"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["وادرات", "مبادی وارداتی", "تجارت خارجی", "بازرگانی خارجی"]
+
+[author]
+web = "http://www.tpo.ir/uploads/modiran_arshad_89_5120.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان توسعه تجارت ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Trade Promotion Organization of Iran"
+
+[[title]]
+lang = "en" 
+text = "Ten main items imported in 1389" 
+
+[[title]]
+lang = "fa"
+text = "ده قلم عمده وارداتی در سال ۱۳۸۹"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحه ۲۴، گزارش مدیران ارشد بر اساس آمار کارشناسی نشده گمرک سال ۱۳۸۹، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from page 24, Senior managers expert reports based on non experts customs statistics in 1389."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1729fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1729en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Ten main items imported in 1389"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "ده قلم عمده وارداتی در سال ۱۳۸۹"
+
+  [[resources.sources]]
+  name = "Trade Promotion Organization of Iran" 
+  web = "http://www.tpo.ir/uploads/modiran_arshad_89_5120.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Rating in 1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Good’s Caption"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The value of imports in 1389 (million dollars)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage value of total imports"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage ratio of values in comparison with 1388"
+      type = "string"
+
+

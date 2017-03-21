@@ -1,0 +1,88 @@
+name = "tpotd1724"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1390, 1390] 
+category= ["trade", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Imports", "Imported principles", "Foreign business", "Foreign Trade"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["وادرات", "مبادی وارداتی", "تجارت خارجی", "بازرگانی خارجی"]
+
+[author]
+web = "http://www.tpo.ir/uploads/modiran_arshad_90_5119.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان توسعه تجارت ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Trade Promotion Organization of Iran"
+
+[[title]]
+lang = "en" 
+text = "Import of goods statistics in 1390" 
+
+[[title]]
+lang = "fa"
+text = "آمار واردات کالا در سال ۱۳۹۰"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحه ۲۳، گزارش مدیران ارشد بر اساس آمار کارشناسی نشده گمرک سال ۱۳۹۰، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from page 23, Senior managers expert reports based on non experts customs statistics in 1390."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1724fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1724en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Import of goods statistics in 1390"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "آمار واردات کالا در سال ۱۳۹۰"
+
+  [[resources.sources]]
+  name = "Trade Promotion Organization of Iran" 
+  web = "http://www.tpo.ir/uploads/modiran_arshad_90_5119.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = ""
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Targets for the entire year 1390 (Million Dollar)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Performance in 1390 (Million Dollar)"
+      type = "string"
+
+
