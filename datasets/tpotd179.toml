@@ -38,7 +38,7 @@ text = "The number of items and the countries of imported goods during 1384 to 1
 
 [[title]]
 lang = "fa"
-text = "تعداد اقلام و مبادی وارداتی طی سال‌های ۱۳۸۴ تا ۱۳۹۳"
+text = "تعداد اقلام و مبادی وارداتی در سال‌های ۱۳۸۴ تا ۱۳۹۳"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset exctracted from page 15, Report of country's foreign trade perfo
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد اقلام و مبادی وارداتی طی سال‌های ۱۳۸۴ تا ۱۳۹۳"
+  text = "تعداد اقلام و مبادی وارداتی در سال‌های ۱۳۸۴ تا ۱۳۹۳"
 
   [[resources.sources]]
   name = "Trade Promotion Organization of Iran" 
