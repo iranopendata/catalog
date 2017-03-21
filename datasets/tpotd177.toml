@@ -2,7 +2,7 @@ name = "tpotd177"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [1394, 1394] 
+period = [1389, 1394] 
 category= ["trade", "economics"]
 
 [[maintainer]]
@@ -34,11 +34,11 @@ web = "http://www.tpo.ir/uploads/amalkarde-tejarat-khareji-12mahe94_16341.pdf"
 
 [[title]]
 lang = "en" 
-text = "Imports of consumer, intermediate and capital goods during 1394" 
+text = "Imports of consumer, intermediate and capital goods during 1389 to 1394" 
 
 [[title]]
 lang = "fa"
-text = "واردات طی سال ۱۳۹۴ به تفکیک کالاهای مصرفی، واسطه‌ای و سرمایه‌ای"
+text = "واردات طی سال‌های ۱۳۸۹ تا ۱۳۹۴ به تفکیک کالاهای مصرفی، واسطه‌ای و سرمایه‌ای "
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset exctracted from page 23, Report of country's foreign trade perfo
 
   [[resources.title]]
   lang = "en" 
-  text = "Imports of consumer, intermediate and capital goods during 1394"
+  text = "Imports of consumer, intermediate and capital goods during 1389 to 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "واردات طی سال ۱۳۹۴ به تفکیک کالاهای مصرفی، واسطه‌ای و سرمایه‌ای"
+  text = "واردات طی سال‌های ۱۳۸۹ تا ۱۳۹۴ به تفکیک کالاهای مصرفی، واسطه‌ای و سرمایه‌ای "
 
   [[resources.sources]]
   name = "Trade Promotion Organization of Iran" 
