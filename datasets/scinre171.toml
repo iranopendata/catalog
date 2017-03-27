@@ -15,11 +15,11 @@ text = "اسمال مدیا"
 
 [[keywords]]
 lang = "en" 
-wordlist = ["total primary energy supply", "intensity of primary energy supply", "intensity of final energy consumption", "barrels of oil equivalent"]
+wordlist = ["total primary energy supply", "intensity of primary energy supply", "intensity of final energy consumption"]
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["عرضه کل انرژی اولیه", "شدت عرضه انرژی اولیه", "شدت مصرف نهایی انرژی", "بشکه معادل نفت"]
+wordlist = ["عرضه کل انرژی اولیه", "شدت عرضه انرژی اولیه", "شدت مصرف نهایی انرژی"]
 
 [author]
 web = "https://www.amar.org.ir/آمارهای-موضوعی/انرژی#48317---"
