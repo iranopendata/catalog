@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "Urban household's average annual gross income disaggregated by different income groups and provinces during 1394" 
+text = "The average gross annual income of an urban household as per different income groups in different provinces in 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 50 on page 88-91, Results of the 1394 Labou
 
   [[resources.title]]
   lang = "en" 
-  text = "Urban household's average annual gross income disaggregated by different income groups and provinces during 1394"
+  text = "The average gross annual income of an urban household as per different income groups in different provinces in 1394"
 
   [[resources.title]]
   lang = "fa"
