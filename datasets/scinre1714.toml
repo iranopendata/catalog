@@ -1,0 +1,100 @@
+name = "scinre1714"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1384 ,  1393] 
+category= ["energy"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["gasoline imports", "imports of liquefied gas", "gas oil imports", "fuel oil exports", "gas oil exports", "white oil exports"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["واردات بنزین", "واردات گاز مایع", "واردات نفت گاز", "صادرات نفت کوره", "صادرات نفت گاز", "صادرات نفت سفید"]
+
+[author]
+web = "https://www.amar.org.ir/آمارهای-موضوعی/انرژی#48317---"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The main import and export of petroleum products from 1384 to 1393" 
+
+[[title]]
+lang = "fa"
+text = "واردات و صادرات فراورده‌های اصلی نفتی از سال ۱۳۸۴ تا ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران، فایل واردات و صادرات فراورده‌های اصلی نفت گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran, import and export of petroleum products file."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/nre/scinre1714fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/nre/scinre1714en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The main import and export of petroleum products from 1384 to 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "واردات و صادرات فراورده‌های اصلی نفتی از سال ۱۳۸۴ تا ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/آمارهای-موضوعی/انرژی#48317---" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Imports (million liters per day) - Gasoline"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Imports (million liters per day) – liquefied gas (tons)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Imports (million liters per day) - Petroleum Gas)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Exports (million liters per day) - fuel oil"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Exports (million liters per day) - Petroleum Gas)"
+      type = "string"
+
+
