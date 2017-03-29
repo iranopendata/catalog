@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "The average cost of an urban household annual gross cost breakdown of various groups throughout the year 1376 to 1394" 
+text = "The average annual gross costs for an urban household as per different expense groups between 1376 and 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from Table 1 on page 16, The results of 1394 survey o
 
   [[resources.title]]
   lang = "en" 
-  text = "The average cost of an urban household annual gross cost breakdown of various groups throughout the year 1376 to 1394"
+  text = "The average annual gross costs for an urban household as per different expense groups between 1376 and 1394"
 
   [[resources.title]]
   lang = "fa"
