@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "The average annual consumption of some food items, beverages and tobacco of an urban household during the years 1385 - 1394" 
+text = "The average annual consumption of some food products, beverages and tobacco of an urban household between 1385 to 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 6 on page 24, Results household budget surv
 
   [[resources.title]]
   lang = "en" 
-  text = "The average annual consumption of some food items, beverages and tobacco of an urban household during the years 1385 - 1394"
+  text = "The average annual consumption of some food products, beverages and tobacco of an urban household between 1385 to 1394"
 
   [[resources.title]]
   lang = "fa"
