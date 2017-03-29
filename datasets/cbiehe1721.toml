@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/15187.aspx"
 
 [[title]]
 lang = "en" 
-text = "Percentage of average distribution of gross annual expenditures of Iran's urban household, disaggregated by different expenditure groups and gross annual income, in 1394" 
+text = "Average distribution percentage of annual gross costs for an urban household in Iran as per different expense groups in gross monetary income groups in 1394" 
 
 [[title]]
 lang = "fa"
@@ -61,7 +61,7 @@ text = "Dataset extracted from table 41 on page 72, Results household budget sur
 
   [[resources.title]]
   lang = "en" 
-  text = "Percentage of average distribution of gross annual costs of a Tehran urban household, disaggregated by different cost categories and gross annual income, in 1394"
+  text = "Average distribution percentage of annual gross costs for an urban household in Iran as per different expense groups in gross monetary income groups in 1394"
 
   [[resources.title]]
   lang = "fa"
