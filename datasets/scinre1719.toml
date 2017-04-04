@@ -1,0 +1,132 @@
+name = "scinre1719"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1370 ,  1393] 
+category= ["energy"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["total of mines", "silica", "chromite", "decorative stone", "gold", "bauxite", "limestone", "manganese", "lead and zinc", "dolomite", "ironstone", "copper", "coal"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["کل معادن", "سيليس", "كروميت", "سنگ‌های تزئينی", "طلا", "بوکسیت", "سنگ آهک", "منگنز", "سرب و روی", "دولومیت", "سنگ آهن", "مس", "زغال سنگ"]
+
+[author]
+web = "https://www.amar.org.ir/آمارهای-موضوعی/صنعت-و-معدن#49048---"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The total value of mineral production in the country in terms of the type of activity from 1370 to 1393" 
+
+[[title]]
+lang = "fa"
+text = "ارزش کل تولیدات مواد معدنی کل کشور برحسب نوع فعاليت از سال ۱۳۷۰ تا ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران، فایل ارزش کل تولیدات مواد معدنی کل کشور برحسب نوع فعاليت گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran, The total value of mineral production in the country in terms of activity file."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/nre/scinre1719fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/nre/scinre1719en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The total value of mineral production in the country in terms of the type of activity from 1370 to 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "ارزش کل تولیدات مواد معدنی کل کشور برحسب نوع فعاليت از سال ۱۳۷۰ تا ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/آمارهای-موضوعی/صنعت-و-معدن#49048---" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total of mines"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Silica"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Chromite"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Decorative stone"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Gold"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Bauxite"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Limestone"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Manganese"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Lead and zinc"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Dolomite"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "ironstone"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Copper"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Coal"
+      type = "string"
+
+

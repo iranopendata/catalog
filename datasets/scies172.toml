@@ -1,0 +1,92 @@
+name = "scies172"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1360 ,  1394] 
+category= ["economics", "environment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["total area of ​​afforestation", "governmental forestation area", "private forestation area", "seedling production area"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["جمع مساحت جنگلکاری", "مساحت جنگلکاری دولتی", "مساحت جنگلکاری خصوصی", "مساحت تولید نهال"]
+
+[author]
+web = "https://www.amar.org.ir/آمارهای-موضوعی/کشاورزی-جنگلداری-و-شیلات#48213---"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The area of ​​afforestation and seedling production in the country from 1360 to 1394" 
+
+[[title]]
+lang = "fa"
+text = "مساحت جنگلكاری و توليد نهال در کشور از سال ۱۳۶۰ تا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران، فایل مساحت جنگلكاری و توليد نهال در کشور گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran, area afforestation and seedling production in the country file."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies172fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/es/scies172en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The area of ​​afforestation and seedling production in the country from 1360 to 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "مساحت جنگلكاری و توليد نهال در کشور از سال ۱۳۶۰ تا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/آمارهای-موضوعی/کشاورزی-جنگلداری-و-شیلات#48213---" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Afforestation - Total (hectares - a thousand trees)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Afforestation – Governmental (hectares - a thousand trees)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Afforestation – Private sector (hectares - a thousand trees)"
+      type = "string"
+
+

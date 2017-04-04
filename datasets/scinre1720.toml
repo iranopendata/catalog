@@ -1,0 +1,104 @@
+name = "scinre1720"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1365 ,  1393] 
+category= ["energy", "women", "employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["number of male persons employed in mines", "number of female employed in mines", "number of persons employed in the mines"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["تعداد شاغلان مرد معادن", "تعداد شاغلان زن معادن", "تعداد شاغلان کل معادن"]
+
+[author]
+web = "https://www.amar.org.ir/آمارهای-موضوعی/صنعت-و-معدن#49048---"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Number of workers being exploited mines across the country from 1365 to 1393" 
+
+[[title]]
+lang = "fa"
+text = "تعداد شاغلان معادن در حال بهره‌برداری کل کشور از سال ۱۳۶۵ تا ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران، فایل تعداد شاغلان معادن در حال بهره‌برداری کل کشور گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran, number of workers being exploited mines in the country file."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/nre/scinre1720fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/nre/scinre1720en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Number of workers being exploited mines across the country from 1365 to 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تعداد شاغلان معادن در حال بهره‌برداری کل کشور از سال ۱۳۶۵ تا ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/آمارهای-موضوعی/صنعت-و-معدن#49048---" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "All mines"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "With wages and salaries – Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "With wages and salaries – Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Without wages and salaries – Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Without wages and salaries – Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Contractor – Male"
+      type = "string"
+
+

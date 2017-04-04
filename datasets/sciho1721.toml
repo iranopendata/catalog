@@ -1,0 +1,216 @@
+name = "sciho1721"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1359 ,  1393] 
+category= ["housing", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["building permits issued", "urban areas", "provinces"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["پروانه‌های ساختمانی صادر", "نقاط شهری", "استان‌ها"]
+
+[author]
+web = "https://www.amar.org.ir/آمارهای-موضوعی/ساختمان-و-مسکن#48839---"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The number of construction permits issued annually in urban areas disaggregated by province from 1359 to 1393" 
+
+[[title]]
+lang = "fa"
+text = "تعداد پروانه‌های ساختمانی صادر شده در نقاط شهری كشور سالانه برحسب استان از سال ۱۳۵۹ تا ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران، فایل تعداد پروانه‌های ساختمانی صادر شده در نقاط شهری كشور برحسب استان سالانه گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran, The number of construction permits issued annually in urban areas disaggregated by province file."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1721fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1721en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The number of construction permits issued annually in urban areas disaggregated by province from 1359 to 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تعداد پروانه‌های ساختمانی صادر شده در نقاط شهری كشور سالانه برحسب استان از سال ۱۳۵۹ تا ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/آمارهای-موضوعی/ساختمان-و-مسکن#48839---" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1359"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1360"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1361"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1362"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1363"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1364"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1365"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1366"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1367"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1368"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1369"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1370"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1371"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1372"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1373"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1374"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1375"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1376"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1377"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1378"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1379"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1380"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1381"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1382"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1383"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1384"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1385"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1386"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1387"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1388"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1389"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1390"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1392"
+      type = "string"
+
+
