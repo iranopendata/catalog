@@ -1,0 +1,108 @@
+name = "scien174"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1379 ,  1393] 
+category= ["environment", "transport"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["pollutants and greenhouse gas emissions", "share of the transport sector in environmental degradation", "share of the transport sector in pollutant and greenhouse gas emissions"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["انتشار گازهای آلاينده و گلخانه‌ای", "سهم بخش حمل و نقل در تخریب محیط زیست", "سهم بخش حمل و نقل در انتشار گازهای آلاينده و گلخانه‌ای"]
+
+[author]
+web = "https://www.amar.org.ir/پایگاه-ها-و-سامانه-ها/سریهای-زمانی/agentType/ViewType/PropertyTypeID/1601"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The share of the transport sector in pollutant and greenhouse gas emissions from 1379 to 1393" 
+
+[[title]]
+lang = "fa"
+text = "سهم بخش حمل و نقل در انتشار گازهای آلاينده و گلخانه‌ای از سال ۱۳۷۹ تا ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران، فایل سهم بخش حمل و نقل در انتشار گازهای آلاينده و گلخانه‌ای گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of the Statistical Center of Iran, The share of the transport sector in emissions and greenhouse file."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/en/scien174fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/en/scien174en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The share of the transport sector in pollutant and greenhouse gas emissions from 1379 to 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "سهم بخش حمل و نقل در انتشار گازهای آلاينده و گلخانه‌ای از سال ۱۳۷۹ تا ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/پایگاه-ها-و-سامانه-ها/سریهای-زمانی/agentType/ViewType/PropertyTypeID/1601" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Nox - percentage"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "SO2 – percentage"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "CO2 – percentage"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "SO3 – percentage"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "CO – percentage"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "CH4 – percentage"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "SPM – percentage"
+      type = "string"
+
+

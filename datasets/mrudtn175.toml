@@ -1,0 +1,92 @@
+name = "mrudtn175"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["transport"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["number of video surveillance cameras on the roads", "number of speed cameras on the road"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["تعداد دوربین‌های نظارت تصویری در جاده‌ها", "تعداد دوربین‌های کنترل سرعت در جاده‌ها"]
+
+[author]
+web = "http://www.rmto.ir/Pages/SalnameAmari.aspx?RootFolder=%2FSalnameAmari%2Fسالنامه%20آماري%20%2D%20سال%201394&FolderCTID=0x012000FF1BA3D9B5EBFB4EB230D974D1674C47&View={92B8D111-2582-4324-B522-B8B4BA815A63}"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "وزارت راه و شهرسازی"
+
+  [[author.name]]
+  lang = "en"
+  text = "Ministry of Road and Urban Development"
+
+[[title]]
+lang = "en" 
+text = "The number of video surveillance cameras and speed control on the roads by the end of 1394" 
+
+[[title]]
+lang = "fa"
+text = "تعداد دوربین‌های نظارت تصویری و کنترل سرعت در جاده‌های کشور تا پایان سال ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از سالنامه آماری ۱۳۹۴،‌ فصل ششم - برنامه‌ریزی و حمل و نقل هوشمند،‌ جدول ۶-۲-۲ از سایت رسمی  وزارت راه و شهرسازی، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the Statistical Yearbook 1394, Chapter VI - Planning and Intelligent Transportation, Table 6.2.2 from the official website of the Ministry of Roads and Urban Development."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/tn/scitn175fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/tn/scitn175en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The number of video surveillance cameras and speed control on the roads by the end of 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تعداد دوربین‌های نظارت تصویری و کنترل سرعت در جاده‌های کشور تا پایان سال ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Ministry of Road and Urban Development" 
+  web = "http://www.rmto.ir/Pages/SalnameAmari.aspx?RootFolder=%2FSalnameAmari%2Fسالنامه%20آماري%20%2D%20سال%201394&FolderCTID=0x012000FF1BA3D9B5EBFB4EB230D974D1674C47&View={92B8D111-2582-4324-B522-B8B4BA815A63}" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Provinces"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Video surveillance – Number"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Video surveillance – Share"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Speed ​​Control – Number"
+      type = "string"
+
+
