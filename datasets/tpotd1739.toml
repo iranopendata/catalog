@@ -1,0 +1,96 @@
+name = "tpotd1739"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1391, 1391] 
+category= ["trade"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["business partners", "10 nusiness partner", "non-oil exports", "Importation"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["شرکای تجاری", "۱۰ شریک تجاری", "صادرات غیرنفتی", "واردات"]
+
+[author]
+web = "http://www.tpo.ir/uploads/modiran_arshad_91_5118.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان توسعه تجارت ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Trade Promotion Organization of Iran"
+
+[[title]]
+lang = "en" 
+text = "Iran's largest trading partners in the value of non-oil goods exports in 1391 (excluding condensate)" 
+
+[[title]]
+lang = "fa"
+text = "بزرگترین شرکای تجاری ایران از لحاظ  ارزش صاردات کالاهای غیرنفتی در سال ۱۳۹۱ (بدون احتساب میعانات گازی)"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحه ۱۷، گزارش عملکرد تجارت خارجی کشور سال ۱۳۹۱، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from page 17, Report of country's foreign trade performance in 1391."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1739fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1739en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Iran's largest trading partners in the value of non-oil goods exports in 1391 (excluding condensate)"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "بزرگترین شرکای تجاری ایران از لحاظ  ارزش صاردات کالاهای غیرنفتی در سال ۱۳۹۱ (بدون احتساب میعانات گازی)"
+
+  [[resources.sources]]
+  name = "Trade Promotion Organization of Iran" 
+  web = "http://www.tpo.ir/uploads/modiran_arshad_91_5118.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Rating in 1391"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Country Name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The value of exports in 1391 - million dollars"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage of value of total exports"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Value changes percentage comparing to 1390"
+      type = "string"
+
+

@@ -1,0 +1,116 @@
+name = "irictd1743"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1395] 
+category= ["trade"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["business partners", "10 nusiness partner", "non-oil exports", "Importation"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["شرکای تجاری", "۱۰ شریک تجاری", "صادرات غیرنفتی", "واردات"]
+
+[author]
+web = "http://www.irica.gov.ir/Portal/file/?238053/tahlil-12.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "گمرک جمهوری اسلامی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Islamic Republic of Iran Customs"
+
+[[title]]
+lang = "en" 
+text = "Imports into five separate major trading partners between 1394 and 1395" 
+
+[[title]]
+lang = "fa"
+text = "ميزان واردات به تفكيک پنج كشور عمده طرف معامله طی سال‌های ۱۳۹۴ و ۱۳۹۵"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول ۶ در صفحه ۴، گزارش آمار مقدماتی تجارت خارجی طی سال ۱۳۹۵، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from table 6 on page 4, Preliminary statistics of foreign trade report during the year 1395."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/td/irictd1743fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/td/irictd1743en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Imports into five separate major trading partners between 1394 and 1395"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "ميزان واردات به تفكيک پنج كشور عمده طرف معامله طی سال‌های ۱۳۹۴ و ۱۳۹۵"
+
+  [[resources.sources]]
+  name = "Islamic Republic of Iran Customs" 
+  web = "http://www.irica.gov.ir/Portal/file/?238053/tahlil-12.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year 1395 - Weight (thousands tons)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year 1395 - Value (million dollars)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year 1395 - the share of weight"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year 1395 - the share of dollar value"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year 1394 - Weight (thousands tons)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year 1394 - Value (million dollars)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year 1394 - the share of weight"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Year 1394 - the share of dollar value"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage change from the previous year - Weight"
+      type = "string"
+
+

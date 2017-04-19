@@ -1,0 +1,96 @@
+name = "tpotd1738"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1392, 1392] 
+category= ["trade"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["business partners", "10 nusiness partner", "non-oil exports", "Importation"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["شرکای تجاری", "۱۰ شریک تجاری", "صادرات غیرنفتی", "واردات"]
+
+[author]
+web = "http://www.tpo.ir/uploads/modiranarshad-12mah-92_3536.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان توسعه تجارت ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Trade Promotion Organization of Iran"
+
+[[title]]
+lang = "en" 
+text = "The most important target markets of goods in 1392" 
+
+[[title]]
+lang = "fa"
+text = "مهمترين بازارهای هدف كالا در سال ۱۳۹۲"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحه ۱۳، گزارش عملکرد تجارت خارجی کشور سال ۱۳۹۲، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from page 13, Report of country's foreign trade performance in 1392."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1738fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1738en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The most important target markets of goods in 1392"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "مهمترين بازارهای هدف كالا در سال ۱۳۹۲"
+
+  [[resources.sources]]
+  name = "Trade Promotion Organization of Iran" 
+  web = "http://www.tpo.ir/uploads/modiranarshad-12mah-92_3536.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Rating in 1392"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Country Name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The value of exports in 1392 - million dollars"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage of value of total exports"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Value changes percentage comparing to 1391"
+      type = "string"
+
+

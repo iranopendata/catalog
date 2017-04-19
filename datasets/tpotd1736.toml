@@ -1,0 +1,92 @@
+name = "tpotd1736"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["trade"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["business partners", "10 nusiness partner", "non-oil exports", "Importation"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["شرکای تجاری", "۱۰ شریک تجاری", "صادرات غیرنفتی", "واردات"]
+
+[author]
+web = "http://www.tpo.ir/uploads/amalkarde-tejarat-khareji-12mahe94_16341.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان توسعه تجارت ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Trade Promotion Organization of Iran"
+
+[[title]]
+lang = "en" 
+text = "The most important target markets of goods in 1394" 
+
+[[title]]
+lang = "fa"
+text = "مهمترين بازارهای هدف كالا طی سال ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحه ۸، گزارش عملکرد تجارت خارجی کشور سال ۱۳۹۴، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from page 8, Report of country's foreign trade performance in 1394."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1736fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/td/tpotd1736en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The most important target markets of goods in 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "مهمترين بازارهای هدف كالا طی سال ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Trade Promotion Organization of Iran" 
+  web = "http://www.tpo.ir/uploads/amalkarde-tejarat-khareji-12mahe94_16341.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Rating in 1394"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Country Name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "The value of exports in 1394 - million dollars"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Percentage of value of total exports"
+      type = "string"
+
+
