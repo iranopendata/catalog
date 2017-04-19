@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf"
 
 [[title]]
 lang = "en" 
-text = "Employment share of the population aged 10 and over in the major sectors of economic activity according to provinces in various seasons for the year 1394" 
+text = "The share of employed people aged 10 and over in major sectors of activity as per province divided by season in 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 31 on pages 55 & 56, Results of the 1394 La
 
   [[resources.title]]
   lang = "en" 
-  text = "Employment share of the population aged 10 and over in the major sectors of economic activity according to provinces in various seasons for the year 1394"
+  text = "The share of employed people aged 10 and over in major sectors of activity as per province divided by season in 1394"
 
   [[resources.title]]
   lang = "fa"
