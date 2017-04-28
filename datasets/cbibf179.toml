@@ -34,7 +34,7 @@ web = "http://cbi.ir/datedlist/9445.aspx"
 
 [[title]]
 lang = "en" 
-text = "National Accounts at current prices in the years 1387 to 1389" 
+text = "National Accounts at current prices between 1387 and 1389" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from pages 2 and 4, Main economic indicators in 1390.
 
   [[resources.title]]
   lang = "en" 
-  text = "National Accounts at current prices in the years 1387 to 1389"
+  text = "National Accounts at current prices between 1387 and 1389"
 
   [[resources.title]]
   lang = "fa"
