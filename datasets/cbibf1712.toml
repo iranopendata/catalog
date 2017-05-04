@@ -19,7 +19,7 @@ wordlist = ["interest rate", "savings", "long time", "short term", "banking faci
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["نرخ سود", "تسهیلات", "سپرد", "بلند مدت", "کوتاه مدت", "تسهیلات", "دولتی", "غیر دولتی"]
+wordlist = ["نرخ سود", "تسهیلات", "سپرده", "بلند مدت", "کوتاه مدت", "تسهیلات", "دولتی", "غیر دولتی"]
 
 [author]
 web = "http://cbi.ir/page/11177.aspx"
