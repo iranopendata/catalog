@@ -34,7 +34,7 @@ web = "http://cbi.ir/datedlist/15532.aspx"
 
 [[title]]
 lang = "en" 
-text = "Monetary and credit variables in the years 1391 to 1394" 
+text = "Monetary and credit variables between 1391 to 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from pages 17 to 20, Main economic indicators in 1395
 
   [[resources.title]]
   lang = "en" 
-  text = "Monetary and credit variables in the years 1391 to 1394"
+  text = "Monetary and credit variables between 1391 to 1394"
 
   [[resources.title]]
   lang = "fa"
