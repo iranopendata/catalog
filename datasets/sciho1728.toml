@@ -1,0 +1,152 @@
+name = "sciho1728"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1390 ,  1394] 
+category= ["housing"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["purchase price of a residential", "selling price of a residential", "purchase price of the old residential buildings", "selling price of the old residential buildings", "Tehran housing prices", "Tehran regions"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["قیمت خرید یک مترمربع زمین", "قیمت فروش یک مترمربع زمین", "قیمت خرید زمین ساختمان‌های مسکونی کلنگـی", "قیمت فروش زمین ساختمان‌های مسکونی کلنگـی", "قیمت‌های مسکونی شـهر تهـران", "مناطق تهران"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_eghvemdsht_94-4.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The average purchase and sales prices of a square meter of land or the land of old residential buildings in Tehran from 1390 to 1394" 
+
+[[title]]
+lang = "fa"
+text = "متوسط قیمت خرید و فروش یک مترمربع زمین یا زمین ساختمان‌های مسکونی کلنگـی در شـهر تهـران از ۱۳۹۰ تـا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحات ۲۸ و ۲۹ جدول ۴، اطلاعات قیمت و اجاره در شهر تهران - زمستان ۱۳۹۴، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the table 4 on pages 28 & 29, Purchase and rental prices of residentail housing in Tehran, Winter 1394"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1728fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1728en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The average purchase and sales prices of a square meter of land or the land of old residential buildings in Tehran from 1390 to 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "متوسط قیمت خرید و فروش یک مترمربع زمین یا زمین ساختمان‌های مسکونی کلنگـی در شـهر تهـران از ۱۳۹۰ تـا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_eghvemdsht_94-4.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Title"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Spring 1390 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Summer 1390 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Autumn 1390 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Winter 1390 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Spring 1391 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Summer 1391 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Autumn 1391 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Winter 1391 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Spring 1392 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Summer 1392 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Autumn 1392 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Winter 1392 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Spring 1393 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Summer 1393 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Autumn 1393 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Winter 1393 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Spring 1394 – Thousands IRR"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Summer 1394 – Thousands IRR"
+      type = "string"
+
+
