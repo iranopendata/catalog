@@ -34,11 +34,13 @@ web = "http://mis.ito.gov.ir/documents/20182/54951/95+08+25+-+نتایج+طرح+
 
 [[title]]
 lang = "en" 
-text = "Households in country with and without access to television in terms of the location, disaggregated by urban and rural areas in 1394" 
+text = "Households in country with and without access to television based on their location, disaggregated by urban and rural areas in 1394" 
 
 [[title]]
 lang = "fa"
-text = "خانوارهای کشور برحسب وضعیت دسترسی به تلویزیون در محل سکونت به تفکیک نقاط شهری و روستایی در سال ۱۳۹۴"
+text = "خانوارهای کشور برحسب وضعیت دسترسی به تلویزیون در محل سکونت به تفکیک نقاط شهری و
+ 
+روستایی در سال ۱۳۹۴"
 
 [[description]]
 lang = "fa"
@@ -60,11 +62,13 @@ text = "Dataset exctracted from the table 2 on page 16, Result of the household 
 
   [[resources.title]]
   lang = "en" 
-  text = "Households in country with and without access to television in terms of the location, disaggregated by urban and rural areas in 1394"
+  text = "Households in country with and without access to television based on their location, disaggregated by urban and rural areas in 1394"
 
   [[resources.title]]
   lang = "fa"
-  text = "خانوارهای کشور برحسب وضعیت دسترسی به تلویزیون در محل سکونت به تفکیک نقاط شهری و روستایی در سال ۱۳۹۴"
+  text = "خانوارهای کشور برحسب وضعیت دسترسی به تلویزیون در محل سکونت به تفکیک نقاط شهری و
+ 
+روستایی در سال ۱۳۹۴"
 
   [[resources.sources]]
   name = "Statistical Centre of Iran" 
