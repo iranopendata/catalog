@@ -34,7 +34,7 @@ web = "https://drive.google.com/open?id=0B4viFwPm8_QKTG1BbDc4N1l5Mlk"
 
 [[title]]
 lang = "en" 
-text = "Labour force index disaggregated by sex, rural and urban area (1390)" 
+text = "Labour force index disaggregated by gender, rural and urban area (1390)" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 1, page 5, of the 1390 Labour Force Survey"
 
   [[resources.title]]
   lang = "en" 
-  text = "Labour force index disaggregated by sex, rural and urban area (1390)"
+  text = "Labour force index disaggregated by gender, rural and urban area (1390)"
 
   [[resources.title]]
   lang = "fa"
