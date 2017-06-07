@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/%D8%A2%D9%85%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85
 
 [[title]]
 lang = "en" 
-text = "Gross Domestic Product and Added Value of Strings of the country’s economic activities as per the current prices between 1385 and 1395" 
+text = "GDP and the added value of the country’s economic activities as per current prices from 1385 to 1395" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from Table 1, tables and time series tab, the quarter
 
   [[resources.title]]
   lang = "en" 
-  text = "Gross Domestic Product and Added Value of Strings of the country’s economic activities as per the current prices between 1385 and 1395"
+  text = "GDP and the added value of the country’s economic activities as per current prices from 1385 to 1395"
 
   [[resources.title]]
   lang = "fa"
