@@ -1,0 +1,112 @@
+name = "sciho1731"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1395, 1395] 
+category= ["housing"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["construction permits", "number of floors", "building area", "land Area", "residential units"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["پروانه‌های ساختمانی", "تعداد طبقات", "مساحت زیربنا", "مساحت زمین", "واحدهای مسكونی"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1395/n_epsstshk_95-1.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "The number of construction permits issued for construction in terms of the number of floors, building area, land area and number of residential units planned for each area in Tehran - Spring 1395" 
+
+[[title]]
+lang = "fa"
+text = "تعداد پروانه‌های ساختمانی صادرشده برای احداث ساختمان  برحسب تعداد طبقات، مساحت زیربنا، مساحت زمین و تعداد واحدهای مسكونی پیش‌بینی شده به تفكیک منطقه در شهر تهران - بهار ۱۳۹۵"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحات ۱۵ جدول I، اطلاعات پروانه‌های ساختمانی صادرشده توسط شهرداری‌های كشور - بهار ۱۳۹۵، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the table I on page15, All construction permits issued by municipalities - Spring 1395"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1731fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/sciho1731en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The number of construction permits issued for construction in terms of the number of floors, building area, land area and number of residential units planned for each area in Tehran - Spring 1395"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تعداد پروانه‌های ساختمانی صادرشده برای احداث ساختمان  برحسب تعداد طبقات، مساحت زیربنا، مساحت زمین و تعداد واحدهای مسكونی پیش‌بینی شده به تفكیک منطقه در شهر تهران - بهار ۱۳۹۵"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1395/n_epsstshk_95-1.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Region"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1 floor"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "2 floors"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "3 floors"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "4 floors"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "5 floors and more"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Land area of building"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Land area"
+      type = "string"
+
+

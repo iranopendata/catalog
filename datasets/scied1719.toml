@@ -1,0 +1,148 @@
+name = "scied1719"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1374 ,  1394] 
+category= ["education"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["graduates", "diploma", "bachoelor", "masters", "professional doctorate", "PhD"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["دانش‌آموختگان", "کاردانی", "کارشناسی", "کارشناسی ارشد", "دکترای حرفه‌ای", "دکترای تخصصی"]
+
+[author]
+web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_salname_keshvar_94.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Graduates from various higher educational institutions disaggregated by provinces and gender from 1374 to 1394" 
+
+[[title]]
+lang = "fa"
+text = "دانش‌آموختگان دوره‌های مختلف تحصیلی موسسات آموزش عالی بر حسب استان و جنس از سال ۱۳۷۴ تا ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از صفحات ۶۸۷ و ۶۸۸ جدول ۳۱-۱۷، سالنامه آماری کشور - ۱۳۹۴، استخراج شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the table 17-31 on pages 687 & 688, Statistical Yearbook of the country - 1394"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ed/scied1719fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ed/scied1719en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Graduates from various higher educational institutions disaggregated by provinces and gender from 1374 to 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "دانش‌آموختگان دوره‌های مختلف تحصیلی موسسات آموزش عالی بر حسب استان و جنس از سال ۱۳۷۴ تا ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_salname_keshvar_94.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Provinces & academic years"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – Male and Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Total – Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Diploma – Male and Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Diploma – Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Diploma – Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Bachelor – Male and Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Bachelor – Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Bachelor – Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Masters – Male and Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Masters – Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Masters – Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Professional doctorate – Male and Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Professional doctorate – Male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Professional doctorate – Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "PhD – Male and Female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "PhD – Male"
+      type = "string"
+
+
