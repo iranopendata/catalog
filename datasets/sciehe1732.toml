@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf"
 
 [[title]]
 lang = "en" 
-text = "The major indices of work force in the population aged 10 and over as per gender and province in urban and rural areas and nationally in 1394" 
+text = "The main indicators of the labor force in the population aged 10 and over by gender and province in urban and rural areas and the whole country in 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 46 on pages 361 to 378, Results of the 1394
 
   [[resources.title]]
   lang = "en" 
-  text = "The major indices of work force in the population aged 10 and over as per gender and province in urban and rural areas and nationally in 1394"
+  text = "The main indicators of the labor force in the population aged 10 and over by gender and province in urban and rural areas and the whole country in 1394"
 
   [[resources.title]]
   lang = "fa"
@@ -78,55 +78,55 @@ text = "Dataset extracted from table 46 on pages 361 to 378, Results of the 1394
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Economic participation rate (Rural areas)"
+      name = "Economic participation rate (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Employment rate (Rural areas)"
+      name = "Employment rate (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Population rate of underemployment (Rural areas)"
+      name = "Population rate of underemployment (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The unemployment rate (Rural areas)"
+      name = "The unemployment rate (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Employment ratio (Rural areas)"
+      name = "Employment ratio (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "Proportion of the population with underemployment (Rural areas)"
+      name = "Proportion of the population with underemployment (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The share of workers with normal working hours to 49 hours and more (Rural areas)"
+      name = "The share of workers with normal working hours to 49 hours and more (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The underemployment rate (Rural areas)"
+      name = "The underemployment rate (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The share of employment in agriculture (Rural areas)"
+      name = "The share of employment in agriculture (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The share of employment in industry (Rural areas)"
+      name = "The share of employment in industry (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The share of employment in the service sector (Rural areas)"
+      name = "The share of employment in the service sector (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The share of employment in the private sector (Rural areas)"
+      name = "The share of employment in the private sector (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
-      name = "The share of employment in the public sector (Rural areas)"
+      name = "The share of employment in the public sector (Whole Country)"
       type = "string"
 
       [[resources.schema.fields]]
