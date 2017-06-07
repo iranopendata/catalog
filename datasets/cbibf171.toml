@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/10809.aspx"
 
 [[title]]
 lang = "en" 
-text = "The index of the total price of goods and consumer services in Iran’s urban areas (inflation index) between 1315 - 1394" 
+text = "The total price index of commodities and consumer services in urban areas of Iran (inflation index) from 1315 to 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from the official website of the Central Bank of the 
 
   [[resources.title]]
   lang = "en" 
-  text = "The index of the total price of goods and consumer services in Iran’s urban areas (inflation index) between 1315 - 1394"
+  text = "The total price index of commodities and consumer services in urban areas of Iran (inflation index) from 1315 to 1394"
 
   [[resources.title]]
   lang = "fa"
