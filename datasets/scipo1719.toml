@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/آمارهای-موضوعی/جمعیت#48524---"
 
 [[title]]
 lang = "en" 
-text = "The number of county, district, city and rural districts according to country divisions from 1345 to 1390" 
+text = "The number of counties, districts, cities and rural districts according to country divisions from 1345 to 1390" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from the official website of the Statistical Center o
 
   [[resources.title]]
   lang = "en" 
-  text = "The number of county, district, city and rural districts according to country divisions from 1345 to 1390"
+  text = "The number of counties, districts, cities and rural districts according to country divisions from 1345 to 1390"
 
   [[resources.title]]
   lang = "fa"
