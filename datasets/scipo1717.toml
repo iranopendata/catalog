@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A7%D8%B7%D9%84
 
 [[title]]
 lang = "en" 
-text = "Provinces information based on General Population and housing census in year 1393" 
+text = "Provinces information based on general population and housing census in year 1393" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from the official website of Statistical Centre of Ir
 
   [[resources.title]]
   lang = "en" 
-  text = "Provinces information based on General Population and housing census in year 1393"
+  text = "Provinces information based on general population and housing census in year 1393"
 
   [[resources.title]]
   lang = "fa"
