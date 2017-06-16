@@ -1,0 +1,140 @@
+name = "nocrpo1723"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1391, 1391] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["divorce", "couples ages"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["طلاق", "سن زوجین"]
+
+[author]
+web = "http://www.sabteahval.ir/Default.aspx?tabid=4774"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان ثبت احوال کشور"
+
+  [[author.name]]
+  lang = "en"
+  text = "National Organisation for Civil Registration"
+
+[[title]]
+lang = "en" 
+text = "Age distribution of couples in divorce in 1391" 
+
+[[title]]
+lang = "fa"
+text = "توزیع سنی زوجین در زمان طلاق در سال ۱۳۹۱"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی سازمان ثبت احوال کشور گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of National Organisation for Civil Registration"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/nocrpo1723fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/nocrpo1723en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Age distribution of couples in divorce in 1391"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "توزیع سنی زوجین در زمان طلاق در سال ۱۳۹۱"
+
+  [[resources.sources]]
+  name = "National Organisation for Civil Registration" 
+  web = "http://www.sabteahval.ir/Default.aspx?tabid=4774" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Title"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – Whole Country"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – Less than 15"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 15 to 19"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 20 to 24"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 25 to 29"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 30 to 34"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 35 to 39"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 40 to 44"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 45 to 49"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 50 to 54"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 55 to 59"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 60 to 64"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 65 to 69"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 70 to 74"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Wife – 75 and above"
+      type = "string"
+
+
