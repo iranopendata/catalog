@@ -19,7 +19,7 @@ wordlist = ["divorce", "duration of married life before divorce", "urban", "rura
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["طلا", "مدت زندگی تا قبل از طلاق", "شهری", "روستایی"]
+wordlist = ["طلاق", "مدت زندگی تا قبل از طلاق", "شهری", "روستایی"]
 
 [author]
 web = "http://www.sabteahval.ir/Default.aspx?tabid=4775"
