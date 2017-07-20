@@ -19,7 +19,7 @@ wordlist = ["divorce", "duration of married life before divorce", "urban", "rura
 
 [[keywords]]
 lang = "fa" 
-wordlist = ["طلا", "مدت زندگی تا قبل از طلاق", "شهری", "روستایی"]
+wordlist = ["طلاق", "مدت زندگی تا قبل از طلاق", "شهری", "روستایی"]
 
 [author]
 web = "http://www.sabteahval.ir/Default.aspx?tabid=4775"
@@ -38,7 +38,7 @@ text = "The number of divorces registered in 1386 disaggregated by urban and rur
 
 [[title]]
 lang = "fa"
-text = "تعداد طلاق هاي ثبت شده در سال ۱۳۸۶ برحسب شهری و روستايی و طول مدت ازدواج"
+text = "تعداد طلاق‌های ثبت شده در سال ۱۳۸۶ برحسب شهری و روستايی و طول مدت ازدواج"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset exctracted from the official website of National Organisation fo
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد طلاق هاي ثبت شده در سال ۱۳۸۶ برحسب شهری و روستايی و طول مدت ازدواج"
+  text = "تعداد طلاق‌های ثبت شده در سال ۱۳۸۶ برحسب شهری و روستايی و طول مدت ازدواج"
 
   [[resources.sources]]
   name = "National Organisation for Civil Registration" 
