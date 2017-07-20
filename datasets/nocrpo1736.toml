@@ -38,7 +38,7 @@ text = "The number of divorces registered in 1390 disaggregated by urban and rur
 
 [[title]]
 lang = "fa"
-text = "تعداد طلاق هاي ثبت شده در سال ۱۳۹۰ برحسب شهری و روستايی و طول مدت ازدواج"
+text = "تعداد طلاق‌های ثبت شده در سال ۱۳۹۰ برحسب شهری و روستايی و طول مدت ازدواج"
 
 [[description]]
 lang = "fa"
@@ -64,7 +64,7 @@ text = "Dataset exctracted from the official website of National Organisation fo
 
   [[resources.title]]
   lang = "fa"
-  text = "تعداد طلاق هاي ثبت شده در سال ۱۳۹۰ برحسب شهری و روستايی و طول مدت ازدواج"
+  text = "تعداد طلاق‌های ثبت شده در سال ۱۳۹۰ برحسب شهری و روستايی و طول مدت ازدواج"
 
   [[resources.sources]]
   name = "National Organisation for Civil Registration" 
