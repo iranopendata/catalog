@@ -1,0 +1,88 @@
+name = "nocrpo1740"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1386, 1386] 
+category= ["population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["divorce", "duration of married life before divorce", "urban", "rural"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["طلا", "مدت زندگی تا قبل از طلاق", "شهری", "روستایی"]
+
+[author]
+web = "http://www.sabteahval.ir/Default.aspx?tabid=4775"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان ثبت احوال کشور"
+
+  [[author.name]]
+  lang = "en"
+  text = "National Organisation for Civil Registration"
+
+[[title]]
+lang = "en" 
+text = "The number of divorces registered in 1386 disaggregated by urban and rural areas and duration of marriage" 
+
+[[title]]
+lang = "fa"
+text = "تعداد طلاق هاي ثبت شده در سال ۱۳۸۶ برحسب شهری و روستايی و طول مدت ازدواج"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی سازمان ثبت احوال کشور گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset exctracted from the official website of National Organisation for Civil Registration"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/nocrpo1740fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/po%20/nocrpo1740en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "The number of divorces registered in 1386 disaggregated by urban and rural areas and duration of marriage"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تعداد طلاق هاي ثبت شده در سال ۱۳۸۶ برحسب شهری و روستايی و طول مدت ازدواج"
+
+  [[resources.sources]]
+  name = "National Organisation for Civil Registration" 
+  web = "http://www.sabteahval.ir/Default.aspx?tabid=4775" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "duration of marriage life"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "total"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "urban"
+      type = "string"
+
+
