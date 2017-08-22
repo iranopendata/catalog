@@ -1,0 +1,92 @@
+name = "irmfbgs1731"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1393, 1393] 
+category= ["budget", "economics"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Mostazafan foundation", "tax", "tax exemption"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بنیاد مستضعفان", "مالیات", "معافیت مالیاتی"]
+
+[author]
+web = "http://www.irmf.ir/images/Financial/links/1393.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بنیاد مستضعفان انقلاب اسلامی"
+
+  [[author.name]]
+  lang = "en"
+  text = "Islamic Revolution Mostazafan Foundation"
+
+[[title]]
+lang = "en" 
+text = "Islamic Revolution Mostazafan Foundation - consolidated balance sheet 1393" 
+
+[[title]]
+lang = "fa"
+text = "بنیاد مستضعفان انقلاب اسلامی - ترازنامه تلفیقی سال ۱۳۹۳"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول صفحه شماره ۲ بنیاد مستضعفان انقلاب اسلامی، گزارش حسابرس مستقل و بازرس به انضمام صورت‌های مالی تلفیقی گروه و واحد اصلی برای سال مالی منتهی به ۲۹ اسفند ماه ۱۳۹۳ است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from page number 2 table of Islamic Republic of Mostazafan foundation, independent auditor and inspectorate report, including consolidated financial statements of the group and the main unit for the fiscal year ending 29th of esfand 1393."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/irmfbgs1731fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/irmfbgs1731en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Islamic Revolution Mostazafan Foundation - consolidated balance sheet 1393"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "بنیاد مستضعفان انقلاب اسلامی - ترازنامه تلفیقی سال ۱۳۹۳"
+
+  [[resources.sources]]
+  name = "Islamic Revolution Mostazafan Foundation" 
+  web = "http://www.irmf.ir/images/Financial/links/1393.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "subject"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "title"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "title description"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "1393/12/29 – million IRR"
+      type = "string"
+
+
