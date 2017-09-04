@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/fulltext/1394/n_ank_94.pdf"
 
 [[title]]
 lang = "en" 
-text = "Economic participation rate of the population aged 10 and over by province, gender, urban and rural areas in 1394" 
+text = "Economic participation rate of the population aged 10 and over and mostly based on provinces as per gender, urban and rural areas in 1394" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from table 22 on page 46, Results of the 1394 Labour f
 
   [[resources.title]]
   lang = "en" 
-  text = "Economic participation rate of the population aged 10 and over by province, gender, urban and rural areas in 1394"
+  text = "Economic participation rate of the population aged 10 and over and mostly based on provinces as per gender, urban and rural areas in 1394"
 
   [[resources.title]]
   lang = "fa"
