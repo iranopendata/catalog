@@ -34,7 +34,7 @@ web = "https://www.amar.org.ir/Portals/0/Files/baravord/b_ostani_85-95.xls"
 
 [[title]]
 lang = "en" 
-text = "Estimated and projected population of province and urban and rural areas from 1385 to 1395" 
+text = "Estimates and forecasts of country’s population as per province, urban and rural areas between 1385 and 1395" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from the official website of the Statistical Center o
 
   [[resources.title]]
   lang = "en" 
-  text = "Estimated and projected population of province and urban and rural areas from 1385 to 1395"
+  text = "Estimates and forecasts of country’s population as per province, urban and rural areas between 1385 and 1395"
 
   [[resources.title]]
   lang = "fa"
