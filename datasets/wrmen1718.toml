@@ -1,0 +1,92 @@
+name = "wrmen1718"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [, ] 
+category= ["environment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["water", "water resources", "dam", "cultivation"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["آب", "منابع آب", "سد", "رودخانه"]
+
+[author]
+web = "http://daminfo.wrm.ir/fa/dam/stats"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "شرکت مدیریت منابع آب ایران معاونت طرح و توسعه"
+
+  [[author.name]]
+  lang = "en"
+  text = "Iran Water Resources Management Company Design and Development"
+
+[[title]]
+lang = "en" 
+text = "Statistics on the number of dams in the country, broken down by the rivers in different stages" 
+
+[[title]]
+lang = "fa"
+text = "آمار تعداد سدهای کشور به تفکیک رودخانه در مراحل مختلف"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت شرکت مدیریت منابع آب ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from the website of water resources management."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/en/wrnen1718fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/en/wrnen1718en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Statistics on the number of dams in the country, broken down by the rivers in different stages"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "آمار تعداد سدهای کشور به تفکیک رودخانه در مراحل مختلف"
+
+  [[resources.sources]]
+  name = "Iran Water Resources Management Company Design and Development" 
+  web = "http://daminfo.wrm.ir/fa/dam/stats" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "river name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "planned"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "under construction"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "operation"
+      type = "string"
+
+

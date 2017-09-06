@@ -1,0 +1,96 @@
+name = "sciehe1752"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1395, 1395] 
+category= ["employment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["labor force", "unemployment", "work", "urban population", "rural poplulation"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["نیروی کار", "بیکاری", "کار", "جمعیت شهری", "جمعیت روستایی"]
+
+[author]
+web = "چکیده نتایج آمارگیری نیروی کار ۱۳۹۵"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "مرکز آمار ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Statistical Centre of Iran"
+
+[[title]]
+lang = "en" 
+text = "Labor force indicators divided by gender, urban and rural areas in 1395" 
+
+[[title]]
+lang = "fa"
+text = "شاخص‌های نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سال ۱۳۹۵"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مرکز آمار ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from the official website of Statistical Centre of Iran"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1752fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ehe/sciehe1752en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Labor force indicators divided by gender, urban and rural areas in 1395"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "شاخص‌های نیروی کار به تفکیک جنس، نقاط شهری و روستایی در سال ۱۳۹۵"
+
+  [[resources.sources]]
+  name = "Statistical Centre of Iran" 
+  web = "چکیده نتایج آمارگیری نیروی کار ۱۳۹۵" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "labor force indicator"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "total"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "male"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "female"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "urban areas"
+      type = "string"
+
+
