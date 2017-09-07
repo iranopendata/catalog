@@ -2,7 +2,7 @@ name = "wrmen1710"
 license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
-period = [, ] 
+period = [ ] 
 category= ["environment"]
 
 [[maintainer]]
