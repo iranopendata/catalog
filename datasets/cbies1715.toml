@@ -1,0 +1,140 @@
+name = "cbies1715"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1386, 1386] 
+category= ["economics", "population"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["price bands", "relative poverty line"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["گروه‌های هزینه", "خط فقر نسبی"]
+
+[author]
+web = "http://cbi.ir/page/6221.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Central Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "average annual gross household expenses for different income groups in gross income categories in 1386" 
+
+[[title]]
+lang = "fa"
+text = "متوسط هزينه ناخالص سالانه يک خانوار برای گروه‌های مختلف هزينه در طبقات هزينه ناخالص در سال ۱۳۸۶"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی وزارت امور اقتصاد و دارایی، مديريت كل آمارهای اقتصادی، اداره آمار اقتصادی، دايره بررسی بودجه خانوار گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from the official website of The Economic Affairs and Finance, the General Directorate of Economic Statistics, the Bureau of Economic Statistics, the Household Budget Survey Circle."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/es/cbies1715fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/es/cbies1715en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "average annual gross household expenses for different income groups in gross income categories in 1386"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "متوسط هزينه ناخالص سالانه يک خانوار برای گروه‌های مختلف هزينه در طبقات هزينه ناخالص در سال ۱۳۸۶"
+
+  [[resources.sources]]
+  name = "Central Bank of Iran" 
+  web = "http://cbi.ir/page/6221.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "expenditure groups "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories – average for a household"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories – up to 10180000"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 10180001  to 13850000"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories – from 13850001 to 18840000 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 18840001 to 25630000"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories – from 25630001 to 34870000"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 34870001 to 47440000"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 47440001 to 64540000"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 64540001 to 87810000  "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 87810001  to 119460000  "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 119460001  to 162520000 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 162520001  to 221100000 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 221100001  to 300810000 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories - from 300810001  to 409240000 "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "expenditure categories – from 409240001  to 556800000"
+      type = "string"
+
+
