@@ -1,0 +1,132 @@
+name = "sacbgs1741"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1392, 1392] 
+category= ["budget"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["budget", "budget settlement"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بودجه", "تفریغ بودجه"]
+
+[author]
+web = "http://www.dmk.ir/dorsapax/userfiles/file/band001.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "ديوان محاسبات کشور"
+
+  [[author.name]]
+  lang = "en"
+  text = "Supreme Audit Court"
+
+[[title]]
+lang = "en" 
+text = "Budget settlement single article of budget law of the country in 1392" 
+
+[[title]]
+lang = "fa"
+text = "تفريغ ماده واحده قانون بودجه سال ۱۳۹۲ كل کشور"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت دیوان محاسبه کل کشور گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from the website of Supreme Audit Court."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/sacbgs1741fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/sacbgs1741en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Budget settlement single article of budget law of the country in 1392"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تفريغ ماده واحده قانون بودجه سال ۱۳۹۲ كل کشور"
+
+  [[resources.sources]]
+  name = "Supreme Audit Court" 
+  web = "http://www.dmk.ir/dorsapax/userfiles/file/band001.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "title"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "forecast according to the budget law (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "increase and decrese (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "budget prediction after applying changes (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "performance bills (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "settlement of budget(million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "column percentage"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "title"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Estimated according to budget law (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "increase decrease (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "budget prediction after applying changes (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "performance bills (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "settlement of budget (million IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "column differences (million IRR)"
+      type = "string"
+
+
