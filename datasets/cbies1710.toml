@@ -34,7 +34,7 @@ web = "http://cbi.ir/page/11495.aspx"
 
 [[title]]
 lang = "en" 
-text = "average gross cost of one households divided by different price bands in different price classes in between 1382 to 1391" 
+text = "Average gross cost of one households divided by different price bands in different price classes in between 1382 to 1391" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset extracted from the official website of The Economic Affairs and 
 
   [[resources.title]]
   lang = "en" 
-  text = "average gross cost of one households divided by different price bands in different price classes in between 1382 to 1391"
+  text = "Average gross cost of one households divided by different price bands in different price classes in between 1382 to 1391"
 
   [[resources.title]]
   lang = "fa"

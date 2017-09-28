@@ -34,7 +34,7 @@ web = "http://irandataportal.syr.edu/wp-content/uploads/budget-1387.pdf"
 
 [[title]]
 lang = "en" 
-text = "expenditures of main devices in 1387" 
+text = "Expenditures of main devices in 1387" 
 
 [[title]]
 lang = "fa"
@@ -60,7 +60,7 @@ text = "Dataset exctracted from Table 2-1 from pages 68 to 130, The 1387 executi
 
   [[resources.title]]
   lang = "en" 
-  text = "expenditures of main devices in 1387"
+  text = "Expenditures of main devices in 1387"
 
   [[resources.title]]
   lang = "fa"
