@@ -1,0 +1,180 @@
+name = "wrnen1719-list_of_Iran_dams-1396"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1396, 1396] 
+category= ["environment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["water", "water resources", "dam", "consultant", "contractor"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["آب", "منابع آب", "سد", "مشاور", "پیمانکار"]
+
+[author]
+web = "http://daminfo.wrm.ir/fa/dam/tabularview"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "شرکت مدیریت منابع آب ایران معاونت طرح و توسعه"
+
+  [[author.name]]
+  lang = "en"
+  text = "Iran Water Resources Management Company Design and Development"
+
+[[title]]
+lang = "en" 
+text = "List of Iran dams and relevent information" 
+
+[[title]]
+lang = "fa"
+text = "فهرست سدهای غیرمرزی ایران و اطلاعات مربوط به آن"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی مدیریت منابع آب ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from the website of water resources management."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/en/wrnen1719-list_of_Iran_dams-1396-fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/en/wrnen1719-list_of_Iran_dams-1396-en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "List of Iran dams and relevent information"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "فهرست سدهای غیرمرزی ایران و اطلاعات مربوط به آن"
+
+  [[resources.sources]]
+  name = "Iran Water Resources Management Company Design and Development" 
+  web = "http://daminfo.wrm.ir/fa/dam/tabularview" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "dam name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "URL source"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "city"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "dam location"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "purpose of dam"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "annually adjustable water"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "main basin"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "sub basin"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "river name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "type of dam"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "start year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "end year"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "contractor"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "consultant"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "google maps"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "crest width (meter)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "height from foundation (meter)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "height from the ground (meter)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "dam structure (million square meter)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Reservoir capacity under normal conditions (million square meter)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "status"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "process percentage"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "useful volume (million cubic meter)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "nominal capacity of the power plant (mw)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "latitude"
+      type = "string"
+
+
