@@ -34,11 +34,11 @@ web = "http://daminfo.wrm.ir/fa/dam/tabularview"
 
 [[title]]
 lang = "en" 
-text = "List of Iran dams and relevent information" 
+text = "List of Iran dams and relevent information for year 1396" 
 
 [[title]]
 lang = "fa"
-text = "فهرست سدهای غیرمرزی ایران و اطلاعات مربوط به آن"
+text = "فهرست سدهای غیرمرزی ایران و اطلاعات مربوط به آن‌ها در سال ۱۳۹۶"
 
 [[description]]
 lang = "fa"
@@ -60,11 +60,11 @@ text = "Dataset extracted from the website of water resources management."
 
   [[resources.title]]
   lang = "en" 
-  text = "List of Iran dams and relevent information"
+  text = "List of Iran dams and relevent information for year 1396"
 
   [[resources.title]]
   lang = "fa"
-  text = "فهرست سدهای غیرمرزی ایران و اطلاعات مربوط به آن"
+  text = "فهرست سدهای غیرمرزی ایران و اطلاعات مربوط به آن‌ها در سال ۱۳۹۶"
 
   [[resources.sources]]
   name = "Iran Water Resources Management Company Design and Development" 
