@@ -1,0 +1,100 @@
+name = "tsetmcbf1742-bank_lists_shareholders-1396"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1396, 1396] 
+category= ["banking and finance", "economic sector"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["bank", "banking", "credit union", "foreign bank", "nongovernmental bank", "governemental bank"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["بانک", "بانکداری", "موسسات اعتباری", "بانک خارجی", "بانک غیردولتی", "بانک دولتی"]
+
+[author]
+web = "http://cbi.ir/BanksInstitutions/BankInstitute.aspx"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "بانک مرکزی جمهوری اسلامی ایران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Central Bank of Iran"
+
+[[title]]
+lang = "en" 
+text = "List of banks in Iran" 
+
+[[title]]
+lang = "fa"
+text = "لیست بانک‌های موجود در ایران"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی بانک مرکزی ایران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from the website of Central Bank of Iran"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bf/tsetmcbf1742-bank_lists_shareholders-1396-fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bf/tsetmcbf1742-bank_lists_shareholders-1396-en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "List of banks in Iran"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "لیست بانک‌های موجود در ایران"
+
+  [[resources.sources]]
+  name = "Central Bank of Iran" 
+  web = "http://cbi.ir/BanksInstitutions/BankInstitute.aspx" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "bank name"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "type of bank"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "number of branches"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "number of counters"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "address"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "website"
+      type = "string"
+
+
