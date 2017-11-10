@@ -1,0 +1,112 @@
+name = "aqccen1721-air_pollution_stations-1396"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1396, 1396] 
+category= ["environment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["weather", "pollution", "air pollution"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["هوا", "آلودگی", "آلودگی هوا"]
+
+[author]
+web = "https://aqms.doe.ir/Home/AQI#"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "شرکت کنترل کیفیت هوا"
+
+  [[author.name]]
+  lang = "en"
+  text = "Air Quality Control Company"
+
+[[title]]
+lang = "en" 
+text = "List of air quality control stations in Iran in Shahrivar 1396" 
+
+[[title]]
+lang = "fa"
+text = "لیست ایستگاه‌های کنترل کیفیت هوا در کل کشور در شهریور سال ۱۳۹۶"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی شرکت کنترل کیفیت هوا گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from Air Quality Control company."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/en/aqccen1721-air_pollution_stations-1396-fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/en/aqccen1721-air_pollution_stations-1396-en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "List of air quality control stations in Iran in Shahrivar 1396"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "لیست ایستگاه‌های کنترل کیفیت هوا در کل کشور در شهریور سال ۱۳۹۶"
+
+  [[resources.sources]]
+  name = "Air Quality Control Company" 
+  web = "https://aqms.doe.ir/Home/AQI#" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "Province"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Station"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "CO"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "O3"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "NO2"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "SO2"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "PM10"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "PM2.5"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "Index"
+      type = "string"
+
+
