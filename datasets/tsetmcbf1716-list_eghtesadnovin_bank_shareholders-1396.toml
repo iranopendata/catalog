@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1396, 1396] 
-category= ["banking and finance", "economic sector"]
+category= ["banking", "economics"]
 
 [[maintainer]]
 lang = "en" 
