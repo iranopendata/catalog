@@ -1,0 +1,102 @@
+name = "doeen1722-air_quality_stations-1394"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1394, 1394] 
+category= ["environment"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["weather", "pollution", "air pollution"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["هوا", "آلودگی", "آلودگی هوا"]
+
+[author]
+web = "https://www.doe.ir/Portal/file/?461318/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%84%D8%B9%D9%85%D9%84--%D8%A7%D9%8A%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "سازمان حفاظت محیط زیست"
+
+  [[author.name]]
+  lang = "en"
+  text = "Department of Environment"
+
+[[title]]
+lang = "en" 
+text = "List of Iran air quality control stations and their models in 1394" 
+
+[[title]]
+lang = "fa"
+text = "تعداد و مدل ايستگاه‌های پايش كيفی هوای محيط زيست كل
+كشور سال ۱۳۹۴"
+
+[[description]]
+lang = "fa"
+text = "این داده از سایت رسمی سازمان حفاظت محیط زیست گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from the official website of Department of Environment."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/en/doeen1722-air_quality_stations-1394-en.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/en/doeen1722-air_quality_stations-1394-fa.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "List of Iran air quality control stations and their models in 1394"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "تعداد و مدل ايستگاه‌های پايش كيفی هوای محيط زيست كل
+كشور سال ۱۳۹۴"
+
+  [[resources.sources]]
+  name = "Department of Environment" 
+  web = "https://www.doe.ir/Portal/file/?461318/%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D8%A7%D9%84%D8%B9%D9%85%D9%84--%D8%A7%D9%8A%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "نام استان"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "تعداد ایستگاه – Enviro Tech"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "تعداد ایستگاه – Enviro SA"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "تعداد ایستگاه – Horiba"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "تعداد ایستگاه – Enviro Ecotec"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "سایر با ذکر مدل"
+      type = "string"
+
+
