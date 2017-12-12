@@ -3,7 +3,7 @@ license = "CC-BY-NC"
  
 indexed_at = "2016-09-19" 
 period = [1395, 1395] 
-category= ["budget and government spending"]
+category= ["budget"]
 
 [[maintainer]]
 lang = "en" 
