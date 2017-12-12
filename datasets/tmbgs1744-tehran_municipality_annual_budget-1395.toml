@@ -1,0 +1,104 @@
+name = "tmbgs1744-tehran_municipality_annual_budget-1395"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1395, 1395] 
+category= ["budget and government spending"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["Tehran", "budget", "municipality"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["تهران", "بودجه", "شهرداری"]
+
+[author]
+web = "http://iod.dataset.s3.amazonaws.com/Sources/IOD211.pdf"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "شهرداری تهران"
+
+  [[author.name]]
+  lang = "en"
+  text = "Tehran Municipality"
+
+[[title]]
+lang = "en" 
+text = "Revenues and resources approved by Tehran municipality in 1395" 
+
+[[title]]
+lang = "fa"
+text = "درآمدها و منابع مصوب شهرداری تهران در سال ۱۳۹۵"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول صفحه ۲۳ تا ۲۷ گزارش بودجه مصوب سال ۱۳۹۵ شهرداری تهران گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table on pages 23 to 27, the annual budget report approved by Tehran municipality for 1395"
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/tmbgs1744-tehran_municipality_annual_budget-1395-fa.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/bgs/tmbgs1744-tehran_municipality_annual_budget-1395-en.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Revenues and resources approved by Tehran municipality in 1395"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "درآمدها و منابع مصوب شهرداری تهران در سال ۱۳۹۵"
+
+  [[resources.sources]]
+  name = "Tehran Municipality" 
+  web = "http://iod.dataset.s3.amazonaws.com/Sources/IOD211.pdf" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "code"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "title (revenue – assignment of capital and financial assets)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "approved in 1394 – cash (thousand IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "approved in 1394 – non cash (thousand IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "approved in 1394 – total (thousand IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "approved in 1395 – cash (thousand IRR)"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "approved in 1395 – non cash (thousand IRR)"
+      type = "string"
+
+
