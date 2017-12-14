@@ -1,0 +1,100 @@
+name = "mrudho1740-mehr_housing_applicants_divided_by_gender_and_provinces-1392"
+license = "CC-BY-NC"
+ 
+indexed_at = "2016-09-19" 
+period = [1392, 1392] 
+category= ["housing"]
+
+[[maintainer]]
+lang = "en" 
+text = "Small Media Foundation"
+
+[[maintainer]]
+lang = "fa" 
+text = "اسمال مدیا"
+
+[[keywords]]
+lang = "en" 
+wordlist = ["mehr housing", "housing", "household"]
+
+[[keywords]]
+lang = "fa" 
+wordlist = ["مسکن مهر", "مسکن", "خانوار"]
+
+[author]
+web = "http://bit.ly/2zX2EQO"
+
+  [[author.name]] 
+  lang = "fa"
+  text = "وزارت راه و شهرسازی"
+
+  [[author.name]]
+  lang = "en"
+  text = "Ministry of Road and Urban Development"
+
+[[title]]
+lang = "en" 
+text = "Distribution of Mehr housing applicants divided by gender and provinces in 1392" 
+
+[[title]]
+lang = "fa"
+text = "توزيع متقاضيان مسكن مهر بر حسب گروه جنسیت و استان درسال ۱۳۹۲"
+
+[[description]]
+lang = "fa"
+text = "این داده از جدول شماره ۷۸ صفحه ۳۵۴ گزارش شناخت، مستندسازی و ارزيابی برنامه مسكن مهر از سایت رسمی وزارت راه و شهرسازی گرفته شده است."
+
+[[description]]
+lang = "en"
+text = "Dataset extracted from table 78, page 354, Report on the Recognition, Documentation and Evaluation of the Mehr Housing Program, from the official site of the Ministry of Roads and Urban Planning."
+
+[[resources]]
+
+  [[resources.url]] 
+  lang = "fa"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/mrudho1740-mehr_housing_applicants_divided_by_gender_and_provinces-1392-en.csv" 
+
+  [[resources.url]]
+  lang = "en"
+  link = "http://iod.dataset.s3.amazonaws.com/ho/mrudho1740-mehr_housing_applicants_divided_by_gender_and_provinces-1392-fa.csv"
+
+  [[resources.title]]
+  lang = "en" 
+  text = "Distribution of Mehr housing applicants divided by gender and provinces in 1392"
+
+  [[resources.title]]
+  lang = "fa"
+  text = "توزيع متقاضيان مسكن مهر بر حسب گروه جنسیت و استان درسال ۱۳۹۲"
+
+  [[resources.sources]]
+  name = "Ministry of Road and Urban Development" 
+  web = "http://bit.ly/2zX2EQO" 
+
+  [resources.schema]
+  format = "csv"
+
+      [[resources.schema.fields]]
+      name = "نام استان"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "متقاضیان زن – تعداد"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "متقاضیان زن – سهم نسبی"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "متقاضیان مرد – تعداد "
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "متقاضیان مرد – سهم نسبی"
+      type = "string"
+
+      [[resources.schema.fields]]
+      name = "کل متقاضیان – تعداد "
+      type = "string"
+
+
